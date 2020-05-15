@@ -1,14 +1,11 @@
 +++
-# A Demo section created with the Blank widget.
-# Any elements can be added in the body: https://sourcethemes.com/academic/docs/writing-markdown-latex/
-# Add more sections by duplicating this file and customizing to your requirements.
 
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 31  # Order that this section will appear.
 
-title = "Work in Progress"
+title = "In Progress"
 subtitle = ""
 
 [design]
@@ -50,9 +47,11 @@ subtitle = ""
  css_class = ""
 +++
 
+------------
 ### Imperfect Competition and Rents in Labor and Product Markets: The Case of the Construction Industry
 with Kory Kroft, Yao Luo, Magne Mogstad, Bradley Setzler
 
 ### How Much Should we Trust Estimates of Firm Effects and Worker Sorting?
 with Stephane Bonhomme, Kerstin Holzheu, Thibaut Lamadon, Elena Manresa, Magne Mogstad, Bradley Setzler
 
+----------------
