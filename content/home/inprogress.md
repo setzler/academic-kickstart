@@ -49,9 +49,9 @@ subtitle = ""
 
 ------------
 ### Imperfect Competition and Rents in Labor and Product Markets: The Case of the Construction Industry
-with Kory Kroft, Yao Luo, Magne Mogstad, Bradley Setzler
+Kory Kroft, Yao Luo, Magne Mogstad, Bradley Setzler
 
 ### How Much Should we Trust Estimates of Firm Effects and Worker Sorting?
-with Stephane Bonhomme, Kerstin Holzheu, Thibaut Lamadon, Elena Manresa, Magne Mogstad, Bradley Setzler
+Stephane Bonhomme, Kerstin Holzheu, Thibaut Lamadon, Elena Manresa, Magne Mogstad, Bradley Setzler
 
 ----------------
