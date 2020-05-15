@@ -5,6 +5,7 @@ title: "Disability Benefits, Consumption Insurance, and Household Labor Supply"
 authors: [David Autor, Andreas Kostol, Magne Mogstad, admin]
 date: 2019-07-01T00:00:00Z
 doi: ""
+weight: 10
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2019-07-01T00:00:00Z
@@ -30,13 +31,13 @@ featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+links:
+- name: NBER (old)
+  url: https://www.nber.org/papers/w23466
+  icon_pack: 
+  icon: 
 
-url_pdf: "files/Autor-DI.pdf"
+url_pdf: "Autor-Kostol-Mogstad-Setzler.pdf"
 url_code:
 url_dataset:
 url_poster:

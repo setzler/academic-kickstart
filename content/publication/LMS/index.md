@@ -3,8 +3,9 @@
 
 title: "Imperfect Competition, Compensating Differentials and Rent Sharing in the U.S. Labor Market"
 authors: [Thibaut Lamadon, Magne Mogstad, admin]
-date: 2019-11-01T00:00:00Z
+date: 2019-05-01T00:00:00Z
 doi: ""
+weight: 20
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2019-11-01T00:00:00Z
@@ -30,13 +31,13 @@ featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+links:
+- name: NBER
+  url: https://www.nber.org/papers/w25954
+  icon_pack: 
+  icon: 
 
-url_pdf: "files/LMS.pdf"
+url_pdf: "Lamadon-Mogstad-Setzler.pdf"
 url_code:
 url_dataset:
 url_poster:

@@ -3,8 +3,9 @@
 
 title: "The Effects of Foreign Multinationals on Workers and Firms in the United States"
 authors: [admin, Felix Tintelnot]
-date: "2020-02-01T00:00:00Z"
+date: "2019-08-01T00:00:00Z"
 doi: ""
+weight: 20
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-02-01T00:00:00Z"
@@ -30,13 +31,22 @@ featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+links:
+- name: NBER
+  url: https://www.nber.org/papers/w26149
+  icon_pack: 
+  icon: 
+- name: Summary
+  url: "https://bfi.uchicago.edu/insight/research-summary/the-effects-of-foreign-multinationals-on-workers-and-firms-in-the-united-states/"
+  icon_pack: 
+  icon: 
+- name: The Economist
+  url: "https://www.economist.com/finance-and-economics/2019/08/22/who-wins-from-foreign-investment"
+  icon_pack: 
+  icon: 
+  
 
-url_pdf: "files/foreign-multinationals.pdf"
+url_pdf: "Setzler-Tintelnot.pdf"
 url_code:
 url_dataset:
 url_poster:
