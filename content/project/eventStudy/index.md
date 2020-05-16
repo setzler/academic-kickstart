@@ -7,11 +7,11 @@ publishDate: "2019-01-02T00:00:00Z"
 summary: R package and guide for performing event studies with heterogeneous dynamic effects. 
 
 image:
-  placement: 1
-  caption: "Photo by [Academic](https://sourcethemes.com/academic/)"
-  focal_point: "Center"
+  placement: 2
+  caption: ""
+  focal_point: "Bottom"
   preview_only: false
-  alt_text: An optional description of the image for screen readers.
+  alt_text: 
 
 # links:
 # - name: ""
@@ -29,12 +29,12 @@ url_video: ''
 
 `eventStudy` is an R package and guide for performing event studies with heterogeneous dynamic effects. It provides point estimates and standard errors for average treatment effects on the treated (ATT) parameters that vary by treatment cohort and event time.
 
-The package provides a single command that handles everything automatically, including complicated data manipulation and regression steps, such as:
+The package provides a single command that handles all steps automatically, including complicated data manipulation and regression steps, such as:
 - "stacking" control units and employing a fully-interacted regression to estimate the various ATTs,
 - correcting for anticipation and deviations from parallel trends using parametric and non-parametric approaches,
 - providing various summary ATT estimates collapsed across treatment cohorts and/or event times with appropriate clustered standard errors.
 
-Simply install using `devtools::install_github("setzler/eventStudy/eventStudy")`, then the entire data preparation and estimation process is performed in one line using the `ES` command.
+Simply install with `devtools::install_github("setzler/eventStudy/eventStudy")`, then the entire data preparation and estimation process is performed in one line of code using the `ES()` function.
 
-Papers using this software include:
+The event studies in the following papers were estimated with this software:
 - "Imperfect Competition and Rents in Labor and Product Markets: The Case of the Construction Industry," by Kroft, Luo, Mogstad, and Setzler

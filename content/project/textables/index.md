@@ -4,14 +4,14 @@ title: "textables"
 publishDate: "2018-07-14T00:00:00Z"
 
 # Summary. An optional shortened abstract.
-summary: R package for producing highly-customized LaTeX tables.
+summary: R package for automatically producing highly-customized LaTeX tables.
 
 image:
-  placement: 1
-  caption: "Photo by [Academic](https://sourcethemes.com/academic/)"
-  focal_point: "Center"
+  placement: 2
+  caption: ""
+  focal_point: "Bottom"
   preview_only: false
-  alt_text: An optional description of the image for screen readers.
+  alt_text: 
 
 # links:
 # - name: ""
@@ -27,11 +27,15 @@ url_video: ''
 
 ---
 
-`textables` is an R package for producing highly-customized LaTeX tables.
+`textables` is an R package for automatically producing highly-customized LaTeX tables.
 
-Simply install using `devtools::install_github("setzler/textables")`, then the entire data preparation and estimation process is performed in one line using the `ES` command.
+Simply install using `devtools::install_github("setzler/textables")`, then:
+- `TR()` creates a LaTeX table row,
+- `%:%` concatenates rows horizontally,
+- `+` stacks rows vertically, and,
+- `TS()` exports the table into LaTeX and compiled PDF files.
 
-100% of the tables in these papers were made using `textables`:
+All of the tables in these papers were made using `textables`:
 - "Imperfect Competition, Compensating Differentials and Rent Sharing in the U.S. Labor Market," by Lamadon, Mogstad, and Setzler.
 - "The Effects of Foreign Multinationals on Workers and Firms in the United States," by Setzler and Tintelnot.
 - "Imperfect Competition and Rents in Labor and Product Markets: The Case of the Construction Industry," by Kroft, Luo, Mogstad, and Setzler.
