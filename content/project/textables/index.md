@@ -27,7 +27,7 @@ url_video: ''
 
 ---
 
-`textables` is an R package for automatically producing highly-customized LaTeX tables.
+[textables](https://github.com/setzler/textables) is an R package for automatically producing highly-customized LaTeX tables.
 
 Simply install using `devtools::install_github("setzler/textables")`, then:
 - `TR()` creates a LaTeX table row,

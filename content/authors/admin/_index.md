@@ -58,7 +58,7 @@ Brad is a postdoctoral fellow in economics at the Becker Friedman Institute for 
 - Public Economics
 
 ### Links:
-- {{% staticref "https://github.com/setzler/CV/blob/master/SetzlerCV.pdf" %}}Download my CV{{% /staticref %}}
+- {{% staticref "files/SetzlerCV.pdf" %}}Download my CV{{% /staticref %}}
 - {{% staticref "#research" %}}View my research{{% /staticref %}}
 - {{% staticref "#software" %}}Try my software{{% /staticref %}}
 

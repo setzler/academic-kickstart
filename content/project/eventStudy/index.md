@@ -27,7 +27,7 @@ url_video: ''
 
 ---
 
-`eventStudy` is an R package and guide for performing event studies with heterogeneous dynamic effects. It provides point estimates and standard errors for average treatment effects on the treated (ATT) parameters that vary by treatment cohort and event time.
+[eventStudy](https://github.com/setzler/eventStudy)  is an R package and guide for performing event studies with heterogeneous dynamic effects. It provides point estimates and standard errors for average treatment effects on the treated (ATT) parameters that vary by treatment cohort and event time.
 
 The package provides a single command that handles all steps automatically, including complicated data manipulation and regression steps, such as:
 - "stacking" control units and employing a fully-interacted regression to estimate the various ATTs,
