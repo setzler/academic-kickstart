@@ -18,7 +18,7 @@ image:
 #   url: ""
 url_pdf: ''
 url_code: 'https://github.com/setzler/EconData/'
-url_dataset: 'https://github.com/setzler/EconData/DataRepo/CorpTax'
+url_dataset: 'https://github.com/setzler/EconData/tree/master/DataRepo/StateCorpTax'
 url_poster: ''
 url_project: ''
 url_slides: ''
