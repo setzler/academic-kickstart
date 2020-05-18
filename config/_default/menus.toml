@@ -13,15 +13,20 @@
   url = "#research"
   weight = 20
 
-# Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-[[main]]
-   name = "CV"
-   url = "files/SetzlerCV.pdf"
-   weight = 40
-
 [[main]]
   name = "Software"
   url = "#software"
   weight = 30
+
+[[main]]
+  name = "Data"
+  url = "#datasets"
+  weight = 40
+
+[[main]]
+   name = "CV"
+   url = "files/SetzlerCV.pdf"
+   weight = 50
+
+
 
