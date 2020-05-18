@@ -37,7 +37,7 @@ links:
   icon_pack: 
   icon: 
 
-url_pdf: "Lamadon-Mogstad-Setzler.pdf"
+url_pdf: "files/Lamadon-Mogstad-Setzler.pdf"
 url_code:
 url_dataset:
 url_poster:

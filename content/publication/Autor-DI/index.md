@@ -39,7 +39,7 @@ links:
   icon_pack: 
   icon: 
 
-url_pdf: "Autor-Kostol-Mogstad-Setzler.pdf"
+url_pdf: "files/Autor-Kostol-Mogstad-Setzler.pdf"
 url_code:
 url_dataset:
 url_poster:

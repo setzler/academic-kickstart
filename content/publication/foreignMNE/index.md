@@ -46,7 +46,7 @@ links:
   icon: 
   
 
-url_pdf: "Setzler-Tintelnot.pdf"
+url_pdf: "files/Setzler-Tintelnot.pdf"
 url_code:
 url_dataset:
 url_poster:
