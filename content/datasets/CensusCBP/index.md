@@ -17,7 +17,7 @@ image:
 # - name: ""
 #   url: ""
 url_pdf: ''
-url_code: 'https://github.com/setzler/EconData/'
+url_code: 'https://github.com/setzler/EconData'
 url_dataset: 'https://github.com/setzler/EconData/DataRepo/CensusCBP'
 url_poster: ''
 url_project: ''
