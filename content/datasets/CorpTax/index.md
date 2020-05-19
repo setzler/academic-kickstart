@@ -1,10 +1,10 @@
 ---
-title: "State Corporate Tax"
+title: "State Corporate Tax Rate"
 
 publishDate: "2019-01-02T00:00:00Z"
 
 # Summary. An optional shortened abstract.
-summary: 2000-2015 top corporate tax rates by state. Extends to more recent years and improves upon data by Giroud & Rauh (2020).
+summary: 2000-2020 top corporate tax rates by state. Extends the data set of Giroud & Rauh (2020), which ends in 2012.
 
 image:
   placement: 2
@@ -27,4 +27,4 @@ url_video: ''
 
 ---
 
-2000-2015 top corporate tax rates by state. Extends and improves upon data by Giroud & Rauh (2020).
+2000-2020 top corporate tax rates by state. Extends the data set of Giroud & Rauh (2020), which ends in 2012.
