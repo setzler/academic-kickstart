@@ -1,5 +1,5 @@
 ---
-title: "State Corporate Tax Rate"
+title: "State Corporate Tax Rates"
 
 publishDate: "2019-01-02T00:00:00Z"
 
