@@ -18,7 +18,7 @@ image:
 #   url: ""
 url_pdf: ''
 url_code: 'https://github.com/setzler/EconData'
-url_dataset: 'https://github.com/setzler/EconData/DataRepo/CensusCBP'
+url_dataset: 'https://github.com/setzler/EconData/tree/master/DataRepo/CensusCBP'
 url_poster: ''
 url_project: ''
 url_slides: ''
@@ -27,4 +27,4 @@ url_video: ''
 
 ---
 
-2001-2017 Census CBP data on employment, payrolls, and establishments at various levels of aggregation (e.g., county by 2-digit industry). 
+2001-2017 Census CBP data on employment, payrolls, and establishments at various levels of aggregation (such as county by industry). 
