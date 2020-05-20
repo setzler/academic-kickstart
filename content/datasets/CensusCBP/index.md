@@ -3,7 +3,7 @@ title: "Census CBP"
 
 publishDate: "2019-01-02T00:00:00Z"
 
-weight = 31 
+weight: 31 
 
 # Summary. An optional shortened abstract.
 summary: 2001-2017 Census CBP data on employment, payrolls, and establishments at various levels of aggregation (e.g., industry-by-county). 

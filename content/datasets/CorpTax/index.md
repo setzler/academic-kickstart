@@ -3,10 +3,10 @@ title: "State Corporate Tax Rates"
 
 publishDate: "2019-01-02T00:00:00Z"
 
-weight = 10
+weight: 10
 
 # Summary. An optional shortened abstract.
-summary: 2000-2020 top corporate tax rates by state. Extends the data set of Giroud & Rauh (2020), which ends in 2012.
+summary: 2000-2020 top corporate tax rates by state. Extends the data set of Giroud & Rauh (2020) which ends in 2012.
 
 image:
   placement: 2
