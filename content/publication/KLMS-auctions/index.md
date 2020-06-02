@@ -34,9 +34,14 @@ featured: false
 
 # links:
 # - name: NBER
-#  url: https://www.nber.org/papers/w26149
-#  icon_pack: 
-#  icon: 
+#   url: https://www.nber.org/papers/w26149
+#   icon_pack:
+#   icon:
+
+- name: Scheduled: NBER SI 2020
+  url: https://conference.nber.org/sched/SI20LS
+  icon_pack: 
+  icon: 
 
 url_pdf: "files/Kroft-Luo-Mogstad-Setzler.pdf"
 url_code:
