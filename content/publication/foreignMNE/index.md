@@ -3,7 +3,7 @@
 
 title: "The Effects of Foreign Multinationals on Workers and Firms in the United States"
 authors: [admin, Felix Tintelnot]
-date: "2019-08-01T00:00:00Z"
+date: "2020-02-01T00:00:00Z"
 doi: ""
 weight: 20
 
@@ -20,7 +20,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: "Governments go to great lengths to attract foreign multinationals because they are thought to raise the wages paid to their employees (direct effects) and to improve outcomes at local domestic firms (indirect effects). We construct the first U.S. employer-employee dataset with foreign ownership information from tax records to measure these direct and indirect effects. We find the average direct effect of a foreign multinational firm on its U.S. workers is a 7 percent increase in wages. This premium is larger for higher skilled workers and for the employees of firms from high GDP per capita countries. We find evidence that it is membership in a multinational production network—instead of foreignness—that generates the foreign firm premium. We leverage the past spatial clustering of foreign-owned firms by country of ownership to identify the indirect effects. An expansion in the foreign multinational share of commuting zone employment substantially increases the employment, value added, and—for higher earning workers—wages at local domestic-owned firms. Per job created by a foreign multinational, our estimates suggest annual gains of 16,000 USD to the aggregate wages of local incumbents, of which about two-thirds is due to indirect effects. Our estimates suggest that—via mega-deals for subsidies from local governments—foreign multinationals are able to extract a sizable fraction of the local surplus they generate"
+abstract: "Governments go to great lengths to attract foreign multinationals because they are thought to raise the wages paid to their employees (direct effects) and to improve outcomes at local domestic firms (indirect effects). We construct the first U.S. employer-employee dataset with foreign ownership information from tax records to measure these direct and indirect effects. We find the average direct effect of a foreign multinational firm on its U.S. workers is a 7 percent increase in wages. This premium is larger for higher skilled workers and for the employees of firms from high GDP per capita countries. We find evidence that it is membership in a multinational production network—instead of foreignness—that generates the foreign firm premium. We leverage the past spatial clustering of foreign-owned firms by country of ownership to identify the indirect effects. An expansion in the foreign multinational share of commuting zone employment substantially increases the employment, value added, and—for higher earning workers—wages at local domestic-owned firms. Per job created by a foreign multinational, our estimates suggest annual gains of 16,000 USD to the aggregate wages of local incumbents, of which about two-thirds is due to indirect effects. Our estimates suggest that—via mega-deals for subsidies from local governments—foreign multinationals are able to extract a sizable fraction of the local surplus they generate."
 
 # Summary. An optional shortened abstract.
 summary: Revision requested by the ***Quarterly Journal of Economics*** in April 2020
