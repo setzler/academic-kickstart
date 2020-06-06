@@ -3,12 +3,12 @@
 
 title: "Imperfect Competition and Rents in Labor and Product Markets: The Case of the Construction Industry"
 authors: [Kory Kroft, Yao Luo, Magne Mogstad, admin]
-date: "2020-06-02T00:00:00Z"
+date: "2020-05-29T00:00:00Z"
 doi: ""
-weight: 10
+weight: 12
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-06-02T00:00:00Z"
+publishDate: "2020-05-29T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
