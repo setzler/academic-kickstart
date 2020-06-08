@@ -65,10 +65,10 @@ Brad is a postdoctoral fellow in economics at the Becker Friedman Institute for 
 - Public Economics
 
 ### Key Words (JEL Codes):
-- market power, monopsony, labor supply, rents (J31, L11)
-- wage inequality, firm premium, job mobility (J42, J62)
+- market power, labor supply, labor demand, monopsony, rents (J42, J23)
+- wage inequality, firm premium, job mobility, layoffs (J31, J62)
 - interactions of trade and labor, multinational firms and labor (F16, F23)
-- household consumption, social insurance, disability, layoffs (D15, J65)
+- household consumption, social insurance, disability, unemployment (D15, J65)
 
 
 -------
