@@ -50,12 +50,7 @@ email: ""
 # - Visitors
 ---
 
-Brad is a postdoctoral fellow in economics at the Becker Friedman Institute for Economics, University of Chicago. 
-
-### Interests:
-- Labor Economics
-- International Trade
-- Public Economics
+Brad is a postdoctoral fellow in economics at the Becker Friedman Institute for Economics, University of Chicago. Contact: bradley.setzler@gmail.com
 
 ### Links:
 - {{% staticref "files/SetzlerCV.pdf" %}}Download my CV{{% /staticref %}}
@@ -63,6 +58,17 @@ Brad is a postdoctoral fellow in economics at the Becker Friedman Institute for 
 - {{% staticref "#software" %}}Try my software{{% /staticref %}}
 - {{% staticref "#datasets" %}}Use my data{{% /staticref %}}
 
-Contact: bradley.setzler@gmail.com
+
+### Interests:
+- Labor Economics
+- International Trade
+- Public Economics
+
+### Key Words (JEL Codes):
+- marker power, monopsony, labor supply, rents (J31, L11)
+- wage inequality, firm premium, job mobility (J42, J62)
+- interactions of trade and labor, multinational firms (F16, F23)
+- household consumption, taxes and social insurance (D15, J65)
+
 
 -------
