@@ -68,7 +68,7 @@ Brad is a postdoctoral fellow in economics at the Becker Friedman Institute for 
 - market power, monopsony, labor supply, rents (J31, L11)
 - wage inequality, firm premium, job mobility (J42, J62)
 - interactions of trade and labor, multinational firms and labor (F16, F23)
-- household consumption, social insurance, layoffs (D15, J65)
+- household consumption, social insurance, disability, layoffs (D15, J65)
 
 
 -------
