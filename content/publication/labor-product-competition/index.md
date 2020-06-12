@@ -37,11 +37,11 @@ links:
   url: https://www.nber.org/papers/w27325
   icon_pack:
   icon:
-- name: "Upcoming talk: NBER SI 2020 - Labor Studies"
+- name: "Scheduled: NBER SI Labor Studies"
   url: "https://conference.nber.org/sched/SI20LS"
   icon_pack: 
   icon: 
-- name: "Upcoming talk: Stanford SITE 2020 - Labor Markets"
+- name: "Scheduled: Stanford SITE Labor Markets"
   url: "https://site.stanford.edu/2020/session12"
   icon_pack: 
   icon: 
