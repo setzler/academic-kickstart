@@ -5,7 +5,7 @@ title: "Imperfect Competition and Rents in Labor and Product Markets: The Case o
 authors: [Kory Kroft, Yao Luo, Magne Mogstad, admin]
 date: "2020-05-29T00:00:00Z"
 doi: ""
-weight: 12
+weight: 9
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-05-29T00:00:00Z"
@@ -37,8 +37,12 @@ links:
   url: https://www.nber.org/papers/w27325
   icon_pack:
   icon:
-- name: "Scheduled: NBER SI 2020"
+- name: "Upcoming talk: NBER SI 2020 - Labor Studies"
   url: "https://conference.nber.org/sched/SI20LS"
+  icon_pack: 
+  icon: 
+- name: "Upcoming talk: Stanford SITE 2020 - Labor Markets"
+  url: "https://site.stanford.edu/2020/session12"
   icon_pack: 
   icon: 
 

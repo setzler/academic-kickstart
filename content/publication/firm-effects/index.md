@@ -32,11 +32,11 @@ featured: false
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 
-# links:
-# - name: NBER
-#   url: https://www.nber.org/papers/w26149
-#   icon_pack:
-#   icon:
+links:
+- name: NBER
+  url: https://www.nber.org/papers/w27368
+  icon_pack:
+  icon:
 
 
 url_pdf: "files/BHLMMS.pdf"
