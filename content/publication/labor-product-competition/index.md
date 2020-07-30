@@ -3,12 +3,12 @@
 
 title: "Imperfect Competition and Rents in Labor and Product Markets: The Case of the Construction Industry"
 authors: [Kory Kroft, Yao Luo, Magne Mogstad, admin]
-date: "2020-05-29T00:00:00Z"
+date: "2020-07-30T00:00:00Z"
 doi: ""
 weight: 9
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-05-29T00:00:00Z"
+publishDate: "2020-07-30T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -23,7 +23,7 @@ publication_short: ""
 abstract: "The primary goal of our paper is to quantify the importance of imperfect competition in the U.S. construction industry by estimating the size of rents earned by American firms and workers. To obtain a comprehensive measure of the total rents and to understand its sources, we take into account that rents may arise both due to markdown of wages and markup of prices. Our analyses combine the universe of U.S. business and worker tax records with newly collected records from U.S. procurement auctions. We first examine how firms respond to a plausibly exogenous shift in product demand through a difference-in-differences design that compares first-time procurement auction winners to the firms that lose, both before and after the auction. Motivated and guided by these estimates, we next develop, identify, and estimate a model where construction firms compete with one another for projects in the product market and for workers in the labor market. The firms may participate both in the private market and in government projects, the latter of which are procured through first-price sealed-bid auctions. We find that American construction firms have significant wage- and price-setting power. This imperfect competition generates a considerable amount of rents, two-thirds of which is captured by the firms. Lastly, we use the estimated model to perform counterfactual analyses which reveal how increases in the market power of firms, in the product market or the labor market, would affect the outcomes and behavior of workers and firms in the construction industry."
 
 # Summary. An optional shortened abstract.
-summary: Submitted in May 2020
+summary: "**Submitted in July 2020.** </br>My presentations: [NBER Summer Institute (Labor Studies)](https://conference.nber.org/sched/SI20LS), [Stanford SITE (Labor Markets)](https://site.stanford.edu/2020/session12)"
 
 tags: []
 categories: []
@@ -37,14 +37,6 @@ links:
   url: https://www.nber.org/papers/w27325
   icon_pack:
   icon:
-- name: "Scheduled: NBER SI Labor Studies"
-  url: "https://conference.nber.org/sched/SI20LS"
-  icon_pack: 
-  icon: 
-- name: "Scheduled: Stanford SITE Labor Markets"
-  url: "https://site.stanford.edu/2020/session12"
-  icon_pack: 
-  icon: 
 
 url_pdf: "files/Kroft-Luo-Mogstad-Setzler.pdf"
 url_code:
