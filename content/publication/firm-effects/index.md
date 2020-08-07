@@ -3,12 +3,12 @@
 
 title: "How Much Should we Trust Estimates of Firm Effects and Worker Sorting?"
 authors: [Stephane Bonhomme, Kerstin Holzheu, Thibaut Lamadon, Elena Manresa, Magne Mogstad, admin]
-date: "2020-06-07T00:00:00Z"
+date: "2020-08-06T00:00:00Z"
 doi: ""
 weight: 11
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-06-07T00:00:00Z"
+publishDate: "2020-08-06T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -23,7 +23,7 @@ publication_short: ""
 abstract: "Many studies use matched employer-employee data to estimate a statistical model of earnings determination where log-earnings are expressed as the sum of worker effects, firm effects, covariates, and idiosyncratic error terms. Estimates based on this model have produced two influential yet controversial conclusions. First, firm effects typically explain around 20% of the variance of log-earnings, pointing to the importance of firm-specific wage-setting for earnings inequality. Second, the correlation between firm and worker effects is often small and sometimes negative, indicating little if any sorting of high-wage workers to high-paying firms. The objective of this paper is to assess the sensitivity of these conclusions to the biases that arise because of limited mobility of workers across firms. We use employer-employee data from the U.S. and several European countries while taking advantage of both fixed-effects and random-effects methods for bias correction. We find that limited mobility bias is severe and that bias correction is important. Once one corrects for limited mobility bias, firm effects matter less for earnings inequality and worker sorting becomes always positive and typically strong."
 
 # Summary. An optional shortened abstract.
-summary: Submitted in June 2020
+summary: "**Submitted in August 2020.**"
 
 tags: []
 categories: []
