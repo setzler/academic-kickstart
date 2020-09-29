@@ -38,3 +38,4 @@ Simply install with `devtools::install_github("setzler/eventStudy/eventStudy")`,
 
 The event studies in the following papers were estimated with this software:
 - "Imperfect Competition and Rents in Labor and Product Markets: The Case of the Construction Industry," by Kroft, Luo, Mogstad, and Setzler
+- "Labor Supply, Income Effects, and Optimal Taxation: Evidence from American Lottery Winners," by Golosov, Graber, Mogstad, and Novgorodsky
