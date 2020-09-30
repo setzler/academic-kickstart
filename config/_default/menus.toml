@@ -14,6 +14,12 @@
   weight = 20
 
 [[main]]
+  name = "CV"
+  url = "files/SetzlerCV.pdf"
+  weight = 25
+
+
+[[main]]
   name = "Software"
   url = "#software"
   weight = 30
@@ -23,10 +29,6 @@
   url = "#datasets"
   weight = 40
 
-[[main]]
-   name = "CV"
-   url = "files/SetzlerCV.pdf"
-   weight = 50
 
 
 
