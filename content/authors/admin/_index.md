@@ -53,10 +53,10 @@ email: ""
 Brad is a postdoctoral fellow in economics (pre-job-market) at the Becker Friedman Institute for Economics, University of Chicago. His primary field of interest is labor economics. Contact: bradley.setzler@gmail.com
 
 ### Links:
-- {{% staticref "files/SetzlerCV.pdf" %}}Download my CV{{% /staticref %}}
-- {{% staticref "#research" %}}View my research{{% /staticref %}}
-- {{% staticref "#software" %}}Try my software{{% /staticref %}}
-- {{% staticref "#datasets" %}}Use my data{{% /staticref %}}
+- {{% staticref "#research" %}}Research{{% /staticref %}}
+- {{% staticref "files/SetzlerCV.pdf" %}}CV{{% /staticref %}}
+- {{% staticref "#software" %}}Software{{% /staticref %}}
+- {{% staticref "#datasets" %}}Data{{% /staticref %}}
 
 
 ### My Key Words (and JEL Codes):
