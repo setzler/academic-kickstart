@@ -60,10 +60,10 @@ Brad is a postdoctoral fellow in economics (pre-job-market) at the Becker Friedm
 
 
 ### My Key Words (and JEL Codes):
-- labor supply, labor demand, market power, monopsony, rents (J42, J23)
+- labor supply, labor demand, market power, monopsony (J42, J23)
 - wage inequality, firm premium, job mobility, layoffs (J31, J62)
-- interactions of trade and labor, multinational firms and labor (F16, F23)
-- household consumption, social insurance, disability, unemployment (D15, J65)
+- production networks and labor, innovation and labor (F16, D22, O33)
+- household consumption, social insurance, disability (J65, D15)
 
 
 -------
