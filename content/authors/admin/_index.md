@@ -57,7 +57,8 @@ Brad is a postdoctoral fellow in economics (pre-job-market) at the Becker Friedm
 - {{% staticref "files/SetzlerCV.pdf" %}}CV{{% /staticref %}}
 - {{% staticref "#software" %}}Software{{% /staticref %}}
 - {{% staticref "#datasets" %}}Data{{% /staticref %}}
-- Contact: bradley.setzler@gmail.com
+
+Contact: bradley.setzler@gmail.com
 
 
 
