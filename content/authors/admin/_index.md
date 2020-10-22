@@ -65,7 +65,7 @@ Contact: bradley.setzler@gmail.com
 ### Key Words:
 - labor demand, labor supply, monopsony, wage structure
 - firm premium, labor productivity, skill premium
-- production networks and labor, innovation and labor
+- innovation and labor, production networks and labor
 - consumption, disability, layoffs, social insurance
 
 
