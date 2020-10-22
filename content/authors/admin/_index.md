@@ -50,13 +50,15 @@ email: ""
 # - Visitors
 ---
 
-Brad is a postdoctoral fellow in economics (pre-job-market) at the Becker Friedman Institute for Economics, University of Chicago. His primary field of interest is labor economics. Contact: bradley.setzler@gmail.com
+Brad is a postdoctoral fellow in economics (pre-job-market) at the Becker Friedman Institute for Economics, University of Chicago. His primary field of interest is labor economics. 
 
 ### Links:
 - {{% staticref "#research" %}}Research{{% /staticref %}}
 - {{% staticref "files/SetzlerCV.pdf" %}}CV{{% /staticref %}}
 - {{% staticref "#software" %}}Software{{% /staticref %}}
 - {{% staticref "#datasets" %}}Data{{% /staticref %}}
+- Contact: bradley.setzler@gmail.com
+
 
 
 ### Key Words:
