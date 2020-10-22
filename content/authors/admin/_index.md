@@ -66,7 +66,7 @@ Contact: bradley.setzler@gmail.com
 - labor demand, labor supply, monopsony, wage structure
 - firm premium, labor productivity, skill premium
 - innovation and labor, production networks and labor
-- consumption, disability, layoffs, social insurance
+- progressive taxation, social insurance, unemployment
 
 
 -------
