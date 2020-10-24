@@ -52,20 +52,16 @@ email: ""
 
 Brad is a postdoctoral fellow in economics (pre-job-market) at the Becker Friedman Institute for Economics, University of Chicago. His primary field of interest is labor economics. 
 
-### Links:
-- {{% staticref "#research" %}}Research{{% /staticref %}}
-- {{% staticref "files/SetzlerCV.pdf" %}}CV{{% /staticref %}}
-- {{% staticref "#software" %}}Software{{% /staticref %}}
-- {{% staticref "#datasets" %}}Data{{% /staticref %}}
+**Links:** {{% staticref "#research" %}}Research{{% /staticref %}} | {{% staticref "files/SetzlerCV.pdf" %}}CV{{% /staticref %}} | {{% staticref "#software" %}}Software{{% /staticref %}} | {{% staticref "#datasets" %}}Data{{% /staticref %}}
 
-Contact: bradley.setzler@gmail.com
+**Contact:** bradley.setzler@gmail.com
 
 
 
-### Key Words:
-- labor demand, labor supply, monopsony, wage structure
-- firm premium, labor productivity, skill premium
-- innovation and labor, production networks and labor
+**Key Words:**
+- labor demand, labor supply, wage structure, monopsony
+- firm pay premiums, skill premiums, skill-biased technology
+- labor productivity, innovation, production networks
 - progressive taxation, social insurance, unemployment
 
 
