@@ -57,10 +57,11 @@ Brad is a postdoctoral fellow in economics (pre-job-market) at the Becker Friedm
 **Contact:** bradley.setzler@gmail.com
 
 **Interests:** Labor economics, in particular:
-- labor demand, labor supply, wage structure, monopsony
-- firm pay premiums, skill premiums, skill-biased technology
-- labor productivity, innovation, production networks
-- progressive taxation, social insurance, unemployment
+- labor demand, labor supply, wage structure
+- wage setting, monopsony, rent-sharing
+- firm premiums, skill premiums, skill bias
+- labor productivity, production networks
+- progressive wage taxation and insurance
 
 
 -------
