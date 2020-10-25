@@ -61,7 +61,7 @@ Brad is a postdoctoral fellow in economics (pre-job-market) at the Becker Friedm
 - monopsony, rent sharing, firm premiums
 - skill premiums, skill-biased technology
 - labor productivity, production networks
-- progressive wage taxation, job loss insurance
+- wage taxes and credits, job loss insurance
 
 
 -------
