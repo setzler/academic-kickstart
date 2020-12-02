@@ -3,7 +3,7 @@
 
 title: "Imperfect Competition, Compensating Differentials and Rent Sharing in the U.S. Labor Market"
 authors: [Thibaut Lamadon, Magne Mogstad, admin]
-date: 2019-05-01T00:00:00Z
+date: 2020-12-01T00:00:00Z
 doi: ""
 weight: 20
 
