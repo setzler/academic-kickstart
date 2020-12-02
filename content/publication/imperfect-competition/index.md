@@ -8,7 +8,7 @@ doi: ""
 weight: 20
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2019-11-01T00:00:00Z
+publishDate: 2020-12-01T00:00:00Z
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -23,7 +23,7 @@ publication_short: ""
 abstract: "The primary goal of our paper is to quantify the importance of imperfect competition in the U.S. labor market by estimating the size of rents earned by American firms and workers from ongoing employment relationships. To this end, we construct a matched employer-employee panel data set by combining the universe of U.S. business and worker tax records for the period 2001-2015. We describe several important features of the U.S. labor market, including the size of firm-specific wage premiums, the sorting of workers to firms, the production complementarities between high ability workers and productive firms, and the pass-through of firm and market shocks to workers' wages. Guided by these empirical results, we develop, identify and estimate an equilibrium model of the labor market with two-sided heterogeneity where workers view firms as imperfect substitutes because of heterogeneous preferences over non-wage job characteristics. The model allows us to draw inference about imperfect competition, compensating differentials and rent sharing. We also use the model to quantify the relevance of non-wage job characteristics and imperfect competition for inequality and tax policy, to assess the economic determinants of worker sorting, and to offer a unifying explanation of key empirical features of the U.S. labor market."
 
 # Summary. An optional shortened abstract.
-summary: "**Revision requested by the <ins>*American Economic Review*</ins> in November 2019**."
+summary: "**Revision requested by the <ins>*American Economic Review*</ins> (second round), resubmitted in December 2020**."
 
 tags: []
 categories: []
@@ -34,6 +34,11 @@ featured: false
 links:
 - name: NBER
   url: https://www.nber.org/papers/w25954
+  icon_pack: 
+  icon: 
+  
+- name: "Supplement: Firm Effects"
+  url: "files/LMS-supplement.pdf"
   icon_pack: 
   icon: 
 
