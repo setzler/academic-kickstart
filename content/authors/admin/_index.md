@@ -60,7 +60,7 @@ Brad is a postdoctoral fellow in economics (pre-job-market) at the Becker Friedm
 - wage structure, labor demand, labor supply
 - monopsony, rent sharing, firm premiums
 - skill premiums, skill-biased technology
-- labor productivity, production networks
+- production networks, multinational production
 - wage taxes and credits, job loss insurance
 
 
