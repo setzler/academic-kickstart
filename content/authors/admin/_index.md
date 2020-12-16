@@ -50,18 +50,19 @@ email: ""
 # - Visitors
 ---
 
-Brad is a postdoctoral fellow in economics (pre-job-market) at the Becker Friedman Institute for Economics, University of Chicago. 
+Postdoctoral fellow in economics (pre-job-market) at the Becker Friedman Institute for Economics, University of Chicago. 
 
 **Links:** {{% staticref "#research" %}}Research{{% /staticref %}} | {{% staticref "files/SetzlerCV.pdf" %}}CV{{% /staticref %}} | {{% staticref "#software" %}}Software{{% /staticref %}} | {{% staticref "#datasets" %}}Data{{% /staticref %}}
 
 **Contact:** bradley.setzler@gmail.com
 
-**Interests:** Labor economics, in particular:
-- wage structure, labor demand, labor supply
+**Interests:** I am an applied economist with broad research interests centered around labor economics and extending into industrial organization, international economics, public economics, and applied econometrics. Topics I have studied include:
+- labor market structure, wage inequality
 - monopsony, rent sharing, firm premiums
 - skill premiums, skill-biased technology
-- production networks, multinational production
-- wage taxes and credits, job loss insurance
+- labor productivity, production networks
+- international economics and labor
+- job subsidies, disability insurance
 
 
 -------
