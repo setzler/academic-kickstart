@@ -39,7 +39,7 @@ links:
   icon:
 
 
-url_pdf: "files/BHLMMS.pdf"
+url_pdf: "files/BHLMM-Setzler.pdf"
 url_code:
 url_dataset:
 url_poster:
