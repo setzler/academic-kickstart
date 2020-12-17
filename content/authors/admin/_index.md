@@ -61,7 +61,7 @@ Postdoctoral fellow in economics (pre-job-market) at the Becker Friedman Institu
 - monopsony, rent sharing, firm premiums
 - skill premiums, skill-biased technology
 - labor productivity, production networks
-- international economics and labor
+- multinational production and local labor
 - job subsidies, disability insurance
 
 
