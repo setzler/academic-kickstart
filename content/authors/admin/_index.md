@@ -56,7 +56,7 @@ Postdoctoral fellow in economics (pre-job-market) at the Becker Friedman Institu
 
 **Contact:** bradley.setzler@gmail.com
 
-**Interests:** I am an applied economist with broad research interests centered around labor economics and extending into industrial organization, international economics, public economics, and applied econometrics. Specific interests:
+**Interests:** I am an applied economist with broad research interests centered around labor economics and extending into international and public economics. Specific interests:
 - labor market structure, wage inequality
 - monopsony, rent sharing, firm premiums
 - skill premiums, skill-biased technology
