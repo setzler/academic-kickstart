@@ -50,7 +50,7 @@ email: ""
 # - Visitors
 ---
 
-Postdoctoral fellow in economics at the Becker Friedman Institute for Economics, University of Chicago.
+Postdoctoral fellow, Becker Friedman Institute for Economics, University of Chicago.
 
 **Links:** {{% staticref "#research" %}}Research{{% /staticref %}} | {{% staticref "files/SetzlerCV.pdf" %}}CV{{% /staticref %}} | {{% staticref "#software" %}}Software{{% /staticref %}} | {{% staticref "#datasets" %}}Data{{% /staticref %}}
 
