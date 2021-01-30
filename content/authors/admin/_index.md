@@ -50,7 +50,7 @@ email: ""
 # - Visitors
 ---
 
-Postdoctoral fellow in economics (pre-job-market) at the Becker Friedman Institute for Economics, University of Chicago. 
+Postdoctoral fellow in economics at the Becker Friedman Institute for Economics, University of Chicago.
 
 **Links:** {{% staticref "#research" %}}Research{{% /staticref %}} | {{% staticref "files/SetzlerCV.pdf" %}}CV{{% /staticref %}} | {{% staticref "#software" %}}Software{{% /staticref %}} | {{% staticref "#datasets" %}}Data{{% /staticref %}}
 
@@ -61,8 +61,8 @@ Postdoctoral fellow in economics (pre-job-market) at the Becker Friedman Institu
 - monopsony, rent sharing, firm premiums
 - skill premiums, skill-biased technology
 - labor productivity, production networks
-- multinational production and local labor
-- job subsidies, disability insurance
+- multinational production/trade and labor
+- job subsidies, employment insurance
 
 
 -------
