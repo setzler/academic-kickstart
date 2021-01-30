@@ -58,7 +58,7 @@ Starting mid-2021, Assistant Professor in Economics, Pennsylvania State Universi
 
 **Contact:** bradley.setzler@gmail.com
 
-**Interests:** I am an applied economist with broad research interests centered around labor economics and extending into international and public economics. Specific interests:
+**Interests:** Applied micro centered around labor economics and extending into international and public economics. Specific interests:
 - labor market structure, wage inequality
 - monopsony, rent sharing, firm premiums
 - skill premiums, skill-biased technology
