@@ -3,7 +3,7 @@
 
 title: "The Effects of Foreign Multinationals on Workers and Firms in the United States"
 authors: [admin, Felix Tintelnot]
-date: "2021-03-02T00:00:00Z"
+date: "2021-01-02T00:00:00Z"
 doi: ""
 weight: 19
 
