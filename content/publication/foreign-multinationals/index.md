@@ -3,7 +3,7 @@
 
 title: "The Effects of Foreign Multinationals on Workers and Firms in the United States"
 authors: [admin, Felix Tintelnot]
-date: "2021-03-01T00:00:00Z"
+date: "2020-02-01T00:00:00Z"
 doi: ""
 weight: 19
 
@@ -24,6 +24,7 @@ abstract: "Governments go to great lengths to attract foreign multinationals bec
 
 # Summary. An optional shortened abstract.
 summary: "*(Job Market Paper)* </br>**Accepted by <ins>*Quarterly Journal of Economics*</ins> in March 2021**. </br>My presentations: [NBER Labor Studies](http://conference.nber.org/sched/LSs20), [NBER Trade](http://conference.nber.org/sched/ITIf19), [EIIT](https://www.freit.org/EIIT/Archives/AgendaEIIT18.pdf), [ASSA](https://www.aeaweb.org/conference/2018/preliminary/2075?q=eNqrVipOLS7OzM8LqSxIVbKqhnGVrAxrawGlCArI), [UEA](http://www.urbaneconomics.org/meetings/virtual2020/info.html), Chicago, Penn State"
+
 
 tags: []
 categories: []
