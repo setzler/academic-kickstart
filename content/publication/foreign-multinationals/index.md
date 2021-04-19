@@ -33,10 +33,10 @@ featured: false
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
-- name: NBER
-  url: https://www.nber.org/papers/w26149
-  icon_pack: 
-  icon: 
+# - name: NBER
+#   url: https://www.nber.org/papers/w26149
+#   icon_pack: 
+#   icon: 
 - name: Summary
   url: "https://bfi.uchicago.edu/insight/research-summary/the-effects-of-foreign-multinationals-on-workers-and-firms-in-the-united-states/"
   icon_pack: 
