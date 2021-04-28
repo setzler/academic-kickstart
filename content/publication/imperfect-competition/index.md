@@ -3,7 +3,7 @@
 
 title: "Imperfect Competition, Compensating Differentials and Rent Sharing in the U.S. Labor Market"
 authors: [Thibaut Lamadon, Magne Mogstad, admin]
-date: 2019-05-01T00:00:00Z
+date: 2021-04-28T00:00:00Z
 doi: ""
 weight: 20
 
@@ -32,11 +32,10 @@ featured: false
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
-# - name: NBER
-#   url: https://www.nber.org/papers/w25954
-#   icon_pack: 
-#   icon: 
-  
+- name: NBER
+  url: https://www.nber.org/papers/w25954
+  icon_pack:
+  icon:
 - name: "Supplement: Firm Effects"
   url: "files/LMS-supplement.pdf"
   icon_pack: 

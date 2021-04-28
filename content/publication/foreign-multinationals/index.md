@@ -3,7 +3,7 @@
 
 title: "The Effects of Foreign Multinationals on Workers and Firms in the United States"
 authors: [admin, Felix Tintelnot]
-date: "2020-02-01T00:00:00Z"
+date: "2021-04-29T00:00:00Z"
 doi: ""
 weight: 19
 
@@ -33,10 +33,10 @@ featured: false
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
-# - name: NBER
-#   url: https://www.nber.org/papers/w26149
-#   icon_pack: 
-#   icon: 
+- name: NBER
+  url: https://www.nber.org/papers/w26149
+  icon_pack:
+  icon:
 - name: Summary
   url: "https://bfi.uchicago.edu/insight/research-summary/the-effects-of-foreign-multinationals-on-workers-and-firms-in-the-united-states/"
   icon_pack: 
