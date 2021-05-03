@@ -37,6 +37,10 @@ links:
   url: "files/Setzler-Tintelnot_appendix.pdf"
   icon_pack: 
   icon: 
+- name: QJE
+  url: https://doi.org/10.1093/qje/qjab015
+  icon_pack:
+  icon:
 - name: NBER
   url: https://www.nber.org/papers/w26149
   icon_pack:
