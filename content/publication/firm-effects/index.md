@@ -3,12 +3,12 @@
 
 title: "How Much Should we Trust Estimates of Firm Effects and Worker Sorting?"
 authors: [Stephane Bonhomme, Kerstin Holzheu, Thibaut Lamadon, Elena Manresa, Magne Mogstad, admin]
-date: "2020-10-06T00:00:00Z"
+date: "2020-08-06T00:00:00Z"
 doi: ""
 weight: 11
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-08-06T00:00:00Z"
+publishDate: "2020-08-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
