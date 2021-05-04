@@ -56,7 +56,11 @@ Starting mid-2021, Assistant Professor in Economics, Pennsylvania State Universi
 
 **Links:** {{% staticref "#research" %}}Research{{% /staticref %}} | {{% staticref "files/SetzlerCV.pdf" %}}CV{{% /staticref %}} | {{% staticref "#software" %}}Software{{% /staticref %}} | {{% staticref "#datasets" %}}Data{{% /staticref %}}
 
+&nbsp;
+
 **Contact:** bradley.setzler@gmail.com
+
+&nbsp;
 
 **Interests:** Applied micro centered around labor economics and extending into international and public economics. Specific interests:
 - labor market structure, wage inequality
