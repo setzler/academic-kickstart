@@ -3,7 +3,7 @@
 
 title: "Imperfect Competition and Rents in Labor and Product Markets: The Case of the Construction Industry"
 authors: [Kory Kroft, Yao Luo, Magne Mogstad, admin]
-date: "2020-08-07T00:00:00Z"
+date: "2021-05-01T00:00:00Z"
 doi: ""
 weight: 9
 
@@ -20,10 +20,10 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: "The primary goal of our paper is to quantify the importance of imperfect competition in the U.S. construction industry by estimating the size of rents earned by American firms and workers. To obtain a comprehensive measure of the total rents and to understand its sources, we take into account that rents may arise both due to markdown of wages and markup of prices. Our analyses combine the universe of U.S. business and worker tax records with newly collected records from U.S. procurement auctions. We first examine how firms respond to a plausibly exogenous shift in product demand through a difference-in-differences design that compares first-time procurement auction winners to the firms that lose, both before and after the auction. Motivated and guided by these estimates, we next develop, identify, and estimate a model where construction firms compete with one another for projects in the product market and for workers in the labor market. The firms may participate both in the private market and in government projects, the latter of which are procured through first-price sealed-bid auctions. We find that American construction firms have significant wage- and price-setting power. This imperfect competition generates a considerable amount of rents, two-thirds of which is captured by the firms. Lastly, we use the estimated model to perform counterfactual analyses which reveal how increases in the market power of firms, in the product market or the labor market, would affect the outcomes and behavior of workers and firms in the construction industry."
+abstract: "We quantify the importance of imperfect competition in the US construction industry by estimating the size of rents earned by American firms and workers. To obtain a comprehensive measure of the total rents and to understand its sources, we take into account that rents may arise due to markdown of wages in the labor market, or markup of prices in the product market, or both. Our analyses combine the universe of US business and worker tax records with newly collected records from US procurement auctions. We use this data to identify and estimate a model where construction firms compete with one another for projects in the product market and for workers in the labor market. The firms may participate both in the private market and in government projects procured through auctions. We find evidence of considerable wage- and price-setting power. This imperfect competition creates sizable rents, three-fourths of which are captured by the firms. The incentive of firms to mark down wages and reduce employment due to wage-setting power is attenuated by their price-setting power in the product market."
 
 # Summary. An optional shortened abstract.
-summary: "**Revision requested by <ins>*Econometrica*</ins> in October 2020**. </br>My presentations: [NBER Summer Institute (Labor Studies)](https://conference.nber.org/sched/SI20LS), Stanford ([SITE Labor Markets](https://economics.stanford.edu/events/site-2020/session-12-micro-and-macro-labor-markets)), MIT (joint seminar in [Applied Micro](https://economics.mit.edu/events/pospol) and [Industrial Organization](https://economics.mit.edu/events/iowork))"
+summary: "**Revised and resubmitted to <ins>*Econometrica*</ins> in May 2021**. </br>My presentations: [NBER Summer Institute (Labor Studies)](https://conference.nber.org/sched/SI20LS), Stanford ([SITE Labor Markets](https://economics.stanford.edu/events/site-2020/session-12-micro-and-macro-labor-markets)), MIT (joint seminar in [Applied Micro](https://economics.mit.edu/events/pospol) and [Industrial Organization](https://economics.mit.edu/events/iowork))"
 
 tags: []
 categories: []
