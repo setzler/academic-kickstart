@@ -54,9 +54,9 @@ Postdoctoral fellow, Becker Friedman Institute for Economics, University of Chic
 
 Starting mid-2021, Assistant Professor in Economics, Pennsylvania State University.
 
-**Links:** {{% staticref "#research" %}}Research{{% /staticref %}} | {{% staticref "files/SetzlerCV.pdf" %}}CV{{% /staticref %}} | {{% staticref "#software" %}}Software{{% /staticref %}} | {{% staticref "#datasets" %}}Data{{% /staticref %}}
-
 &nbsp;
+
+**Links:** {{% staticref "#research" %}}Research{{% /staticref %}} | {{% staticref "files/SetzlerCV.pdf" %}}CV{{% /staticref %}} | {{% staticref "#software" %}}Software{{% /staticref %}} | {{% staticref "#datasets" %}}Data{{% /staticref %}}
 
 **Contact:** bradley.setzler@gmail.com
 
