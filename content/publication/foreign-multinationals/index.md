@@ -44,8 +44,8 @@ links:
   url: https://www.nber.org/papers/w26149
   icon_pack: 
   icon: 
-- name: Summary
-  url: "https://bfi.uchicago.edu/insight/research-summary/the-effects-of-foreign-multinationals-on-workers-and-firms-in-the-united-states/"
+- name: "Twitter Summary"
+  url: "https://twitter.com/FelixTintelnot/status/1389586712460935168"
   icon_pack: 
   icon: 
 - name: The Economist
