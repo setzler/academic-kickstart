@@ -32,12 +32,12 @@ featured: false
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
-- name: QJE
-  url: https://doi.org/10.1093/qje/qjab015
-  icon_pack: 
-  icon: 
 - name: "Appendix"
   url: "files/Setzler-Tintelnot_appendix.pdf"
+  icon_pack: 
+  icon: 
+- name: QJE
+  url: https://doi.org/10.1093/qje/qjab015
   icon_pack: 
   icon: 
 - name: NBER
