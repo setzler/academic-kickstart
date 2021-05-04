@@ -64,12 +64,8 @@ Starting mid-2021, Assistant Professor in Economics, Pennsylvania State Universi
 - skill premiums, skill-biased technology
 - labor productivity, production networks
 - multinational production/trade and labor
-- job subsidies, employment insurance
+- job subsidies, employment insurance.
 
-**FAQs:**
-- Can I call you "Brad"? *Yes, please.*
-- Have you ever been on the academic job market? *No.*
-- How did you gain access to US tax data? *I applied here.*
 
 
 
