@@ -75,7 +75,7 @@ Starting mid-2021, Assistant Professor in Economics, Pennsylvania State Universi
 **Frequently asked questions:**
 - Can I call you Brad? *Yes.*
 - Have you ever been on the job market? *No.*
-- How did you gain access to U.S. tax data? *Applied [here](https://www.irs.gov/statistics/soi-tax-stats-joint-statistical-research-program).*
+- How can I work with US tax data? *Apply [here](https://www.irs.gov/statistics/soi-tax-stats-joint-statistical-research-program).*
 
 
 -------
