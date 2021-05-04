@@ -3,12 +3,12 @@
 
 title: "The Effects of Foreign Multinationals on Workers and Firms in the United States"
 authors: [admin, Felix Tintelnot]
-date: "2021-04-29T00:00:00Z"
+date: "2021-01-01T00:00:00Z"
 doi: ""
-weight: 19
+weight: 20
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-03-02T00:00:00Z"
+publishDate: "2021-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -23,8 +23,7 @@ publication_short: ""
 abstract: "Governments go to great lengths to attract foreign multinationals because they are thought to raise the wages paid to their employees (direct effects) and to improve outcomes at local domestic firms (indirect effects). We construct the first U.S. employer-employee dataset with foreign ownership information from  tax records to measure these direct and indirect effects.  We find the average direct effect of a foreign multinational firm on its U.S. workers is a 7 percent increase in wages.  This premium is larger for higher skilled workers and for the employees of firms from high GDP per capita countries. We find evidence that it is membership in a multinational production network---instead of foreignness---that generates the foreign firm premium. We leverage the past spatial clustering of foreign-owned firms by country of ownership to identify the indirect effects.  An expansion in the foreign multinational share of commuting zone employment substantially increases the employment, value added, and---for higher earning workers---wages at local domestic-owned firms. Per job created by a foreign multinational, our estimates suggest annual gains of 13,400 USD to the aggregate wages of local incumbents, two-thirds of which are from indirect effects. Our estimates suggest that---via mega-deals for subsidies from local governments---foreign multinationals are able to extract a sizable fraction of the local surplus they generate."
 
 # Summary. An optional shortened abstract.
-summary: "*(Job Market Paper)* </br>**Forthcoming in the <ins>*Quarterly Journal of Economics*</ins> in August 2021**. </br>My presentations: [NBER Labor Studies](http://conference.nber.org/sched/LSs20), [NBER Trade](http://conference.nber.org/sched/ITIf19), [EIIT](https://www.freit.org/EIIT/Archives/AgendaEIIT18.pdf), [ASSA](https://www.aeaweb.org/conference/2018/preliminary/2075?q=eNqrVipOLS7OzM8LqSxIVbKqhnGVrAxrawGlCArI), [UEA](http://www.urbaneconomics.org/meetings/virtual2020/info.html), UChicago, Penn State"
-
+summary: "**Revision requested by <ins>*Quarterly Journal of Economics*</ins>, resubmitted in January 2021**. </br>My presentations: [NBER Labor Studies](http://conference.nber.org/sched/LSs20), [NBER International](http://conference.nber.org/sched/ITIf19), [EIIT](https://www.freit.org/EIIT/Archives/AgendaEIIT18.pdf), [ASSA](https://www.aeaweb.org/conference/2018/preliminary/2075?q=eNqrVipOLS7OzM8LqSxIVbKqhnGVrAxrawGlCArI), [UEA](http://www.urbaneconomics.org/meetings/virtual2020/info.html), Chicago, Penn State"
 
 tags: []
 categories: []
@@ -33,18 +32,10 @@ featured: false
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
-- name: "Appendix"
-  url: "files/Setzler-Tintelnot_appendix.pdf"
-  icon_pack: 
-  icon: 
-- name: QJE
-  url: https://doi.org/10.1093/qje/qjab015
-  icon_pack:
-  icon:
 - name: NBER
   url: https://www.nber.org/papers/w26149
-  icon_pack:
-  icon:
+  icon_pack: 
+  icon: 
 - name: Summary
   url: "https://bfi.uchicago.edu/insight/research-summary/the-effects-of-foreign-multinationals-on-workers-and-firms-in-the-united-states/"
   icon_pack: 
