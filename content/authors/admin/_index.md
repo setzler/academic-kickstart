@@ -66,12 +66,12 @@ Starting mid-2021, Assistant Professor in Economics, Pennsylvania State Universi
 - multinational production/trade and labor
 - job subsidies, employment insurance
 
-&nbsp;
-
-**Frequently asked questions:**
-- Can I call you Brad? *Yes*
-- Did you ever go on the job market? *No*
-- Where do I apply for US tax data? *[Here](https://www.irs.gov/statistics/soi-tax-stats-joint-statistical-research-program)*
+# &nbsp;
+# 
+# **Frequently asked questions:**
+# - Can I call you Brad? *Yes*
+# - Did you ever go on the job market? *No*
+# - Where do I apply for US tax data? *[Here](https://www.irs.gov/statistics/soi-tax-stats-joint-statistical-research-program)*
 
 
 -------
