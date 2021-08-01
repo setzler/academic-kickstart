@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Fellow
+role: Assistant Professor of Economics
 
 # Organizations/Affiliations
 organizations:
-- name: University of Chicago
+- name: Pennsylvania State University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -50,9 +50,7 @@ email: ""
 # - Visitors
 ---
 
-Postdoctoral fellow, Becker Friedman Institute for Economics, University of Chicago.
-
-Starting mid-2021, Assistant Professor in Economics, Pennsylvania State University.
+Assistant Professor of Economics, Pennsylvania State University.
 
 **Links:** {{% staticref "#research" %}}Research{{% /staticref %}} | {{% staticref "files/SetzlerCV.pdf" %}}CV{{% /staticref %}} | bradley.setzler@gmail.com
 
