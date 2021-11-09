@@ -60,8 +60,7 @@ Assistant Professor of Economics, Pennsylvania State University.
 - labor market structure, wage inequality
 - monopsony, rent sharing, firm premiums
 - skill premiums, skill-biased technology
-- labor productivity, production networks
-- multinational production/trade and labor
+- labor demand in production/trade networks
 - job subsidies, employment insurance
 
 
