@@ -33,7 +33,7 @@ featured: false
 #   Uncomment and edit lines below to show custom links.
 links:
 - name: AER
-  url: https://www.aeaweb.org/articles?id=10.1257/aer.20151231
+  url: https://www.doi.org/10.1257/aer.20151231
 - name: NBER (old)
   url: https://www.nber.org/papers/w23466
   icon_pack: 
