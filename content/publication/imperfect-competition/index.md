@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Imperfect Competition, Compensating Differentials and Rent Sharing in the U.S. Labor Market"
+title: "Imperfect Competition, Compensating Differentials, and Rent Sharing in the U.S. Labor Market"
 authors: [Thibaut Lamadon, Magne Mogstad, admin]
 date: 2022-01-01T00:00:00Z
 doi: ""
