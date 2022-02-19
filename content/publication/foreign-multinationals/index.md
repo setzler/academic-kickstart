@@ -44,6 +44,10 @@ links:
   url: https://www.nber.org/papers/w26149
   icon_pack: 
   icon: 
+- name: "Feenstra-Taylor textbook"
+  url: "files/Feenstra-Taylor_textbook.pdf"
+  icon_pack: 
+  icon: 
 - name: "Twitter Summary"
   url: "https://twitter.com/FelixTintelnot/status/1389586712460935168"
   icon_pack: 
