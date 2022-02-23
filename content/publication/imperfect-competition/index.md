@@ -40,7 +40,10 @@ links:
   url: https://www.nber.org/papers/w25954
   icon_pack: 
   icon: 
-  
+- name: "AER Appendix"
+  url: "files/LMS-appendix.pdf"
+  icon_pack: 
+  icon:  
 - name: "Supplement: Firm Effects"
   url: "files/LMS-supplement.pdf"
   icon_pack: 
