@@ -23,7 +23,7 @@ url_video: ''
 
 The following is advice for an undergraduate student who is planning to ask for a letter of recommendation in the future from a professor. 
 
-*Background:* A letter of recommendation is typically a 1-2 page essay evaluating aspects of a student's goodness of fit for a graduate school, job, scholarship, award, or internship. Topics often addressed in a letter of recommendation include a student's ability and performance along the following dimensions: 
+**Background:** A letter of recommendation is typically a 1-2 page essay evaluating aspects of a student's goodness of fit for a graduate school, job, scholarship, award, or internship. Topics often addressed in a letter of recommendation include a student's ability and performance along the following dimensions: 
 
 - intelligence (e.g. exam grades), 
 - responsibility (e.g. completing assignments on time),
@@ -35,7 +35,7 @@ The following is advice for an undergraduate student who is planning to ask for 
 - teamwork (e.g. working well with fellow students on group projects).
 
 
-*Before asking for a letter:* It is nearly impossible for a professor to write a meaningful letter about a student based only on the student's class grades -- "this student made an A" does not fill up a 1-2 page essay! Ideally, you would take the following steps in advance to ensure the professor has plenty of positive information to draw on when writing a letter about you:
+**Before asking for a letter:** It is nearly impossible for a professor to write a meaningful letter about a student based only on the student's class grades -- "this student made an A" does not fill up a 1-2 page essay! Ideally, you would take the following steps in advance to ensure the professor has plenty of positive information to draw on when writing a letter about you:
 
 1. Earn an A in that professor's class. This ensures that you were one of the top students according to that professor's own measure of intellectual achievement.
 2. Ask thoughtful questions during class and/or office hours. This is your chance to demonstrate your intellectual curiosity and communication skills.
@@ -48,7 +48,7 @@ The following is advice for an undergraduate student who is planning to ask for 
 Note: While completing these steps would be ideal, many students do not and still receive good letters of recommendation, so do not be discouraged if it is too late to complete all of these steps -- do the best you can with the time you have.
 
 
-*Asking for a letter:* When asking for a letter of recommendation, it is your responsibility to provide plenty of information to help the professor write a great letter. The following steps are essential:
+**Asking for a letter:** When asking for a letter of recommendation, it is your responsibility to provide plenty of information to help the professor write a great letter. The following steps are essential:
 
 1. Ask if the professor is willing to provide a good recommendation. Remind the professor of your good qualities. For example, remind them that you received an A grade in the class, engaged with the material, overcame initial difficulties, and so on.
 2. Provide the deadline by which the professor must submit the letter.
@@ -59,8 +59,8 @@ Note: While completing these steps would be ideal, many students do not and stil
 Note: You should definitely complete all 5 steps when asking for a letter of recommendation; they are not optional.
 
 
-**Additional advice:***  Here are additional resources about asking for letters of recommendation (repeating many of the points above):
+**Additional advice:**  Here are additional resources about asking for letters of recommendation (repeating many of the points above):
 
 - [Stanford University](https://advising.stanford.edu/current-students/advising-student-handbook/letters-recommendation)
-[University of South Carolina](https://sc.edu/about/offices_and_divisions/fellowships_and_scholar_programs/documents/letter_etiquette.pdf)
+- [University of South Carolina](https://sc.edu/about/offices_and_divisions/fellowships_and_scholar_programs/documents/letter_etiquette.pdf)
 
