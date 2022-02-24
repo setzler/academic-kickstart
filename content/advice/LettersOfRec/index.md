@@ -59,7 +59,8 @@ Note: While completing these steps would be ideal, many students do not and stil
 Note: You should definitely complete all 5 steps when asking for a letter of recommendation; they are not optional.
 
 
-*Additional advice:*  Here are additional resources about asking for letters of recommendation:
+**Additional advice:***  Here are additional resources about asking for letters of recommendation (repeating many of the points above):
+
 - [Stanford University](https://advising.stanford.edu/current-students/advising-student-handbook/letters-recommendation)
 [University of South Carolina](https://sc.edu/about/offices_and_divisions/fellowships_and_scholar_programs/documents/letter_etiquette.pdf)
-Of course, they repeat many of the points I made above.
+
