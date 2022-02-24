@@ -48,6 +48,12 @@ subtitle = ""
 +++
 
 ------------
+
+### Advice for Students
+
+- [Letters of Recommendation](https://www.bradleysetzler.com/advice/LettersOfRec)
+- [Research Presentations](https://www.bradleysetzler.com/advice/Presentations)
+
 ### Computer Programming Tutorials
 
 - [Learn to program in R](https://github.com/setzler/r-tutorial): my RA training notes with package development instructions and quizzes.
