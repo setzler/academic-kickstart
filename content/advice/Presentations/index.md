@@ -22,4 +22,10 @@ url_video: ''
 
 ---
 
-Advice goes here
+This advice is under construction.
+
+In the meantime, please see Paul Goldsmith-Pinkham's excellent advice on effective presentation slides [here](https://github.com/paulgp/beamer-tips/blob/master/slides.pdf).
+
+
+
+
