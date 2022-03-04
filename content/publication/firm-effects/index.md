@@ -33,6 +33,10 @@ featured: false
 #   Uncomment and edit lines below to show custom links.
 
 links:
+- name: "Appendix"
+  url: "files/BHLMMS_appendix.pdf"
+  icon_pack: 
+  icon: 
 - name: NBER (longer version)
   url: https://www.nber.org/papers/w27368
   icon_pack:
@@ -47,6 +51,7 @@ url_project:
 url_slides:
 url_source:
 url_video:
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
