@@ -56,7 +56,7 @@ subtitle = ""
 
 ### Computer Programming Tutorials
 
-- [Learn to program in R](https://github.com/setzler/r-tutorial): my RA training notes with package development instructions and quizzes.
-- [Learn to program in Julia](https://juliaeconomics.com/): my lecture notes from grad school have been used by over 50,000 people since I posted them in 2014 (a bit out of date).
+- [Learn to program in R](https://github.com/setzler/r-tutorial)
+- [Learn to program in Julia](https://juliaeconomics.com/)
 
 ----------------
