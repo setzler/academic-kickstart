@@ -22,7 +22,7 @@ url_video: ''
 
 ---
 
-The following is advice for a hypothetical graduate student who is planning to present a research presentation in an academic environment. 
+The following is advice for a hypothetical graduate student who is planning to give a research presentation in an academic environment. 
 
 ### Formatting of presentation slides
 
