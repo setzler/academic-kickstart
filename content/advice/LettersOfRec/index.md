@@ -21,7 +21,7 @@ url_video: ''
 
 ---
 
-The following is advice for an undergraduate student who is planning to ask for a letter of recommendation from a professor. 
+The following is advice for a hypothetical undergraduate student who is planning to ask for a letter of recommendation from a professor. 
 
 ### Background: 
 
