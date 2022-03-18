@@ -52,9 +52,9 @@ Here are a few rules for dealing with questions from the audience:
 2. *Anticipate audience questions:* Most questions asked by the audience during a presentation are predictable beforehand. Prepare by writing out clear and concise answers to any questions you expect to receive, even if doing so requires producing new results.
 3. *Keep answers short and focused tightly on the question asked:* Do not deviate to discuss other issues before answering the question posed by the audience. Remain focused and use as few words as possible. If the audience question has a "yes or no" structure, explicitly argue why "yes" or "no" is the correct answer.
 4. *Answers to empirical questions should be available on a slide:* Do not try to answer empirical questions off the top of your head. Any numbers quoted to the audience should be visible on a slide, perhaps in a plot or table.
-5. *The best answer to some questions is "I don't know":* If answering a question requires deriving new analytical results off the top of your head, the best answer is often "I don't know for sure, but I will work on it after the talk and get back to you". 
-6. *Take "bad" questions seriously:* Every so often, an audience member asks a "bad" question, which is a question whose answer is obvious or irrelevant to the current presentation. Rather than dismissing such questions, learn from them. How could the presentation be improved to avoid confusion next time?
-7. *Do not provide meta commentary:* You do not need to comment on the quality or timing of audience questions; just answer the questions.
+5. *The best answer to some questions is "I don't know":* If answering a question requires deriving new analytical results off the top of your head, or to provide an estimate that you do not have written in the slides, the best answer is often "I don't know for sure, but I will check it after the talk and get back to you". 
+6. *Do not provide meta commentary:* You do not need to comment on the quality or timing of audience questions; just answer the questions.
+7. *Take "bad" questions seriously:* Every so often, an audience member asks a "bad" question, which is a question whose answer is obvious or irrelevant to the current presentation. Rather than dismissing such questions, learn from them. How could the presentation be improved to avoid confusion?
 
 
 ### Additional advice:
