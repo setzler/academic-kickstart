@@ -31,8 +31,8 @@ The following is advice for a hypothetical graduate student who is planning to p
 Here are a few general rules for formatting of presentation slides:
 
 1. *Avoid blocks of text and sentences on multiple lines:* Try to keep each sentence short enough to fit on one line of text. This is because it is hard for the eyes to follow a sentence across multiple lines. If you must use 2 lines for a sentence, add white space above and below the sentence to help the eyes find the beginning and end. Never use 3 lines for a sentence. ![blocksoftext](blocks_of_text.png)
-2. *In plots, use very large labels with clear units and helpful tick marks:* It is difficult to quickly understand a plot during a presentation. Help the audience by using overly large labels on the axes. Make sure the units of measurement are obvious. Place the tick marks on the axes to include major round numbers if possible. ![badlabels](bad_labels_.png)
-3. *Always explicitly write the main takeaway on each results slide:* If you show a plot or otherwise present results, you must state the main takeaway explicitly on the slide. If the point of your plot is that there is a linear relationship between the variables on the vertical and horizontal axes, write that explicitly underneath the plot. ![betterlabels](better_labels_.png)
+2. *In plots, use very large labels with clear units and helpful tick marks:* It is difficult to quickly understand a plot during a presentation. Help the audience by using overly large labels on the axes. Make sure the units of measurement are obvious. Place the tick marks on the axes to include major round numbers if possible. ![badlabels](bad_labels.png)
+3. *Always explicitly write the main takeaway on each results slide:* If you show a plot or otherwise present results, you must state the main takeaway explicitly on the slide. If the point of your plot is that there is a linear relationship between the variables on the vertical and horizontal axes, write that explicitly underneath the plot. ![betterlabels](better_labels.png)
 
 
 ### Presenting a structural model
