@@ -23,7 +23,7 @@ publication_short: ""
 abstract: "There is no evaluation of the consequences of Disability Insurance (DI) receipt that captures the effects on households' net income and consumption expenditure, family labor supply, or benefits from other programs. Combining detailed register data from Norway with an instrumental variables approach based on random assignment to appellant judges, we comprehensively assess how DI receipt affects these understudied outcomes. To consider the welfare implications of the findings from this instrumental variables approach, we estimate a dynamic model of household behavior that translates employment, reapplication, and savings decisions into revealed preferences for leisure and consumption. The model-based results suggest that on average, the willingness to pay for DI receipt is positive and sizable. Because spousal labor supply strongly buffers the household income and consumption effects of DI allowances, the estimated willingness to pay for DI receipt is smaller for married than single applicants. "
 
 # Summary. An optional shortened abstract.
-summary: "**Published by the <ins>*American Economic Review*</ins> in July 2019**."
+summary: "**<ins>*American Economic Review*</ins>, July 2019**."
 
 tags: []
 categories: []
