@@ -33,8 +33,12 @@ featured: false
 #   Uncomment and edit lines below to show custom links.
 
 links:
+- name: NBER (old)
+  url: https://www.nber.org/papers/w23466
+  icon_pack: 
+  icon: 
 
-url_pdf: 
+url_pdf: "files/Autor-Kostol-Mogstad-Setzler.pdf"
 url_code:
 url_dataset:
 url_poster:
