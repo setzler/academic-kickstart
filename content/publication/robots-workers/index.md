@@ -3,7 +3,7 @@
 
 title: "Robots and Workers in Production Networkers under Monopsony"
 authors: [Federico Huneeus, Kory Kroft, Kevin Lim, admin]
-date: "2022-02-18T00:00:00Z"
+date: "2022-03-26T00:00:00Z"
 doi: ""
 weight: 11
 
