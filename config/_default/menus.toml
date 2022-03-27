@@ -10,14 +10,13 @@
 
 [[main]]
   name = "Research"
-  url = "#research"
+  url = "#publication"
   weight = 20
 
 [[main]]
   name = "CV"
   url = "files/SetzlerCV.pdf"
   weight = 25
-
 
 [[main]]
   name = "Software"

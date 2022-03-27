@@ -52,7 +52,7 @@ email: ""
 
 Assistant Professor of Economics, Pennsylvania State University.
 
-**Links:** {{% staticref "#research" %}}Research{{% /staticref %}} | {{% staticref "files/SetzlerCV.pdf" %}}CV{{% /staticref %}} | bradley.setzler@gmail.com
+**Links:** {{% staticref "#publication" %}}Research{{% /staticref %}} | {{% staticref "files/SetzlerCV.pdf" %}}CV{{% /staticref %}} | bradley.setzler@gmail.com
 
 &nbsp;
 
