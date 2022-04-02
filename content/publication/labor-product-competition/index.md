@@ -37,7 +37,7 @@ links:
   url: https://www.nber.org/papers/w27325
   icon_pack:
   icon:
-- name: slides
+- name: Slides
   url: "files/Kroft-Luo-Mogstad-Setzler_slides.pdf"
   icon_pack:
   icon:
