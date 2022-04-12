@@ -14,7 +14,7 @@ role: Assistant Professor of Economics
 
 # Organizations/Affiliations
 organizations:
-- name: Pennsylvania State University
+- name: Pennsylvania State University & NBER
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -51,6 +51,8 @@ email: ""
 ---
 
 Assistant Professor of Economics, Pennsylvania State University.
+
+Faculty Research Fellow in Labor Studies, NBER.
 
 **Links:** {{% staticref "#publication" %}}Research{{% /staticref %}} | {{% staticref "files/SetzlerCV.pdf" %}}CV{{% /staticref %}} | bradley.setzler@gmail.com
 
