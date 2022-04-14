@@ -41,6 +41,10 @@ links:
   url: "files/Kroft-Luo-Mogstad-Setzler_slides.pdf"
   icon_pack:
   icon:
+  - name: "In Card's Nobel Prize citation"
+  url: "files/Card_Nobel-Citation.pdf"
+  icon_pack:
+  icon:
 
 url_pdf: "files/Kroft-Luo-Mogstad-Setzler.pdf"
 url_code:
