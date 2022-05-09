@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Robots and Workers in Production Networkers under Monopsony"
+title: "Robots and Workers in Production Networks under Monopsony"
 authors: [Federico Huneeus, Kory Kroft, Kevin Lim, admin]
 date: "2022-03-26T00:00:00Z"
 doi: ""
