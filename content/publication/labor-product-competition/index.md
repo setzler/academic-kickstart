@@ -45,6 +45,10 @@ links:
   url: "files/Card_Nobel-Citation.pdf"
   icon_pack:
   icon:
+- name: Mini-slides
+  url: "files/Kroft-Luo-Mogstad-Setzler_slides-mini.pdf"
+  icon_pack:
+  icon:
 
 url_pdf: "files/Kroft-Luo-Mogstad-Setzler.pdf"
 url_code:
