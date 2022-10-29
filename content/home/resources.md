@@ -49,6 +49,11 @@ subtitle = ""
 
 ------------
 
+### Special Lectures
+
+- [A Brief Overview of Monopsony, Wage Inequality, and Labor Market Sorting]("files/Setzler-Lecture-WageInequality.pdf")
+
+
 ### Advice for Students
 
 - [Letters of Recommendation](https://www.bradleysetzler.com/advice/LettersOfRec)
