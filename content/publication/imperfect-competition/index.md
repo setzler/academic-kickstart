@@ -48,6 +48,11 @@ links:
   url: "files/LMS-supplement.pdf"
   icon_pack: 
   icon: 
+- name: "Statistical Extracts"
+  url: "https://github.com/setzler/LMS-Statistical-Extracts"
+  icon_pack: 
+  icon: 
+
 
 url_pdf: "files/Lamadon-Mogstad-Setzler.pdf"
 url_code:

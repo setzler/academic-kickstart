@@ -41,6 +41,10 @@ links:
   url: https://www.nber.org/papers/w27368
   icon_pack:
   icon:
+- name: "Statistical Extracts"
+  url: "https://github.com/setzler/LMS-Statistical-Extracts"
+  icon_pack: 
+  icon: 
 
 
 url_pdf: "files/BHLMM-Setzler.pdf"
