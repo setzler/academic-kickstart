@@ -56,7 +56,11 @@ links:
   url: "https://www.economist.com/finance-and-economics/2019/08/22/who-wins-from-foreign-investment"
   icon_pack: 
   icon: 
-  
+- name: Microeconomic Insights
+  url: "https://microeconomicinsights.org/what-happens-when-foreign-firms-expand-local-employment/"
+  icon_pack: 
+  icon: 
+
 
 url_pdf: "files/Setzler-Tintelnot.pdf"
 url_code:
