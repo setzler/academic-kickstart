@@ -23,7 +23,7 @@ publication_short: ""
 abstract: "We quantify the importance of imperfect competition in the US construction industry by estimating the size of rents earned by American firms and workers. To obtain a comprehensive measure of the total rents and to understand its sources, we take into account that rents may arise due to markdown of wages in the labor market, or markup of prices in the product market, or both. Our analyses combine the universe of US business and worker tax records with newly collected records from US procurement auctions. We use this data to identify and estimate a model where construction firms compete with one another for projects in the product market and for workers in the labor market. The firms may participate both in the private market and in government projects procured through auctions. We find evidence of considerable wage- and price-setting power. This imperfect competition creates sizable rents, three-fourths of which are captured by the firms. The incentive of firms to mark down wages and reduce employment due to wage-setting power is attenuated by their price-setting power in the product market."
 
 # Summary. An optional shortened abstract.
-summary: "**This version: April 2022.** </br>My presentations: NBER Summer Institute, MIT, UBC, LSE, Stanford, Cornell, UChicago, Penn State, CESifo, UToronto/Bank of Canada, Texas A&M"
+summary: "**Revision requested by the American Economic Review.** </br>My presentations: NBER Summer Institute (Labor Studies), MIT, NBER IO, UBC, LSE, Stanford, Cornell, UChicago, Penn State, CESifo, UToronto/Bank of Canada, Texas A&M"
 
 tags: []
 categories: []
