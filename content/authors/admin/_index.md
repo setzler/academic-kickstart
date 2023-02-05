@@ -62,6 +62,10 @@ Faculty Research Fellow in Labor Studies, NBER.
 - primary: labor economics
 - secondary: industrial organization, international trade 
 
+
+&nbsp;
+
+
 **Specific topics of interest:**
 - labor market structure, wage inequality
 - monopsony, rent sharing, firm premiums
