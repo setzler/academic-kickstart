@@ -56,16 +56,12 @@ Faculty Research Fellow in Labor Studies, NBER.
 
 **Links:** {{% staticref "#publication" %}}Research{{% /staticref %}} | {{% staticref "files/SetzlerCV.pdf" %}}CV{{% /staticref %}} | bradley.setzler@gmail.com
 
-&nbsp;
 
 **Fields:** 
 - primary: labor economics
 - secondary: industrial organization, international trade 
 
-
-&nbsp;
-
-
+ 
 **Specific topics of interest:**
 - labor market structure, wage inequality
 - monopsony, rent sharing, firm premiums
