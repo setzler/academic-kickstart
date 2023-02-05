@@ -58,12 +58,16 @@ Faculty Research Fellow in Labor Studies, NBER.
 
 &nbsp;
 
-**Interests:** Applied micro centered around labor economics and extending into international, IO, and public economics. Specific interests:
+**Fields:** 
+- primary: labor economics
+- secondary: industrial organization, international trade 
+
+**Specific topics of interest:**
 - labor market structure, wage inequality
 - monopsony, rent sharing, firm premiums
 - skill premiums, skill-biased technology
 - labor demand in production/trade networks
-- job subsidies, employment insurance
+- persistence of job loss, regional decline
 
 
 
