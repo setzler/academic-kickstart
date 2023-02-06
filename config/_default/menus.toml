@@ -19,15 +19,9 @@
   weight = 25
 
 [[main]]
-  name = "Software"
-  url = "#software"
+  name = "Resources"
+  url = "#resources"
   weight = 30
-
-[[main]]
-  name = "Data"
-  url = "#datasets"
-  weight = 40
-
 
 
 
