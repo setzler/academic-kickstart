@@ -55,23 +55,18 @@ subtitle = ""
 
 ### Advice for Students
 
-- [Letters of Recommendation](https://www.bradleysetzler.com/advice/LettersOfRec)
-- [Research Presentations](https://www.bradleysetzler.com/advice/Presentations)
-
-### Computer Programming Tutorials
-
-- [Learn to program in R](https://github.com/setzler/r-tutorial)
-- [Learn to program in Julia](https://juliaeconomics.com/)
+- [Letters of Recommendation](https://www.bradleysetzler.com/advice/LettersOfRec) (for undergraduates)
+- [Research Presentations](https://www.bradleysetzler.com/advice/Presentations) (for PhD students)
 
 ### Public Software Packages
 
 - [textables](https://www.bradleysetzler.com/software/textables)
 - [eventStudy](https://www.bradleysetzler.com/software/eventStudy)
 
-
 ### Public Data Sets
 
 - [Census CBP](https://www.bradleysetzler.com/datasets/CensusCBP)
 - [US Corporate Taxes](https://www.bradleysetzler.com/datasets/CorpTax)
+- [LMS Statistical Extracts](https://github.com/setzler/LMS-Statistical-Extracts)
 
 ----------------
