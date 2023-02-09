@@ -33,6 +33,10 @@ featured: false
 #   Uncomment and edit lines below to show custom links.
 
 links:
+- name: "JOLE"
+  url: "https://www.journals.uchicago.edu/doi/10.1086/720009"
+  icon_pack: 
+  icon: 
 - name: "Appendix"
   url: "files/BHLMMS_appendix.pdf"
   icon_pack: 
@@ -45,7 +49,6 @@ links:
   url: "https://github.com/setzler/LMS-Statistical-Extracts"
   icon_pack: 
   icon: 
-
 
 url_pdf: "files/BHLMM-Setzler.pdf"
 url_code:
