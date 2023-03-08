@@ -48,6 +48,10 @@ links:
   url: "files/LMS-supplement.pdf"
   icon_pack: 
   icon: 
+- name: "Replication Kit"
+  url: "https://github.com/setzler/LMS"
+  icon_pack: 
+  icon: 
 - name: "Statistical Extracts"
   url: "https://github.com/setzler/LMS-Statistical-Extracts"
   icon_pack: 
