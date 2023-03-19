@@ -69,4 +69,6 @@ subtitle = ""
 - [US Corporate Taxes](https://www.bradleysetzler.com/datasets/CorpTax)
 - [LMS Statistical Extracts](https://github.com/setzler/LMS-Statistical-Extracts)
 
+Disclaimer: Materials provided are for Educational Use Only. All articles are the sole copyright of their respective publishers.
+
 ----------------
