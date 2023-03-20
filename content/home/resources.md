@@ -61,6 +61,7 @@ subtitle = ""
 ### Public Software Packages
 
 - [textables](https://www.bradleysetzler.com/software/textables): construct and compile TeX tables in R
+- [DiD for Big Data](https://setzler.github.io/DiDforBigData/): fast and big-data-friendly diff-in-diffs in R
 - [eventStudy](https://www.bradleysetzler.com/software/eventStudy): stacked approach to staggered diff-in-diffs in R
 
 ### Public Data Sets
