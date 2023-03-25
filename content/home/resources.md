@@ -58,16 +58,11 @@ subtitle = ""
 - [Letters of Recommendation](https://www.bradleysetzler.com/advice/LettersOfRec) (for undergraduates)
 - [Research Presentations](https://www.bradleysetzler.com/advice/Presentations) (for PhD students)
 
-### Public Software Packages
+### Published Software Packages
 
 - [textab](https://setzler.github.io/textab): construct and compile highly-customized LaTeX tables in R
 - [DiD for Big Data](https://setzler.github.io/DiDforBigData/): fast and big-data-friendly diff-in-diffs in R
 
-### Public Data Sets
-
-- [Census CBP](https://www.bradleysetzler.com/datasets/CensusCBP)
-- [US Corporate Taxes](https://www.bradleysetzler.com/datasets/CorpTax)
-- [LMS Statistical Extracts](https://github.com/setzler/LMS-Statistical-Extracts)
 
 Disclaimer: Materials provided are for Educational Use Only. All articles are the sole copyright of their respective publishers.
 
