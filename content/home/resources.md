@@ -49,14 +49,15 @@ subtitle = ""
 
 ------------
 
-### Special Lectures
+### Public Lectures
 
 - [A Brief Overview of Monopsony, Wage Inequality, and Labor Market Sorting](files/Setzler-Lecture-WageInequality.pdf)
 
-### Advice for Students
+### Advice
 
 - [Letters of Recommendation](https://www.bradleysetzler.com/advice/LettersOfRec) (for undergraduates)
 - [Research Presentations](https://www.bradleysetzler.com/advice/Presentations) (for PhD students)
+- [Making Pourover Coffee in the Office](https://www.bradleysetzler.com/advice/Coffee) (for professors)
 
 ### Published Software Packages
 
