@@ -21,7 +21,7 @@ url_video: ''
 
 ---
 
-Visiting faculty often ask how I make pourover coffee in my office. Here are the instructions.
+Several faculty have asked how I make pourover coffee in my office. Here are the instructions.
 
 ### Shopping List
 
