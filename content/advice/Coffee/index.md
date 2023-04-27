@@ -21,9 +21,9 @@ url_video: ''
 
 ---
 
-Visiting faculty often ask how I make such good coffee in my office. Here are instructions.
+Visiting faculty often ask how I make such good pourover coffee in my office. Here are the instructions.
 
-### Shopping List:
+### Shopping List
 
 1. **18oz Clever Coffee Dripper.** You can buy this for around $40 [here](https://www.amazon.com/dp/B081GQQ7NH/).
 2. **Filters for Clever Dripper.** You can buy 100 of these for around $20 [here](https://www.amazon.com/Coffee-Filters-Designed-Clever-Dripper/dp/B07RV48L1W/).
