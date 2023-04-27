@@ -57,7 +57,7 @@ subtitle = ""
 
 - [Letters of Recommendation](https://www.bradleysetzler.com/advice/LettersOfRec) (for undergraduates)
 - [Research Presentations](https://www.bradleysetzler.com/advice/Presentations) (for PhD students)
-- [Making Pourover Coffee in the Office](https://www.bradleysetzler.com/advice/Coffee) (for professors)
+- [Making Pour-over Coffee in the Office](https://www.bradleysetzler.com/advice/Coffee) (for professors)
 
 ### Published Software Packages
 

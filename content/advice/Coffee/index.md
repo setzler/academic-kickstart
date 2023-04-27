@@ -1,5 +1,5 @@
 ---
-title: "Pourover Coffee"
+title: "Pour-over Coffee"
 
 publishDate: "2023-04-26T00:00:00Z"
 
@@ -21,16 +21,16 @@ url_video: ''
 
 ---
 
-Several faculty have asked how I make pourover coffee in my office. Here are the instructions.
+Several faculty have asked how I make pour-over coffee in my office. Here are the instructions.
 
 ### Shopping List
 
-1. **18oz Clever Coffee Dripper and Filters.** The Clever dripper is a device that uses immersion to brew coffee. Immersion takes all of the skill requirements out of pourover coffee, so even a first-time user will brew the perfect pourover cup. It only costs $40 [here](https://www.amazon.com/dp/B081GQQ7NH/). 100 filters cost around $20 [here](https://www.amazon.com/Coffee-Filters-Designed-Clever-Dripper/dp/B07RV48L1W/). 
-2. **A Conical Burr Grinder.** Pourover coffee becomes bitter mud if the coffee is ground too fine. Store-bought pre-ground coffee is far too fine. Buy a burr grinder with a medium-coarse setting. Consider the OXO grinder for under $100 [here](https://www.amazon.com/OXO-BREW-Conical-Coffee-Grinder/dp/B07CSKGLMM/).
-3. **A Gooseneck Electric Kettle with Temperature Presets.** Pourover coffee is very sensitive to the temperature of the water. It requires an electric kettle for digitally selecting the temperature of the water. There are many options under $100, e.g., the Cosori kettle [here](https://www.amazon.com/COSORI-Electric-Gooseneck-Variable-Stainless/dp/B07T1CH2HH/).
+1. **18oz Clever Coffee Dripper and Filters.** The Clever dripper is a device that uses immersion to brew coffee. Immersion takes all of the skill requirements out of pour-over coffee, so even a first-time user will brew the perfect pour-over cup. It only costs $40 [here](https://www.amazon.com/dp/B081GQQ7NH/). 100 filters cost around $20 [here](https://www.amazon.com/Coffee-Filters-Designed-Clever-Dripper/dp/B07RV48L1W/). 
+2. **A Conical Burr Grinder.** Pour-over coffee becomes bitter mud if the coffee is ground too fine. Store-bought pre-ground coffee is far too fine. Buy a burr grinder with a medium-coarse setting. Consider the OXO grinder for under $100 [here](https://www.amazon.com/OXO-BREW-Conical-Coffee-Grinder/dp/B07CSKGLMM/).
+3. **A Gooseneck Electric Kettle with Temperature Presets.** Pour-over coffee is very sensitive to the temperature of the water. It requires an electric kettle for digitally selecting the temperature of the water. There are many options under $100, e.g., the Cosori kettle [here](https://www.amazon.com/COSORI-Electric-Gooseneck-Variable-Stainless/dp/B07T1CH2HH/).
 
 
-### Pourover Instructions
+### Pour-over Instructions
 
 1. **Grind:** Grind coffee beans until you have about 30g of medium-coarse coffee. The granules should be visible like coarse sand mixed with sea salt. If your grinder allows you to select a number of cups that you are making, select 2 cups. Note that grinding coffee is messy and loud, so grind it at home and bring it to the office in a vacuum-sealed container. Grind it on the same day it will be brewed, as ground coffee quickly oxidizes.
 2. **Heat:** Fill the kettle with water and heat it to 195 degrees. If you are in a hurry, 175 degrees is almost as good. 
