@@ -43,7 +43,7 @@ Several faculty have asked how I make pourover coffee in my office. Here are the
 
 ### Selecting Coffee Beans
 
-There are two main coffee origins:
+There are two broad coffee origins:
 
 - **Latin American coffee:** Most coffee drinkers have only ever tasted Latin American coffee. This coffee is rich in chocolate and nut flavor notes. It is typically the only option available at chain coffee shops. 
 - **African coffee:** This coffee is rich in fruit and floral notes. It is hard to find: even specialty coffee shops often only have one African coffee available, and you have to specifically request it.
