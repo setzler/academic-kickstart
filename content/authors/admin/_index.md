@@ -50,7 +50,7 @@ email: ""
 # - Visitors
 ---
 
-The Strumpf Early Career Assistant Professor of Economics at Pennsylvania State University.
+The Strumpf Early Career Assistant Professor of Economics, Pennsylvania State University.
 
 Faculty Research Fellow in Labor Studies, NBER.
 

@@ -33,7 +33,7 @@ Several faculty have asked how I make pourover coffee in my office. Here are the
 ### Pourover Instructions
 
 1. **Grind:** Grind coffee beans until you have about 30g of medium-coarse coffee. The granules should be visible like coarse sand mixed with sea salt. If your grinder allows you to select a number of cups that you are making, select 2 cups. Note that grinding coffee is messy and loud, so grind it at home and bring it to the office in a vacuum-sealed container. Grind it on the same day it will be brewed, as ground coffee quickly oxidizes.
-2. **Heat:** Fill the kettle with water and heat it to 195 Degrees. If you are in a hurry, 175 degrees is almost as good. 
+2. **Heat:** Fill the kettle with water and heat it to 195 degrees. If you are in a hurry, 175 degrees is almost as good. 
 3. **Fill:** Place the filter in the Clever dripper and set the Clever dripper on a table top. Fill it with the ground coffee. Pour in the water, wetting all of the coffee, until the water is about 1cm from spilling over the top of the filter. Because it uses immersion, the Clever dripper does not require any pouring skill -- just pour the water in.
 4. **Wait:** Wait about 3 minutes. If you wait more than 5 minutes, it tastes over-extracted and bitter.
 5. **Finish:** Set the Clever dripper on top of a coffee mug. The brewed coffee should start dripping out of the bottom of the Clever dripper into the coffee mug. When the Clever dripper is empty of standing water, you are done.
