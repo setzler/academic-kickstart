@@ -50,7 +50,7 @@ There are two broad coffee origins:
 
 The reason the coffee in my office smells so good is because I only buy African coffee, which smells like fruits instead of nuts. African coffee is typically not available in stores. Instead, you can order African coffee from the best roasters using Mistobox:
 
-- [Tendem Coffee Roasters](https://www.mistobox.com/roaster-name/tandem-coffee-roasters)
+- [Tandem Coffee Roasters](https://www.mistobox.com/roaster-name/tandem-coffee-roasters)
 - [Barefoot Coffee Roasters](https://www.mistobox.com/roaster-name/barefoot-coffee-roasters)
 - [1000 Faces Coffee](https://www.mistobox.com/roaster-name/1000-faces)
 - [Brandywine Coffee Roasters](https://www.mistobox.com/roaster-name/brandywine-coffee-roasters)
