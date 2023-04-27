@@ -56,5 +56,5 @@ The reason the coffee in my office smells so good is because I only buy African 
 - [Brandywine Coffee Roasters](https://www.mistobox.com/roaster-name/brandywine-coffee-roasters)
 - [Evans Brothers](https://www.mistobox.com/roaster-name/evans-brothers-coffee-roasters)
 
-I recommend starting with Tandem. Make sure you order coffee that is from Africa (most commonly from Ethiopia) and that you order whole beans (not ground).
+I recommend starting with Tandem. Make sure to order coffee that is from Africa (most commonly from Ethiopia) in whole bean form (not ground).
 
