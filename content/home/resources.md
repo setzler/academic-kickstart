@@ -57,12 +57,14 @@ subtitle = ""
 
 - [Letters of Recommendation](https://www.bradleysetzler.com/advice/LettersOfRec) (for undergraduates)
 - [Research Presentations](https://www.bradleysetzler.com/advice/Presentations) (for PhD students)
+
+### Software Packages
+
+- [textab](https://setzler.github.io/textab): construct and compile highly-customized LaTeX tables in R [![](http://cranlogs.r-pkg.org/badges/grand-total/textab?color=blue)](https://cran.r-project.org/package=textab)
+- [DiD for Big Data](https://setzler.github.io/DiDforBigData/): fast and big-data-friendly diff-in-diffs in R [![](http://cranlogs.r-pkg.org/badges/grand-total/DiDforBigData?color=blue)](https://cran.r-project.org/package=DiDforBigData)
+
+### Miscellaneous
 - [Making Pour-over Coffee in the Office](https://www.bradleysetzler.com/advice/Coffee) (for professors)
-
-### Published Software Packages
-
-- [textab](https://setzler.github.io/textab): construct highly-customized LaTeX tables in R [![](http://cranlogs.r-pkg.org/badges/grand-total/textab?color=blue)](https://cran.r-project.org/package=textab)
-- [DiD for Big Data](https://setzler.github.io/DiDforBigData/): diff-in-diffs for big data in R [![](http://cranlogs.r-pkg.org/badges/grand-total/DiDforBigData?color=blue)](https://cran.r-project.org/package=DiDforBigData)
 
 
 Disclaimer: Materials provided are for Educational Use Only. All articles are the sole copyright of their respective publishers.
