@@ -3,7 +3,7 @@
 
 title: "How Much Should we Trust Estimates of Firm Effects and Worker Sorting?"
 authors: [Stephane Bonhomme, Kerstin Holzheu, Thibaut Lamadon, Elena Manresa, Magne Mogstad, admin]
-date: "2022-02-18T00:00:00Z"
+date: "2023-04-01T00:00:00Z"
 doi: ""
 weight: 11
 
