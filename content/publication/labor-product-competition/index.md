@@ -3,7 +3,7 @@
 
 title: "Imperfect Competition and Rents in Labor and Product Markets: The Case of the Construction Industry"
 authors: [Kory Kroft, Yao Luo, Magne Mogstad, admin]
-date: "2022-04-01T00:00:00Z"
+date: "2023-07-01T00:00:00Z"
 doi: ""
 weight: 9
 
@@ -20,10 +20,10 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: "We quantify the importance of imperfect competition in the US construction industry by estimating the size of rents earned by American firms and workers. To obtain a comprehensive measure of the total rents and to understand its sources, we take into account that rents may arise due to markdown of wages in the labor market, or markup of prices in the product market, or both. Our analyses combine the universe of US business and worker tax records with newly collected records from US procurement auctions. We use this data to identify and estimate a model where construction firms compete with one another for projects in the product market and for workers in the labor market. The firms may participate both in the private market and in government projects procured through auctions. We find evidence of considerable wage- and price-setting power. This imperfect competition creates sizable rents, three-fourths of which are captured by the firms. The incentive of firms to mark down wages and reduce employment due to wage-setting power is attenuated by their price-setting power in the product market."
+abstract: "Existing work on imperfect competition typically focuses on either the labor market or the product market in isolation. In contrast, we analyze imperfect competition in both markets jointly, showing theoretically and empirically that focusing on one market in isolation may result in a limited or misleading picture of the degree and impacts of market power. Our empirical setting is the US construction industry. We develop, identify and estimate a model where construction firms imperfectly compete with one another for workers in the labor market and for projects in both the private market and the government market, where government projects are procured through auctions. Our analyses combine the universe of business and worker tax records with newly collected records from government procurement auctions. We use the estimated model to quantify the markdown of wages and the markup of prices, to show that the impacts of an increase in market power in one market are attenuated by the existence of market power in the other market, and to quantify the rents, rent-sharing, and incidence of procurements in the US construction industry."
 
 # Summary. An optional shortened abstract.
-summary: "**Revision requested by <ins>*American Economic Review*</ins> in February 2023.** </br>My presentations: NBER SI-Labor, MIT, NBER IO, UBC, LSE, Stanford-SITE, Cornell, Maryland, UChicago, Penn State, CESifo, UToronto/Bank of Canada, Texas A&M"
+summary: "**Revision requested by <ins>*American Economic Review*</ins> in February 2023. Resubmitted in July 2023.** </br>My presentations: NBER SI-Labor, MIT, NBER IO, UBC, LSE, Stanford-SITE, Cornell, Maryland, UChicago, Penn State, CESifo, UToronto/Bank of Canada, Texas A&M"
 
 tags: []
 categories: []
