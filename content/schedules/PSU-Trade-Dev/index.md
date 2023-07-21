@@ -29,6 +29,8 @@ url_video: ''
 ---
 
 
+Contact the seminar organizer at bradley.setzler@gmail.com
+
 
 **2023-2024 Seminar Schedule:**
 
