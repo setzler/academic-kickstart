@@ -29,7 +29,9 @@ url_video: ''
 ---
 
 
-Contact the seminar organizer at bradley.setzler@gmail.com
+For questions about scheduling, contact me (bradley.setzler@gmail.com).
+
+For questions about logistics (hotels, flights, etc.), contact Giselle Thompson (glb6@psu.edu).
 
 
 **2023-2024 Seminar Schedule:**

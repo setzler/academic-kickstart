@@ -64,7 +64,7 @@ subtitle = ""
 - [textab](https://setzler.github.io/textab): construct and compile highly-customized LaTeX tables in R [![](http://cranlogs.r-pkg.org/badges/grand-total/textab?color=blue)](https://cran.r-project.org/package=textab)
 - [DiD for Big Data](https://setzler.github.io/DiDforBigData/): fast and big-data-friendly diff-in-diffs in R [![](http://cranlogs.r-pkg.org/badges/grand-total/DiDforBigData?color=blue)](https://cran.r-project.org/package=DiDforBigData)
 
-### Events I Organized
+### Events I Organize
 - [Penn State Trade & Development Seminar, 2022-2024](https://www.bradleysetzler.com/schedules/PSU-Trade-Dev)
 
 
