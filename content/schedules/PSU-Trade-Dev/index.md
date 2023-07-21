@@ -32,27 +32,31 @@ url_video: ''
 
 **2023-2024 Seminar Schedule:**
 
-- Sept 11:	Dimitrije Ruzic (INSEAD)
-- Sept 18:	
-- Sept 25:	
-- Oct 2:	John McLaren (UVA)
-- Oct 9:	
-- Oct 16:	Yan Bai (Rochester)
-- Oct 23:	
-- Oct 30:	
-- Nov 6:	
-- Nov 13:	Michael Waugh (Minneapolis Fed)
-- Nov 27:	
-- Dec 4:	
-- Feb 19:	
-- Feb 26:	Costas Arkolakis (Yale)
-- Mar 11:	Philipp Kircher (Cornell)
-- Mar 18:	Ariel Burstein (UCLA)
-- Mar 25:	Veronica Rappaport (LSE)
-- Apr 1:	
-- Apr 8:	Eduardo Morales (Princeton)
-- Apr 15:	David Hemous (Zurich)
-- Apr 22:	Isabela Manelici (LSE)
+| Date | Speaker | Affiliation |
+| --- | --- | --- |
+| Sept 11 |	Dimitrije Ruzic |	INSEAD |
+| Sept 18 |	 |	
+| Sept 25 |	 |	
+| Oct 2 |	John McLaren |	UVA |
+| Oct 9 |	 |	
+| Oct 16 |	Yan Bai |	Rochester |
+| Oct 23 |	 |	
+| Oct 30 |	 |	
+| Nov 6 |	 |	
+| Nov 13 |	Michael Waugh  |	Minneapolis Fed   |
+| Nov 27 | |		
+| Dec 4 |	 |	
+| Feb 19 |	 |	
+| Feb 26 |	Costas Arkolakis  |	Yale |
+| Mar 11 |		Philipp Kircher  |	Cornell   |
+| Mar 18 |		Ariel Burstein  |	UCLA |
+| Mar 25 |		Veronica Rappaport  |	LSE |
+| Apr 1 |	 |	
+| Apr 8 |		Eduardo Morales  |	Princeton |	
+| Apr 15 |		David Hemous  |	Zurich |	
+| Apr 22 |		Isabela Manelici  |	LSE |
+
+
 
 
 **2022-2023 Seminar Schedule:**
