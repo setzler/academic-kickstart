@@ -95,6 +95,30 @@ For questions about logistics (hotels, flights, etc.), contact Giselle Thompson 
 
 
 
+**Current Trade and/or Development Faculty at Penn State:**
+
+- Maria-Jose Carreras-Valle
+- Jonathan Eaton
+- Jingting Fan
+- Michael Gechter
+- Kala Krishna
+- Fernando Parro
+- Bee-Yan Roberts
+- Mark Roberts
+- Bradley Setzler
+- James Tybout
+- Stephen Yeaple
+
+
+
+
+
+
+
+
+
+
+
 
 
 
