@@ -1,8 +1,4 @@
 ---
-title: "eventStudy"
-
-publishDate: "2023-08-01T00:00:00Z"
-
 title: "Penn State Trade & Development Seminar"
 
 publishDate: "2023-01-02T00:00:00Z"
