@@ -62,7 +62,7 @@ For questions about logistics (hotels, flights, etc.), contact Giselle Thompson 
 
 
 
-
+-----------------
 
 **2022-2023 Seminar Schedule:**
 
@@ -93,7 +93,7 @@ For questions about logistics (hotels, flights, etc.), contact Giselle Thompson 
 | May 1   | Monica Morlacco            | USC                     |
 
 
-
+----------------
 
 **Current Trade and/or Development Faculty at Penn State:**
 
