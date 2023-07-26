@@ -51,7 +51,7 @@ For questions about logistics (hotels, flights, etc.), contact Giselle Thompson 
 | Nov 6   |                    |                    |
 | Nov 13  | Michael Waugh      | Minneapolis Fed    |
 | Nov 27  |                    |                    |
-| Dec 4   |                    |                    |
+| Dec 4   | Felix Tintelnot    | Chicago            |
 | Feb 19  |                    |                    |
 | Feb 26  | Costas Arkolakis   | Yale               |
 | Mar 11  | Philipp Kircher    | Cornell            |
