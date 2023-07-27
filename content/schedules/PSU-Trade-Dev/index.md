@@ -41,7 +41,7 @@ url_video: ''
 | Oct 9   |                    |                    |
 | Oct 16  | Yan Bai            | Rochester          |
 | Oct 23  |                    |                    |
-| Oct 30  |                    |                    |
+| Oct 30  | Xiang Ding         | Georgetown         |
 | Nov 6   |                    |                    |
 | Nov 13  | Michael Waugh      | Minneapolis Fed    |
 | Nov 27  |                    |                    |
