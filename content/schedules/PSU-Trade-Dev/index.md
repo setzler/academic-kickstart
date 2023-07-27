@@ -103,9 +103,7 @@ url_video: ''
 **Contact Information:** For questions about scheduling or to provide a copy of your presentation slides, contact me (bradley.setzler@gmail.com). For questions about logistics (hotel, flight, reimbursement, etc.), contact Giselle Thompson (glb6@psu.edu).
 
 
-**Seminar Attendees:**
-
-Current faculty at Penn State whose work is related to trade and/or development include:
+**Seminar Attendees:** A large number of current faculty at Penn State work in trade and/or development, including:
 
 - Maria-Jose Carreras-Valle
 - Jonathan Eaton
@@ -119,7 +117,7 @@ Current faculty at Penn State whose work is related to trade and/or development 
 - James Tybout
 - Stephen Yeaple
 
-In addition, a large number of Penn State graduate students work primarily in trade and/or development. As a result, there are typically 30-50 attendees at the Trade & Development Seminar.
+In addition, a large number of Penn State PhD students work primarily in trade and/or development. As a result, there are typically 30-50 attendees at the Trade & Development Seminar.
 
 
 
