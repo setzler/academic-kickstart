@@ -28,17 +28,6 @@ url_video: ''
 
 ---
 
-## Information for Seminar Speakers
-
-**Seminar:** The Trade & Development Seminar meets at 3:00 - 4:15 PM on Monday afternoons. Location TBD.
-
-**Visitor Information:** The visitor's office and all one-on-one meetings are located in the Kern Graduate Building. For coffee, there is a Panera located in the lobby of Kern. For parking, the Nittany Parking Deck is next to Kern; take a ticket when entering the garage and pay later at the credit card machine. 
-- [Kern on Google Maps.](https://goo.gl/maps/VfyKj3HAWvj7LMvt6)
-- [Parking on Google Maps.](https://goo.gl/maps/BRS86mFRinGTc6qdA)
-
-**Contact Information:** For questions about scheduling or to provide a copy of your presentation slides, contact me (bradley.setzler@gmail.com). For questions about logistics (hotel, flight, reimbursement, etc.), contact Giselle Thompson (glb6@psu.edu).
-
-
 ----------------
 
 ## 2023-2024 Seminar Schedule:
@@ -102,7 +91,21 @@ url_video: ''
 
 ----------------
 
-**Current Trade and/or Development Faculty at Penn State:**
+
+## Information for Seminar Speakers
+
+**Seminar:** The Trade & Development Seminar meets at 3:00 - 4:15 PM on Monday afternoons. Location TBD.
+
+**Visitor Information:** The visitor's office and all one-on-one meetings are located in the Kern Graduate Building. For coffee, there is a Panera located in the lobby of Kern. For parking, the Nittany Parking Deck is next to Kern; take a ticket when entering the garage and pay later at the credit card machine. 
+- [Kern on Google Maps.](https://goo.gl/maps/VfyKj3HAWvj7LMvt6)
+- [Parking on Google Maps.](https://goo.gl/maps/BRS86mFRinGTc6qdA)
+
+**Contact Information:** For questions about scheduling or to provide a copy of your presentation slides, contact me (bradley.setzler@gmail.com). For questions about logistics (hotel, flight, reimbursement, etc.), contact Giselle Thompson (glb6@psu.edu).
+
+
+**Seminar Attendees:**
+
+Current faculty at Penn State whose work is related to trade and/or development include:
 
 - Maria-Jose Carreras-Valle
 - Jonathan Eaton
@@ -116,6 +119,7 @@ url_video: ''
 - James Tybout
 - Stephen Yeaple
 
+In addition, a large number of Penn State graduate students work primarily in trade and/or development. As a result, there are typically 30-50 attendees at the Trade & Development Seminar.
 
 
 
