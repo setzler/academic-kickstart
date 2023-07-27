@@ -36,7 +36,7 @@ url_video: ''
 |---------|--------------------|--------------------|
 | Sept 11 | Dimitrije Ruzic    | INSEAD             |
 | Sept 18 |                    |                    |
-| Sept 25 |                    |                    |
+| Sept 25 | Torsten Jaccard    | UBC                |
 | Oct 2   | John McLaren       | UVA                |
 | Oct 9   |                    |                    |
 | Oct 16  | Yan Bai            | Rochester          |
