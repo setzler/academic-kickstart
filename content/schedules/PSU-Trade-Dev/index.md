@@ -28,6 +28,9 @@ url_video: ''
 
 ---
 
+The Trade and Development Seminar meets at 3:00 - 4:15 PM on Monday afternoons.
+
+The visitor's office and all one-on-one meetings are located in the Kern Building. 
 
 For questions about scheduling, contact me (bradley.setzler@gmail.com).
 
