@@ -28,18 +28,20 @@ url_video: ''
 
 ---
 
-*Seminar:* The Trade & Development Seminar meets at 3:00 - 4:15 PM on Monday afternoons. Location TBD.
+## Information for Seminar Speakers
 
-*Visitor Information:* The visitor's office and all one-on-one meetings are located in the Kern Graduate Building. For coffee, there is a Panera located in the lobby of Kern. For parking, the Nittany Parking Deck is next to Kern; Take a ticket when entering the garage and pay later at the credit card machine. 
+**Seminar:** The Trade & Development Seminar meets at 3:00 - 4:15 PM on Monday afternoons. Location TBD.
+
+**Visitor Information:** The visitor's office and all one-on-one meetings are located in the Kern Graduate Building. For coffee, there is a Panera located in the lobby of Kern. For parking, the Nittany Parking Deck is next to Kern; take a ticket when entering the garage and pay later at the credit card machine. 
 - [Kern on Google Maps.](https://goo.gl/maps/VfyKj3HAWvj7LMvt6)
 - [Parking on Google Maps.](https://goo.gl/maps/BRS86mFRinGTc6qdA)
 
-*Contact Information:* For questions about scheduling or to provide a copy of your presentation slides, contact me (bradley.setzler@gmail.com). For questions about logistics (hotel, flight, reimbursement, etc.), contact Giselle Thompson (glb6@psu.edu).
+**Contact Information:** For questions about scheduling or to provide a copy of your presentation slides, contact me (bradley.setzler@gmail.com). For questions about logistics (hotel, flight, reimbursement, etc.), contact Giselle Thompson (glb6@psu.edu).
 
 
 ----------------
 
-**2023-2024 Seminar Schedule:**
+## 2023-2024 Seminar Schedule:
 
 | Date    | Speaker            | Affiliation        |
 |---------|--------------------|--------------------|
@@ -69,7 +71,7 @@ url_video: ''
 
 ----------------
 
-**2022-2023 Seminar Schedule:**
+## 2022-2023 Seminar Schedule:
 
 | Date    | Speaker                    | Affiliation             |
 |---------|----------------------------|-------------------------|
