@@ -46,7 +46,7 @@ url_video: ''
 | Nov 13  | Michael Waugh      | Minneapolis Fed    |
 | Nov 27  |                    |                    |
 | Dec 4   | Felix Tintelnot    | Chicago            |
-| Feb 19  |                    |                    |
+| Feb 19  | Sharat Ganapati    | Georgetown         |
 | Feb 26  | Costas Arkolakis   | Yale               |
 | Mar 11  | Philipp Kircher    | Cornell            |
 | Mar 18  | Ariel Burstein     | UCLA               |
