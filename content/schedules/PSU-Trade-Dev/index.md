@@ -35,7 +35,7 @@ url_video: ''
 | Date    | Speaker            | Affiliation        |
 |---------|--------------------|--------------------|
 | Sept 11 | Dimitrije Ruzic    | INSEAD             |
-| Sept 18 |                    |                    |
+| Sept 18 | Fernando Leibovici | St Louis Fed       |
 | Sept 25 | Torsten Jaccard    | UBC                |
 | Oct 2   | John McLaren       | UVA                |
 | Oct 9   |                    |                    |
