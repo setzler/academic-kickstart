@@ -37,10 +37,10 @@ url_video: ''
 | Sept 11 | Dimitrije Ruzic    | INSEAD             |
 | Sept 18 | Fernando Leibovici | St Louis Fed       |
 | Sept 25 | Torsten Jaccard    | UBC                |
-| Oct 2   | John McLaren       | UVA                |
+| Oct 2   | John McLaren       | Virginia           |
 | Oct 9   |                    |                    |
 | Oct 16  | Yan Bai            | Rochester          |
-| Oct 23  |                    |                    |
+| Oct 23  | Anna Vitali        | Dartmouth/NYU      |
 | Oct 30  | Xiang Ding         | Georgetown         |
 | Nov 6   |                    |                    |
 | Nov 13  | Michael Waugh      | Minneapolis Fed    |
