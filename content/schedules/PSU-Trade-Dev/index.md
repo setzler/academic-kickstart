@@ -51,7 +51,7 @@ url_video: ''
 | Mar 11  | Philipp Kircher    | Cornell            |
 | Mar 18  | Ariel Burstein     | UCLA               |
 | Mar 25  | Veronica Rappaport | LSE                |
-| Apr 1   |                    |                    |
+| Apr 1   | Sebastian Sotelo   | Michigan           |
 | Apr 8   | Eduardo Morales    | Princeton          |
 | Apr 15  | David Hemous       | Zurich             |
 | Apr 22  | Isabela Manelici   | LSE                |
