@@ -42,7 +42,7 @@ url_video: ''
 | Oct 16  | Yan Bai            | Rochester          |
 | Oct 23  | Anna Vitali        | Dartmouth/NYU      |
 | Oct 30  | Xiang Ding         | Georgetown         |
-| Nov 6   |                    |                    |
+| Nov 6   | Danial Lashkari    | NY Fed             |
 | Nov 13  | Michael Waugh      | Minneapolis Fed    |
 | Nov 27  |                    |                    |
 | Dec 4   | Felix Tintelnot    | Chicago            |
