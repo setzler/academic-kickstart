@@ -46,7 +46,6 @@ url_video: ''
 | Nov 13  | Michael Waugh      | Minneapolis Fed    |
 | Nov 27  |                    |                    |
 | Dec 4   | Felix Tintelnot    | Chicago            |
-|---------|--------------------|--------------------|
 | Feb 12  | Lin Tian           | INSEAD             |
 | Feb 19  | Sharat Ganapati    | Georgetown         |
 | Feb 26  | Costas Arkolakis   | Yale               |
@@ -77,7 +76,6 @@ url_video: ''
 | Nov 7   | Robert Staiger             | Dartmouth               |
 | Nov 14  | Nitya Pandalai-Nayar       | UT Austin               |
 | Dec 5   | Kirill Borusyak            | UCL                     |
-|---------|----------------------------|-------------------------|
 | Feb 13  | Pol Antras                 | Harvard                 |
 | Feb 20  | Molly Lipscomb             | Virginia                |
 | Feb 27  | Apoorv Gupta               | Dartmouth               |
