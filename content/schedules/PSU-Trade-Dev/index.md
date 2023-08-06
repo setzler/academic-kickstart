@@ -44,7 +44,7 @@ url_video: ''
 | Oct 30  | Xiang Ding         | Georgetown         |
 | Nov 6   | Danial Lashkari    | NY Fed             |
 | Nov 13  | Michael Waugh      | Minneapolis Fed    |
-| Nov 27  |                    |                    |
+| Nov 27  | John Lopresti      | William & Mary     |
 | Dec 4   | Felix Tintelnot    | Chicago            |
 | Feb 12  | Lin Tian           | INSEAD             |
 | Feb 19  | Sharat Ganapati    | Georgetown         |
