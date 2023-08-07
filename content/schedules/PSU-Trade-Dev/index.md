@@ -38,7 +38,7 @@ url_video: ''
 | Sept 18 | Fernando Leibovici | St Louis Fed       |
 | Sept 25 | Torsten Jaccard    | UBC                |
 | Oct 2   | John McLaren       | Virginia           |
-| Oct 9   |                    |                    |
+| Oct 9   | Cristina Tello-Trillo | Census Bureau   |
 | Oct 16  | Yan Bai            | Rochester          |
 | Oct 23  | Anna Vitali        | Dartmouth/NYU      |
 | Oct 30  | Xiang Ding         | Georgetown         |
