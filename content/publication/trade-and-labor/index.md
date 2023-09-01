@@ -5,7 +5,7 @@ title: "Trade and the Labor Market"
 authors: [David Autor, David Dorn, Gordon Hanson, Maggie Jones, admin]
 date: "2023-09-01T00:00:00Z"
 doi: ""
-weight: 9
+weight: 11
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-09-01T00:00:00Z"
