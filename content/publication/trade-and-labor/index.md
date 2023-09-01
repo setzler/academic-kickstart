@@ -23,7 +23,7 @@ publication_short: ""
 abstract: Coming soon. Title subject to change.
 
 # Summary. An optional shortened abstract.
-summary: In preparation for the **<ins>Handbook of Labor Economics</ins>**. Title subject to change.
+summary: In preparation for the **<ins>*Handbook of Labor Economics*</ins>**. Title subject to change.
 
 
 tags: []
