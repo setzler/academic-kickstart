@@ -20,7 +20,7 @@ publication_types: ["0"]
 publication: ""
 publication_short: ""
 
-# abstract: 
+abstract: Coming soon.
 
 # Summary. An optional shortened abstract.
 # summary: Coming soon.
