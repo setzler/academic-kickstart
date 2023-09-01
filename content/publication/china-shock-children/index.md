@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Children of the China Shock"
+title: "The Children of the China Shock"
 authors: [David Autor, David Dorn, Gordon Hanson, Maggie Jones, admin]
 date: "2023-09-01T00:00:00Z"
 doi: ""
