@@ -62,10 +62,10 @@ Faculty Research Fellow in Labor Studies, NBER.
 - Secondary: Industrial Organization, International Trade 
 
  
-**Topics:**
+**Topics of Interest:**
 1. Employer market power over workers
 2. How trade affects workers
-3. How workers insure against job loss
+3. How workers respond to job loss
 
 
 
