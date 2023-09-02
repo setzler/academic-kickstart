@@ -63,8 +63,8 @@ Faculty Research Fellow in Labor Studies, NBER.
 
  
 **Topics:**
-- Topic 1: Employer market power over workers
-- Topic 2: How international trade affects workers
+- 1) Employer market power over workers
+- 2) How international trade affects workers
 
 
 
