@@ -63,9 +63,9 @@ Faculty Research Fellow in Labor Studies, NBER.
 
  
 **Topics of Interest:**
-1. Employer market power over workers
-2. How trade affects workers
-3. How workers respond to job loss
+1. Employer market power over workers.
+2. How trade affects workers.
+3. How workers recover from job loss.
 
 
 
