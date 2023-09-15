@@ -95,7 +95,7 @@ url_video: ''
 
 ## Information for Seminar Speakers
 
-**Seminar:** The Trade & Development Seminar meets at 3:00 - 4:15 PM on Monday afternoons. Location TBD.
+**Seminar:** The Trade & Development Seminar meets at 3:00 - 4:15 PM on Monday afternoons in Kern 102.
 
 **Visitor Information:** The visitor's office and all one-on-one meetings are located in the Kern Graduate Building. For coffee, there is a Panera located in the lobby of Kern. For parking, the Nittany Parking Deck is next to Kern; take a ticket when entering the garage and pay later at the credit card machine. 
 - [Kern on Google Maps.](https://goo.gl/maps/VfyKj3HAWvj7LMvt6)
