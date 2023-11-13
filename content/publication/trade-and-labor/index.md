@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Trade and the Labor Market"
+title: "Trade (Mal)adjustment: Evidence vs Theory on the Labor Market Impacts of Trade"
 authors: [David Autor, David Dorn, Gordon Hanson, Maggie Jones, admin]
 date: "2023-09-01T00:00:00Z"
 doi: ""
