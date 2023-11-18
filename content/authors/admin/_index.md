@@ -63,7 +63,7 @@ Faculty Research Fellow in Labor Studies, NBER.
 
  
 **Topics of Interest:**
-1. Employer market power over workers.
+1. Employer market power over workers (see [2](https://www.bradleysetzler.com/files/Setzler-Tintelnot.pdf)).
 2. How trade affects workers.
 3. How workers recover from job loss.
 
