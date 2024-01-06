@@ -49,22 +49,26 @@ subtitle = ""
 
 ------------
 
+
 ### Public Lectures
 
-- [A Brief Overview of Monopsony, Wage Inequality, and Labor Market Sorting](files/Setzler-Lecture-WageInequality.pdf)
+- Guest Lecture: [A Brief Overview of Monopsony, Wage Inequality, and Labor Market Sorting](files/Setzler-Lecture-WageInequality.pdf)
+
+- Discussion: [Labor and Product Market Effects of Mergers](files/setzler_mergers_ASSA24.pdf)
+
 
 ### Advice
 
 - [Letters of Recommendation](https://www.bradleysetzler.com/advice/LettersOfRec) (for undergraduates)
 - [Research Presentations](https://www.bradleysetzler.com/advice/Presentations) (for PhD students)
+- [Making Pour-over Coffee in the Office](https://www.bradleysetzler.com/advice/Coffee) (for professors)
+
 
 ### Software Packages
 
 - [textab](https://setzler.github.io/textab): construct and compile highly-customized LaTeX tables in R [![](http://cranlogs.r-pkg.org/badges/grand-total/textab?color=blue)](https://cran.r-project.org/package=textab)
 - [DiD for Big Data](https://setzler.github.io/DiDforBigData/): fast and big-data-friendly diff-in-diffs in R [![](http://cranlogs.r-pkg.org/badges/grand-total/DiDforBigData?color=blue)](https://cran.r-project.org/package=DiDforBigData)
 
-### Miscellaneous
-- [Making Pour-over Coffee in the Office](https://www.bradleysetzler.com/advice/Coffee) (for professors)
 
 
 Disclaimer: Materials provided are for Educational Use Only. All articles are the sole copyright of their respective publishers.
