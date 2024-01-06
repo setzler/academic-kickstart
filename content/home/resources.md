@@ -53,7 +53,6 @@ subtitle = ""
 ### Public Lectures
 
 - Guest Lecture: [A Brief Overview of Monopsony, Wage Inequality, and Labor Market Sorting](files/Setzler-Lecture-WageInequality.pdf)
-
 - Discussion: [Labor and Product Market Effects of Mergers](files/setzler_mergers_ASSA24.pdf)
 
 
