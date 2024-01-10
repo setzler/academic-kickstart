@@ -50,7 +50,7 @@ url_video: ''
 | Feb 19  | Sharat Ganapati    | Georgetown         |
 | Feb 26  | Costas Arkolakis   | Yale               |
 | Mar 11  | Philipp Kircher    | Cornell            |
-| Mar 18  | Ariel Burstein     | UCLA               |
+| Mar 18  | Charly Porcher     | Georgetown         |
 | Mar 25  | Veronica Rappaport | LSE                |
 | Apr 1   | Sebastian Sotelo   | Michigan           |
 | Apr 8   | Eduardo Morales    | Princeton          |
