@@ -101,7 +101,7 @@ url_video: ''
 - [Kern on Google Maps.](https://goo.gl/maps/VfyKj3HAWvj7LMvt6)
 - [Parking on Google Maps.](https://goo.gl/maps/BRS86mFRinGTc6qdA)
 
-**Contact Information:** For questions about scheduling or to provide a copy of your presentation slides, contact me (bradley.setzler@gmail.com). For questions about logistics (hotel, flight, reimbursement, etc.), contact Giselle Thompson (glb6@psu.edu).
+**Contact Information:** For questions about scheduling or to provide a copy of your presentation slides, contact me (bradley.setzler@gmail.com). For questions about logistics (hotel, flight, reimbursement, etc.), contact Michele Tynan (mzt174@psu.edu).
 
 
 **Seminar Attendees:** A large number of current faculty at Penn State work in trade and/or development, including:
