@@ -115,8 +115,8 @@ url_video: ''
 - Mark Roberts
 - Bradley Setzler
 - James Tybout
-- Stephen Yeaple
 - Kai-Jie Wu
+- Stephen Yeaple
 
 In addition, a large number of Penn State PhD students work primarily in trade and/or development. As a result, there are typically 30-50 attendees at the Trade & Development Seminar.
 
