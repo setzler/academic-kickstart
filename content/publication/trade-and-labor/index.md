@@ -1,11 +1,11 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Trade (Mal)adjustment: Evidence vs Theory on the Labor Market Impacts of Trade"
+title: "Trade (Mal)adjustment"
 authors: [David Autor, David Dorn, Gordon Hanson, Maggie Jones, admin]
 date: "2023-09-01T00:00:00Z"
 doi: ""
-weight: 11
+weight: 9
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-09-01T00:00:00Z"

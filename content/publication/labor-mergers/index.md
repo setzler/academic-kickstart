@@ -5,7 +5,7 @@ title: "Mergers, Collusion, and Labor Market Power: Theory and Evidence from the
 authors: [Michael Rubens, admin, Chen Yeh]
 date: "2023-09-01T00:00:00Z"
 doi: ""
-weight: 9
+weight: 11
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-09-01T00:00:00Z"
