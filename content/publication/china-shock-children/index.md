@@ -5,7 +5,7 @@ title: "The Children of the China Shock"
 authors: [David Autor, David Dorn, Gordon Hanson, Maggie Jones, admin]
 date: "2023-09-01T00:00:00Z"
 doi: ""
-weight: 10
+weight: 11
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-09-01T00:00:00Z"
