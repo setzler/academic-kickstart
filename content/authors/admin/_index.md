@@ -14,7 +14,7 @@ role: Assistant Professor of Economics
 
 # Organizations/Affiliations
 organizations:
-- name: Pennsylvania State University & NBER
+- name: Penn State & NBER
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -50,9 +50,10 @@ email: ""
 # - Visitors
 ---
 
-The Strumpf Early Career Assistant Professor of Economics, Pennsylvania State University.
-
-Faculty Research Fellow in Labor Studies, NBER.
+**Appointments:**
+- The Strumpf Early Career Assistant Professor of Economics, Penn State.
+- Visiting Assistant Professor of Economics, MIT.
+- Faculty Research Fellow in Labor Studies, NBER.
 
 **Links:** {{% staticref "#publication" %}}Research{{% /staticref %}} | {{% staticref "files/SetzlerCV.pdf" %}}CV{{% /staticref %}} | bradley.setzler@gmail.com
 
@@ -63,7 +64,7 @@ Faculty Research Fellow in Labor Studies, NBER.
 
  
 **Topics of Interest:**
-1. Employer market power over workers (see [2](https://www.bradleysetzler.com/files/Setzler-Tintelnot.pdf), [3](https://www.bradleysetzler.com/files/Lamadon-Mogstad-Setzler.pdf), [4](https://www.bradleysetzler.com/files/BHLMM-Setzler.pdf), [5](https://www.bradleysetzler.com/files/Kroft-Luo-Mogstad-Setzler.pdf), [7](https://www.bradleysetzler.com/publication/labor-mergers/)).
+1. Employer market power over workers (see [2](https://www.bradleysetzler.com/files/Setzler-Tintelnot.pdf), [3](https://www.bradleysetzler.com/files/Lamadon-Mogstad-Setzler.pdf), [4](https://www.bradleysetzler.com/files/BHLMM-Setzler.pdf), [5](https://www.bradleysetzler.com/files/Kroft-Luo-Mogstad-Setzler.pdf), [7](https://www.bradleysetzler.com/publication/labor-collusion/)).
 2. How trade affects workers (see [2](https://www.bradleysetzler.com/files/Setzler-Tintelnot.pdf), [6](https://www.bradleysetzler.com/publication/trade-and-labor/), [8](https://www.bradleysetzler.com/publication/china-shock-children/)).
 3. How workers recover from job loss (see [1](https://www.bradleysetzler.com/files/Autor-Kostol-Mogstad-Setzler.pdf), [6](https://www.bradleysetzler.com/publication/trade-and-labor/), [8](https://www.bradleysetzler.com/publication/china-shock-children/)).
 
