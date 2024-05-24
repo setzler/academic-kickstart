@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Mergers, Collusion, and Labor Market Power: Theory and Evidence from the United States"
+title: "Collusion in the U.S. Labor Market"
 authors: [Michael Rubens, admin, Chen Yeh]
 date: "2023-09-01T00:00:00Z"
 doi: ""
