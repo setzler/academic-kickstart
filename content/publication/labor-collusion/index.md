@@ -20,10 +20,10 @@ publication_types: ["0"]
 publication: ""
 publication_short: ""
 
-abstract: Coming soon.
+abstract: Coming soon. Title subject to change.
 
 # Summary. An optional shortened abstract.
-# summary: Coming soon.
+# summary: Coming soon. Title subject to change.
 
 tags: []
 categories: []
