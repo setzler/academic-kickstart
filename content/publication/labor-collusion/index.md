@@ -3,7 +3,7 @@
 
 title: "Collusion in the U.S. Labor Market"
 authors: [Michael Rubens, admin, Chen Yeh]
-date: "2023-09-01T00:00:00Z"
+date: "2024-05-01T00:00:00Z"
 doi: ""
 weight: 10
 
