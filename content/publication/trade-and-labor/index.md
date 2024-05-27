@@ -3,12 +3,12 @@
 
 title: "Places versus People: The Ins and Outs of Labor Market Adjustment to Globalization"
 authors: [David Autor, David Dorn, Gordon Hanson, Maggie Jones, admin]
-date: "2023-07-01T00:00:00Z"
+date: "2024-05-01T00:00:00Z"
 doi: ""
-weight: 10
+weight: 9
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-05-01T00:00:00Z"
+publishDate: "2023-09-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -20,7 +20,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: Coming soon. 
+abstract: Coming soon. Title subject to change.
 
 # Summary. An optional shortened abstract.
 summary: In preparation for the **<ins>*Handbook of Labor Economics*</ins>**. My presentations: Carnegie Mellon, Oslo Labor Workshop.
