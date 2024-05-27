@@ -20,7 +20,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: Coming soon. Title subject to change.
+abstract: Coming soon. 
 
 # Summary. An optional shortened abstract.
 summary: "**In preparation for <ins>*Handbook of Labor Economics*</ins>.** </br>My presentations: Carnegie Mellon, Oslo Labor Workshop."
@@ -34,7 +34,11 @@ featured: false
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 
-links: 
+links:
+- name: Handbook of Labor Economics
+  url: https://shop.elsevier.com/books/handbook-of-labor-economics/dustmann/978-0-443-29764-9
+  icon_pack: 
+  icon: 
 url_pdf: 
 url_code:
 url_dataset:
