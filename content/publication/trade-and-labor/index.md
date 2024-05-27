@@ -14,7 +14,7 @@ publishDate: "2023-09-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
@@ -23,7 +23,7 @@ publication_short: ""
 abstract: Coming soon. Title subject to change.
 
 # Summary. An optional shortened abstract.
-summary: In preparation for the **<ins>*Handbook of Labor Economics*</ins>**. Title subject to change.
+summary: In preparation for the **<ins>*Handbook of Labor Economics*</ins>**.  
 
 
 tags: []
