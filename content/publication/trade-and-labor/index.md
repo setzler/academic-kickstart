@@ -23,7 +23,7 @@ publication_short: ""
 abstract: Coming soon. Title subject to change.
 
 # Summary. An optional shortened abstract.
-summary: In preparation for the **<ins>*Handbook of Labor Economics*</ins>**. 
+summary: In preparation for the **<ins>*Handbook of Labor Economics*</ins>**. My presentations: Carnegie Mellon, Oslo Labor Workshop.
 
 
 tags: []
