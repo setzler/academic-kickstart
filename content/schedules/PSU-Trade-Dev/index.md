@@ -28,6 +28,26 @@ url_video: ''
 
 ---
 
+
+----------------
+
+## 2024 Fall Seminar Schedule:
+
+| Date    | Speaker            | Affiliation        |
+|---------|--------------------|--------------------|
+| Sept 9  |      |               |
+| Sept 16 | Philipp Kircher    | Cornell            |
+| Sept 23 | Ernest Liu         | Princeton          |
+| Sept 30 |      |                 |
+| Oct 7   | Michael Peters     | Yale           |
+| Oct 14   |   |     |
+| Oct 21  |   Marc Melitz         |   Harvard       |
+| Oct 28  |         |      | 
+| Nov 4   |  Gordon Hanson   |   Harvard          |
+| Nov 11  |       |     |
+| Nov 18  |  Kim Ruhl    |  Wisconsin    | 
+
+
 ----------------
 
 ## 2023-2024 Seminar Schedule:
@@ -48,8 +68,7 @@ url_video: ''
 | Dec 4   | Felix Tintelnot    | Chicago            |
 | Feb 12  | Lin Tian           | INSEAD             |
 | Feb 19  | Sharat Ganapati    | Georgetown         |
-| Feb 26  | Costas Arkolakis   | Yale               |
-| Mar 11  | Philipp Kircher    | Cornell            |
+| Feb 26  | Costas Arkolakis   | Yale               | 
 | Mar 18  | Charly Porcher     | Georgetown         |
 | Mar 25  | Veronica Rappaport | LSE                |
 | Apr 1   | Sebastian Sotelo   | Michigan           |
