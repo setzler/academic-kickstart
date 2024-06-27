@@ -42,7 +42,7 @@ url_video: ''
 | Oct 7   | Michael Peters     | Yale           |
 | Oct 14   |   |     |
 | Oct 21  |   Marc Melitz         |   Harvard       |
-| Oct 28  |         |      | 
+| Oct 28  |   David Atkin      |   MIT   | 
 | Nov 4   |  Gordon Hanson   |   Harvard          |
 | Nov 11  |       |     |
 | Nov 18  |  Kim Ruhl    |  Wisconsin    | 
