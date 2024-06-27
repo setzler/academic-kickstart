@@ -35,7 +35,7 @@ url_video: ''
 
 | Date    | Speaker            | Affiliation        |
 |---------|--------------------|--------------------|
-| Sept 9  |      |               |
+| Sept 9  |  Thomas Chaney    |   USC            |
 | Sept 16 | Philipp Kircher    | Cornell            |
 | Sept 23 | Ernest Liu         | Princeton          |
 | Sept 30 |      |                 |
