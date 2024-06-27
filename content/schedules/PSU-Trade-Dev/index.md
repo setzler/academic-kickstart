@@ -44,7 +44,7 @@ url_video: ''
 | Oct 21  |   Marc Melitz         |   Harvard       |
 | Oct 28  |   David Atkin      |   MIT   | 
 | Nov 4   |  Gordon Hanson   |   Harvard          |
-| Nov 11  |       |     |
+| Nov 11  |   Allan Hsiao    |   Princeton  |
 | Nov 18  |  Kim Ruhl    |  Wisconsin    | 
 
 
