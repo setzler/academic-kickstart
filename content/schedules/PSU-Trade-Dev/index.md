@@ -38,7 +38,7 @@ url_video: ''
 | Sept 9  |  Thomas Chaney    |   USC            |
 | Sept 16 | Philipp Kircher    | Cornell            |
 | Sept 23 | Ernest Liu         | Princeton          |
-| Sept 30 |      |                 |
+| Sept 30 | Jose Vasquez     |   LSE              |
 | Oct 7   | Michael Peters     | Yale           |
 | Oct 14   |   |     |
 | Oct 21  |   Marc Melitz         |   Harvard       |
