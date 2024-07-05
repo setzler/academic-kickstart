@@ -40,7 +40,7 @@ url_video: ''
 | Sept 23 | Ernest Liu         | Princeton          |
 | Sept 30 | Jose Vasquez     |   LSE              |
 | Oct 7   | Michael Peters     | Yale           |
-| Oct 14   |   |     |
+| Oct 14   | Moises Yi  |     |   Census Bureau   |
 | Oct 21  |   Marc Melitz         |   Harvard       |
 | Oct 28  |   David Atkin      |   MIT   | 
 | Nov 4   |  Gordon Hanson   |   Harvard          |
