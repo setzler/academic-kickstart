@@ -40,7 +40,7 @@ url_video: ''
 | Sept 23 | Ernest Liu         | Princeton          |
 | Sept 30 | Jose Vasquez     |   LSE              |
 | Oct 7   | Michael Peters     | Yale           |
-| Oct 14   | Moises Yi  |     |   Census Bureau   |
+| Oct 14   | Moises Yi  |  US Census Bureau   |
 | Oct 21  |   Marc Melitz         |   Harvard       |
 | Oct 28  |   David Atkin      |   MIT   | 
 | Nov 4   |  Gordon Hanson   |   Harvard          |
@@ -58,7 +58,7 @@ url_video: ''
 | Sept 18 | Fernando Leibovici | St Louis Fed       |
 | Sept 25 | Torsten Jaccard    | UBC                |
 | Oct 2   | John McLaren       | Virginia           |
-| Oct 9   | Cristina Tello-Trillo | Census Bureau   |
+| Oct 9   | Cristina Tello-Trillo | US Census Bureau   |
 | Oct 16  | Yan Bai            | Rochester          |
 | Oct 23  | Anna Vitali        | Dartmouth/NYU      |
 | Oct 30  | Xiang Ding         | Georgetown         |
