@@ -44,7 +44,7 @@ url_video: ''
 | Oct 21  |   Marc Melitz         |   Harvard       |
 | Oct 28  |   David Atkin      |   MIT   | 
 | Nov 4   |  Gordon Hanson   |   Harvard          |
-| Nov 11  |   Allan Hsiao    |   Princeton  |
+| Nov 11  |   Allan Hsiao    |   Stanford  |
 | Nov 18  |  Kim Ruhl    |  Wisconsin    | 
 
 
@@ -127,9 +127,8 @@ url_video: ''
 
 - Maria-Jose Carreras-Valle 
 - Jingting Fan
-- Michael Gechter
+- Suela Kim
 - Kala Krishna
-- Fernando Parro
 - Bee-Yan Roberts
 - Mark Roberts
 - Bradley Setzler
