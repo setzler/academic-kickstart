@@ -51,8 +51,8 @@ email: ""
 ---
 
 **Appointments:**
+- The Hal Varian Visiting Assistant Professor of Economics, MIT (Spring 2025).
 - The Strumpf Early Career Assistant Professor of Economics, Penn State.
-- Visiting Assistant Professor of Economics, MIT (Spring 2025).
 - Faculty Research Fellow in Labor Studies, NBER.
 
 **Links:** {{% staticref "#publication" %}}Research{{% /staticref %}} | {{% staticref "files/SetzlerCV.pdf" %}}CV{{% /staticref %}} | bradley.setzler@gmail.com
