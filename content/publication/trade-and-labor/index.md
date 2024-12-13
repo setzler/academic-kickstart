@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "The Ins and Outs of Labor Market Adjustment to Globalization"
+title: "Places vs People: The Ins and Outs of Labor Market Adjustment to Globalization"
 authors: [David Autor, David Dorn, Gordon Hanson, Maggie Jones, admin]
 date: "2024-05-01T00:00:00Z"
 doi: ""
@@ -20,7 +20,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: Coming soon. 
+abstract: Coming in December 2024. 
 
 # Summary. An optional shortened abstract.
 summary: "**In preparation for <ins>*Handbook of Labor Economics*</ins>.** </br>My presentations: Carnegie Mellon, Oslo Labor Workshop."
