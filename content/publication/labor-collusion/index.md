@@ -5,7 +5,7 @@ title: "Conduct and Collusion in the U.S. Labor Market"
 authors: [Michael Rubens, admin, Chen Yeh]
 date: "2024-05-01T00:00:00Z"
 doi: ""
-weight: 10
+weight: 12
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-09-01T00:00:00Z"
