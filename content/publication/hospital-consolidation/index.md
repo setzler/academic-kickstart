@@ -3,9 +3,9 @@
 
 title: "Labor and Product Market Power, Quality of Care, and the Consolidation of the US Hospital Industry"
 authors: [Eric San Miguel, admin]
-date: "2024-05-01T00:00:00Z"
+date: "2024-12-01T00:00:00Z"
 doi: ""
-weight: 11
+weight: 1
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-09-01T00:00:00Z"
@@ -20,10 +20,10 @@ publication_types: ["0"]
 publication: ""
 publication_short: ""
 
-abstract: Coming soon. Title subject to change.
+# abstract: Coming soon. Title subject to change.
 
 # Summary. An optional shortened abstract.
-# summary: Coming soon. Title subject to change.
+summary: "Newly available to present. Scheduled presentations: ASSA, Brandeis, Leuven."
 
 tags: []
 categories: []
