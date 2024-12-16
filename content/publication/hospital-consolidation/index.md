@@ -23,7 +23,7 @@ publication_short: ""
 # abstract: Coming soon. Title subject to change.
 
 # Summary. An optional shortened abstract.
-summary: "Newly available to present. Scheduled presentations: ASSA, Brandeis, Leuven, MIT."
+summary: "<span style="color:blue">Newly available to present.</span> My scheduled presentations: ASSA, Brandeis, Leuven, MIT."
 
 tags: []
 categories: []
