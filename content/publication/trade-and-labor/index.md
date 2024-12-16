@@ -24,7 +24,7 @@ abstract: We analyze the distinct adjustment paths of U.S. labor markets (places
 
 
 # Summary. An optional shortened abstract.
-summary: "**In preparation for <ins>*Handbook of Labor Economics*</ins>.** </br>My presentations: Carnegie Mellon, Oslo Labor Workshop."
+summary: "**Submitted for publication in the <ins>*Handbook of Labor Economics*</ins> in December 2024.** </br>My presentations: Carnegie Mellon, Oslo Labor Workshop."
 
 
 
