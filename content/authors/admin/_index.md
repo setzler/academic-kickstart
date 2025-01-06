@@ -71,7 +71,7 @@ email: ""
     - testing the conduct of labor markets (see [9](https://www.bradleysetzler.com/publication/labor-collusion/)).
 2. Labor market adjustment to
     - trade shocks (see [6](https://www.bradleysetzler.com/publication/trade-and-labor/), [8](https://www.bradleysetzler.com/publication/china-shock-children/));
-    - entry of foreign multinational firms (see [2](https://www.bradleysetzler.com/files/Setzler-Tintelnot.pdf));
+    - spillovers from foreign investment (see [2](https://www.bradleysetzler.com/files/Setzler-Tintelnot.pdf));
     - worker productivity shocks (see [1](https://www.bradleysetzler.com/files/Autor-Kostol-Mogstad-Setzler.pdf)).
 
 
