@@ -64,9 +64,11 @@ email: ""
 
  
 **Topics of Interest:**
-1. Labor market power, conduct, mergers, and wages (see [2](https://www.bradleysetzler.com/files/Setzler-Tintelnot.pdf), [3](https://www.bradleysetzler.com/files/Lamadon-Mogstad-Setzler.pdf), [4](https://www.bradleysetzler.com/files/BHLMM-Setzler.pdf), [5](https://www.bradleysetzler.com/files/Kroft-Luo-Mogstad-Setzler.pdf), [7](https://www.bradleysetzler.com/publication/hospital-consolidation/), [9](https://www.bradleysetzler.com/publication/labor-collusion/)).
-    - hello
-    - world
+1. Labor market power
+	- and its interactions with product market power (see [5](https://www.bradleysetzler.com/files/Kroft-Luo-Mogstad-Setzler.pdf) and [7](https://www.bradleysetzler.com/publication/hospital-consolidation/))
+    - and the role of employers in wage inequality (see [3](https://www.bradleysetzler.com/files/Lamadon-Mogstad-Setzler.pdf) and [4](https://www.bradleysetzler.com/files/BHLMM-Setzler.pdf))
+    - and the effects of mergers on labor markets (see [7](https://www.bradleysetzler.com/publication/hospital-consolidation/))
+    - and testing the conduct of labor markets (see [9](https://www.bradleysetzler.com/publication/labor-collusion/))
 2. Labor market adjustment to changes in labor demand, especially trade shocks (see [1](https://www.bradleysetzler.com/files/Autor-Kostol-Mogstad-Setzler.pdf),  [2](https://www.bradleysetzler.com/files/Setzler-Tintelnot.pdf), [6](https://www.bradleysetzler.com/publication/trade-and-labor/), [8](https://www.bradleysetzler.com/publication/china-shock-children/)). 
 
 
