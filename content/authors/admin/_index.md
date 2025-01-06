@@ -65,13 +65,13 @@ email: ""
  
 **Topics of Interest:**
 1. Labor market power and
-	- its interactions with product market power (see [5](https://www.bradleysetzler.com/files/Kroft-Luo-Mogstad-Setzler.pdf) and [7](https://www.bradleysetzler.com/publication/hospital-consolidation/));
+	- interactions with product market power (see [5](https://www.bradleysetzler.com/files/Kroft-Luo-Mogstad-Setzler.pdf) and [7](https://www.bradleysetzler.com/publication/hospital-consolidation/));
     - the role of firms and worker sorting in wage inequality (see [3](https://www.bradleysetzler.com/files/Lamadon-Mogstad-Setzler.pdf) and [4](https://www.bradleysetzler.com/files/BHLMM-Setzler.pdf));
-    - the effects of mergers on labor markets (see [7](https://www.bradleysetzler.com/publication/hospital-consolidation/));
+    - mergers for labor market concentration (see [7](https://www.bradleysetzler.com/publication/hospital-consolidation/));
     - testing the conduct of labor markets (see [9](https://www.bradleysetzler.com/publication/labor-collusion/)).
 2. Labor market adjustment to
     - trade shocks (see [6](https://www.bradleysetzler.com/publication/trade-and-labor/), [8](https://www.bradleysetzler.com/publication/china-shock-children/));
-    - firm entry (see [2](https://www.bradleysetzler.com/files/Setzler-Tintelnot.pdf));
+    - entry of foreign multinational firms (see [2](https://www.bradleysetzler.com/files/Setzler-Tintelnot.pdf));
     - health shocks (see (see [1](https://www.bradleysetzler.com/files/Autor-Kostol-Mogstad-Setzler.pdf)).
 
 
