@@ -14,7 +14,7 @@ role: Assistant Professor of Economics
 
 # Organizations/Affiliations
 organizations:
-- name: Penn State & NBER
+- name: MIT, Penn State & NBER
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -51,8 +51,8 @@ email: ""
 ---
 
 **Appointments:**
-- The Hal Varian Visiting Assistant Professor of Economics, MIT (Spring 2025).
-- The Strumpf Early Career Assistant Professor of Economics, Penn State.
+- The Hal Varian Visiting Assistant Professor of Economics, MIT.
+- The Strumpf Early Career Assistant Professor of Economics, Penn State (on leave).
 - Faculty Research Fellow in Labor Studies, NBER.
 
 **Links:** {{% staticref "#publication" %}}Research{{% /staticref %}} | {{% staticref "files/SetzlerCV.pdf" %}}CV{{% /staticref %}} | bradley.setzler@gmail.com
