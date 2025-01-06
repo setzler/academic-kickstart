@@ -3,7 +3,7 @@
 
 title: "Labor and Product Market Power, Quality of Care, and the Consolidation of the US Hospital Industry"
 authors: [Eric San Miguel, admin]
-date: "2024-12-01T00:00:00Z"
+date: "2025-01-01T00:00:00Z"
 doi: ""
 weight: 1
 
