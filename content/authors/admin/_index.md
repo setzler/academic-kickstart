@@ -65,6 +65,7 @@ email: ""
  
 **Topics of Interest:**
 1. Labor market power, conduct, mergers, and wages (see [2](https://www.bradleysetzler.com/files/Setzler-Tintelnot.pdf), [3](https://www.bradleysetzler.com/files/Lamadon-Mogstad-Setzler.pdf), [4](https://www.bradleysetzler.com/files/BHLMM-Setzler.pdf), [5](https://www.bradleysetzler.com/files/Kroft-Luo-Mogstad-Setzler.pdf), [7](https://www.bradleysetzler.com/publication/hospital-consolidation/), [9](https://www.bradleysetzler.com/publication/labor-collusion/)).
+	a. sub topic
 2. Labor market adjustment to changes in labor demand, especially trade shocks (see [1](https://www.bradleysetzler.com/files/Autor-Kostol-Mogstad-Setzler.pdf),  [2](https://www.bradleysetzler.com/files/Setzler-Tintelnot.pdf), [6](https://www.bradleysetzler.com/publication/trade-and-labor/), [8](https://www.bradleysetzler.com/publication/china-shock-children/)). 
 
 
