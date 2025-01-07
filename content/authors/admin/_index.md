@@ -74,6 +74,6 @@ email: ""
     - local spillovers from foreign firm entry (see [2](https://www.bradleysetzler.com/files/Setzler-Tintelnot.pdf));
     - worker-specific productivity shocks (see [1](https://www.bradleysetzler.com/files/Autor-Kostol-Mogstad-Setzler.pdf)).
 
-Note: the numbers are links to my relevant papers, which are in chronological order.
+Note: the numbers are links to my relevant papers, ordered chronologically.
 
 -------
