@@ -71,7 +71,7 @@ email: ""
     - testing the conduct of labor markets (see [9](https://www.bradleysetzler.com/publication/labor-collusion/)).
 2. Labor market adjustment to
     - local trade exposure (see [6](https://www.bradleysetzler.com/publication/trade-and-labor/), [8](https://www.bradleysetzler.com/publication/china-shock-children/));
-    - local spillovers from foreign investment (see [2](https://www.bradleysetzler.com/files/Setzler-Tintelnot.pdf));
+    - local spillovers from foreign firm entry (see [2](https://www.bradleysetzler.com/files/Setzler-Tintelnot.pdf));
     - worker-specific productivity shocks (see [1](https://www.bradleysetzler.com/files/Autor-Kostol-Mogstad-Setzler.pdf)).
 
 
