@@ -24,7 +24,7 @@ abstract: "This chapter analyzes the distinct adjustment paths of U.S. labor mar
 
 
 # Summary. An optional shortened abstract.
-summary: "**Submitted for publication in the <ins>*Handbook of Labor Economics*</ins> in December 2024.** </br>My presentations: Carnegie Mellon, Oslo Labor Workshop. Scheduled: Boston University."
+summary: "**Submitted for publication in the <ins>*Handbook of Labor Economics*</ins> in December 2024.** </br>My presentations: Carnegie Mellon, Oslo Labor Workshop."
 
 
 
