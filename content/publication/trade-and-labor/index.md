@@ -40,7 +40,7 @@ links:
   url: https://shop.elsevier.com/books/handbook-of-labor-economics/dustmann/978-0-443-29764-9
   icon_pack: 
   icon: 
-url_pdf: 
+url_pdf: "files/Autor-Dorn-Hanson-Jones-Setzler.pdf"
 url_code:
 url_dataset:
 url_poster:
