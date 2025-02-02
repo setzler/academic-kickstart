@@ -35,11 +35,11 @@ featured: false
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 
-links:
-- name: Handbook of Labor Economics
-  url: https://shop.elsevier.com/books/handbook-of-labor-economics/dustmann/978-0-443-29764-9
-  icon_pack: 
-  icon: 
+links: 
+- name: NBER 
+  url: https://www.nber.org/papers/w33424
+  icon_pack:
+  icon:
 url_pdf: "files/Autor-Dorn-Hanson-Jones-Setzler.pdf"
 url_code:
 url_dataset:
