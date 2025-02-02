@@ -25,13 +25,13 @@ abstract: "Existing work on imperfect competition typically focuses on either th
 # Summary. An optional shortened abstract.
 summary: "**Forthcoming in the <ins>*American Economic Review*</ins>.** </br> 
 
-#  My presentations: NBER SI-Labor, MIT, NBER IO, UBC, LSE, Stanford-SITE, Cornell, Maryland, Columbia Business School, U of Oslo, Federal Reserve Board, Carnegie Mellon/Pittsburgh, UChicago, BI Norwegian Business School, Penn State, CESifo, UToronto/Bank of Canada, Texas A&M, Wisconsin, Duke, Queen's U, Boston College."
 
 tags: []
 categories: []
 featured: false
 
 # Custom links (optional).
+#  My presentations: NBER SI-Labor, MIT, NBER IO, UBC, LSE, Stanford-SITE, Cornell, Maryland, Columbia Business School, U of Oslo, Federal Reserve Board, Carnegie Mellon/Pittsburgh, UChicago, BI Norwegian Business School, Penn State, CESifo, UToronto/Bank of Canada, Texas A&M, Wisconsin, Duke, Queen's U, Boston College."
 #   Uncomment and edit lines below to show custom links.
 
 links:

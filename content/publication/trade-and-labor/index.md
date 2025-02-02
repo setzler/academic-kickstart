@@ -26,7 +26,6 @@ abstract: "This chapter analyzes the distinct adjustment paths of U.S. labor mar
 # Summary. An optional shortened abstract.
 summary: "**Forthcoming in the <ins>*Handbook of Labor Economics*</ins>.** </br>
 
-#  My presentations: Carnegie Mellon, Oslo Labor Workshop. Scheduled: Boston University."
 
 
 
@@ -35,6 +34,7 @@ categories: []
 featured: false
 
 # Custom links (optional).
+#  My presentations: Carnegie Mellon, Oslo Labor Workshop. Scheduled: Boston University."
 #   Uncomment and edit lines below to show custom links.
 
 links: 
