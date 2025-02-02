@@ -34,7 +34,6 @@ categories: []
 featured: false
 
 # Custom links (optional).
-#  My presentations: Carnegie Mellon, Oslo Labor Workshop. Scheduled: Boston University."
 #   Uncomment and edit lines below to show custom links.
 
 links: 
