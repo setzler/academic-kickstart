@@ -40,6 +40,10 @@ links:
   url: https://www.nber.org/papers/w33424
   icon_pack:
   icon:
+- name: Wall Street Journal
+  url: https://www.wsj.com/economy/us-manufacturing-jobs-china-shock-78e06c83?st=Bhc8w5&reflink=desktopwebshare_permalink
+  icon_pack:
+  icon:
 url_pdf: "files/Autor-Dorn-Hanson-Jones-Setzler.pdf"
 url_code:
 url_dataset:
