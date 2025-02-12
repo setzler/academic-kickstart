@@ -79,7 +79,7 @@ There are 4 pieces of useful information missing from this entry:
 - *Provide their last name:* Brad is a common name; it will be difficult for the speaker to prepare for a meeting with Brad if they do not know which Brad will be in the meeting. Even for less common names, the speaker should not have to search the faculty directory to uncover the last name of the individuals with whom they are meeting -- provide the last names by default. 
 - *Provide the meeting location:* Unless all meetings will be in a single room, make sure to provide the room number, as well as the building if multiple buildings are involved.
 - *Indicate their position:* Make sure to indicate if the individual is a faculty member, a visitor, a student, the provost, or another position.
-- *Provide a website:* The visitors will likely want to familiarize themselves with the research of the local faculty member prior to the meeting. This is a good thing to be encouraged from the perspective of that local faculty member. To make it easier for the visitor to learn about your faculty's work, provide a link to the local faculty member's website by default. 
+- *Provide a website:* Visitors will likely want to familiarize themselves with the research of the local faculty members prior to the meetings. This should be encouraged and facilitated by providing a link to the local faculty member's website by default. 
 
 Here is a complete meeting entry:
 
