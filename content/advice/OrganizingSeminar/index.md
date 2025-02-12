@@ -55,13 +55,7 @@ Here is a complete invitation email:
 > 
 > The seminar is 75-minutes on Monday afternoons, with one-on-one meetings scheduled throughout the day. A student lunch and faculty dinner are also included. We will book the hotel and reimburse travel expenses. 
 >
-> The following dates are currently available for your visit:
-> 
-> Sept 18
->
-> Sept 25
->
-> Oct 23
+> The following dates are currently available for your visit: Sept 18, Sept 25, Oct 23
 > 
 > Please let me know which date works best for you. Hope you can make it! 
 > 
