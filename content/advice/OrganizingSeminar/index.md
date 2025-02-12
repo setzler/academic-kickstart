@@ -26,10 +26,10 @@ The following is advice for a hypothetical faculty member who is organizing a se
 
 ### Overview: 
 
-During a typical seminar visit, an external visitor travels to a university, spends the day meeting with local faculty, is taken to lunch and dinner, and presents research during a seminar. The local organizer has four responsibilities:
+During a typical seminar visit, an external visitor travels to a university, spends the day meeting with local faculty and students, is taken to lunch and dinner, and presents research. The local organizer has three primary responsibilities:
 
 1. Inviting the speaker and following-up by email;
-2. Arranging a meeting schedule between the speaker and local faculty and students;
+2. Arranging a meeting schedule; and,
 3. Managing the seminar environment.
 
 I will now provide some tips related to each of these steps.
