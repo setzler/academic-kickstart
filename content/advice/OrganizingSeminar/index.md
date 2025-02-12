@@ -91,17 +91,17 @@ See the template below for an example of how to do this.
 **2B) Schedule breaks for your visitors by default:** Many seminar schedules look like this:
 
 > 9:00 AM - 30-minute Meeting 1
-
+> 
 > 9:30 AM - 30-minute Meeting 2
-
+> 
 > 10:00 AM - 30-minute Meeting 3
-
+> 
 > 10:30 AM - 30-minute Meeting 4
-
+> 
 > 11:00 AM - 30-minute Meeting 5
-
+> 
 > 11:30 AM - 30-minute Meeting 6
-
+> 
 > 12:00 PM - Meet for 60-minute lunch
 
 While keeping all of the meeting times on the half-hour may lower cognitive costs, it creates a predicament for the visitor -- when can you take a break? Human beings need breaks throughout the day for several good reasons:
@@ -116,21 +116,21 @@ Given that your visitors absolutely require regular breaks, schedule those break
 
 
 > 8:50 AM - 30-minute Meeting 1
-
+> 
 > 9:20 AM - 30-minute Meeting 2
-
+> 
 > 9:50 AM - 30-minute Meeting 3
-
+> 
 > 10:00 AM - **10-minute Break**
-
+> 
 > 10:30 AM - 30-minute Meeting 4
-
+> 
 > 11:00 AM - 30-minute Meeting 5
-
+> 
 > 11:30 AM - 30-minute Meeting 6
-
+> 
 > 12:00 PM - **10-minute Break**
-
+> 
 > 12:10 PM - Meet for 60-minute lunch
 
 
