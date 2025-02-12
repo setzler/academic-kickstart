@@ -70,11 +70,11 @@ Here is a complete invitation email:
 The goal of a meeting schedule is to provide the opportunity for as many local faculty and/or students as possible to have an active and engaged discussion about research with the visitor, typically in 30-minute meeting blocks. Here are some tips to ensure that those meetings are productive.
 
 
-**2A) Provide the full name and website for each faculty meeting:** For some reason, it is common to provide visitors with a meeting schedule that says:
+**2A) Provide the full name and website for each faculty meeting:** It is common to provide visitors with a meeting schedule that says something like:
 
 > 11:00 AM - Meet with Brad 
 
-There are 4 problems with this entry:
+There are 4 pieces of useful information missing from this entry:
 
 - **Provide their last name:** Brad is a common name; it will be difficult for the speaker to prepare for a meeting with Brad if they do not know which Brad will be in the meeting. Even for less common names, the speaker should not have to search the faculty directory to uncover the last name of the individuals with whom they are meeting -- provide the last names by default. 
 - **Provide the meeting location:** Unless all meetings will be in a single room, make sure to provide the room number, as well as the building if multiple buildings are involved.
