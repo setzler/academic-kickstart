@@ -39,7 +39,7 @@ I will now provide some tips related to each of these steps.
 
 ### 1. Inviting the speaker and following-up by email:
 
-*1.1 Provide the basic information:* When inviting a speaker to visit your institution, all they need to know is:
+*1A) Provide the basic information:* When inviting a speaker to visit your institution, all they need to know is:
 
 - The name of the seminar and/or the type of audience expected;
 - The available dates from which to choose;
@@ -67,7 +67,7 @@ Here is a complete invitation email:
 > Brad Setzler
 
 
-*1.2. Confirm and provide an administrative contact:* After the speaker replies with a chosen date, reply to let them know that the visit date is confirmed, as well as to provide them with the email address of an administrator whom they may contact to answer questions related to travel arrangements. Providing a contact person is especially important, as travel arrangements can be complicated, e.g., due to restrictions on financial reimbursements for government employees, visa issues for foreign travel, etc.
+*1B) Confirming and providing an administrative contact:* After the speaker replies with a chosen date, reply to let them know that the visit date is confirmed, as well as to provide them with the email address of an administrator whom they may contact to answer questions related to travel arrangements. Providing a contact person is especially important, as travel arrangements can be complicated, e.g., due to restrictions on financial reimbursements for government employees, visa issues for foreign travel, etc.
 
 
 ### 2. Arranging a meeting schedule:
@@ -75,7 +75,7 @@ Here is a complete invitation email:
 The goal of a meeting schedule is to provide the opportunity for as many local faculty and/or students as possible to have an active and engaged discussion about research with the visitor, typically in 30-minute meeting blocks. Here are some tips to ensure that those meetings are productive.
 
 
-*2.1. Provide the full name and website for each faculty meeting:* For some reason, it is common to provide visitors with a meeting schedule that says:
+*2A) Provide the full name and website for each faculty meeting:* For some reason, it is common to provide visitors with a meeting schedule that says:
 
 > 11:00 AM - Meet with John
 
@@ -84,7 +84,7 @@ John is a very common name. It will be difficult for the speaker to prepare for 
 Furthermore, the visitors will likely want to familiarize themselves with the research of the local faculty member prior to the meeting. This is a good thing to be encouraged from the perspective of that local faculty member. To make it easier for the visitor to learn about your faculty's work, provide a link to the local faculty member's website by default. See the template below for an example of how to do this.
 
 
-*2.2. Schedule breaks for your visitors by default:* For some reason, most seminar schedules do not include breaks between meetings. However, human beings need breaks throughout the day for several good reasons:
+*2B) Schedule breaks for your visitors by default:* For some reason, most seminar schedules do not include breaks between meetings. However, human beings need breaks throughout the day for several good reasons:
 
 - **Family considerations:** Visitors are leaving their dependents behind to spend the day at your institution. However, they often need to check in with family throughout the day to ensure that the necessary care is being provided. Examples include children who need to be taken to and from daycare, elderly family members who need to be given medication at the correct intervals, and pets that need to be given food and water. 
 
@@ -94,7 +94,7 @@ Furthermore, the visitors will likely want to familiarize themselves with the re
 
 Given that your visitors absolutely require regular breaks, schedule those breaks on their behalf. Do not force your visitors to awkwardly explain the personal reasons why they need to leave a meeting early.
 
-*2.3. Consider using my meeting template:* Feel free to use my meeting template, which is available as a Google Doc here. An image is below for reference.
+*2C) Use my meeting template:* Feel free to use my meeting template, which is available as a Google Doc here. An image is below for reference.
 
 
 
