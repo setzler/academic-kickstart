@@ -88,7 +88,17 @@ Here is a complete meeting entry:
 See the template below for an example of how to do this.
 
 
-**2B) Schedule breaks for your visitors by default:** For some reason, most seminar schedules do not include breaks between meetings. However, human beings need breaks throughout the day for several good reasons:
+**2B) Schedule breaks for your visitors by default:** Many seminar schedules look like this:
+
+> 9:00 AM - 30-minute Meeting 1
+> 9:30 AM - 30-minute Meeting 2
+> 10:00 AM - 30-minute Meeting 3
+> 10:30 AM - 30-minute Meeting 4
+> 11:00 AM - 30-minute Meeting 5
+> 11:30 AM - 30-minute Meeting 6
+> 12:00 PM - Meet for 60-minute lunch
+
+While keeping all of the numbers on the half-hour mark may make scheduling easier for local faculty, it creates a predicament for the visitor -- when can you take a break? Human beings need breaks throughout the day for several good reasons:
 
 - *Family considerations:* Visitors are leaving their dependents behind to spend the day at your institution. However, they often need to check in with family throughout the day to ensure that the necessary care is being provided. Examples include children who need to be taken to and from daycare, elderly family members who need to be given medication at the correct intervals, and pets that need to be given food and water. 
 
@@ -96,7 +106,9 @@ See the template below for an example of how to do this.
 
 - *Medication:* Many people suffer from health conditions that require intraday maintenance. For example, 11\% of all Americans -- and nearly 30\% of all seniors -- have diabetes, according to the [American Diabetes Association](https://diabetes.org/about-diabetes/statistics/about-diabetes#:~:text=Prevalence%3A%20In%202021%2C%2038.4%20million,of%20the%20population%2C%20had%20diabetes.&text=Diagnosed%20and%20undiagnosed%3A%20Of%20the,and%208.7%20million%20were%20undiagnosed.). Diabetes often requires active management, such as injecting insulin prior to meals or eating small meals throughout the day to maintain proper glucose levels. This is only one example; many other chronic illnesses such as asthma, Crohn's disease, and arthritis may require medication taken throughout the day. 
 
-Given that your visitors absolutely require regular breaks, schedule those breaks on their behalf. Do not force your visitors to awkwardly explain the personal reasons why they need to leave a meeting early.
+Given that your visitors absolutely require regular breaks, schedule those breaks on their behalf. Here is an example of a schedule with a built in break
+
+Do not force your visitors to awkwardly explain the personal reasons why they need to leave a meeting early.
 
 **2C) Use my meeting template:** Feel free to use my meeting template, which is available as a Google Doc here. An image is below for reference.
 
