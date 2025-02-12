@@ -78,11 +78,17 @@ The goal of a meeting schedule is to provide the opportunity for as many local f
 
 **2A) Provide the full name and website for each faculty meeting:** For some reason, it is common to provide visitors with a meeting schedule that says:
 
-> 11:00 AM - Meet with John
+> 11:00 AM - Meet with Brad 
 
-John is a very common name. It will be difficult for the speaker to prepare for a meeting with John if they do not know which John will be in the meeting. Even for less common names, the speaker should not have to search the faculty directory to uncover the last name of the individuals with whom they are meeting -- provide the last names by default. Also, make sure to indicate if the individual is a faculty member, a visitor, a student, the provost, or another position.
+Brad is a common name; it will be difficult for the speaker to prepare for a meeting with Brad if they do not know which Brad will be in the meeting. Even for less common names, the speaker should not have to search the faculty directory to uncover the last name of the individuals with whom they are meeting -- provide the last names by default. Also, make sure to indicate if the individual is a faculty member, a visitor, a student, the provost, or another position.
 
-Furthermore, the visitors will likely want to familiarize themselves with the research of the local faculty member prior to the meeting. This is a good thing to be encouraged from the perspective of that local faculty member. To make it easier for the visitor to learn about your faculty's work, provide a link to the local faculty member's website by default. See the template below for an example of how to do this.
+Furthermore, the visitors will likely want to familiarize themselves with the research of the local faculty member prior to the meeting. This is a good thing to be encouraged from the perspective of that local faculty member. To make it easier for the visitor to learn about your faculty's work, provide a link to the local faculty member's website by default. 
+
+Here is an improved meeting entry:
+
+> 11:00 AM - Meet with Brad Setzler (Kern 517) [website](https://www.bradleysetzler.com)
+
+See the template below for an example of how to do this.
 
 
 **2B) Schedule breaks for your visitors by default:** For some reason, most seminar schedules do not include breaks between meetings. However, human beings need breaks throughout the day for several good reasons:
