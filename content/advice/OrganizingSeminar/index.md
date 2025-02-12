@@ -41,7 +41,8 @@ I will now provide some tips related to each of these steps.
 
 *1A) Provide the basic information:* When inviting a speaker to visit your institution, all they need to know is:
 
-- The name of the seminar and/or the type of audience expected;
+- The name of your institution; 
+- The field of the seminar and/or the type of audience expected;
 - The available dates from which to choose;
 - The general outline for how the visit day will be spent (one-on-one meetings, dinner, etc.); and,
 - Clarification regarding who will book and pay for the travel-related expenses.
