@@ -118,7 +118,7 @@ While keeping all of the meeting times on the half-hour may seem convenient, it 
 
 - *Medication:* Many people suffer from health conditions that require intraday maintenance. For example, diabetes is quite common in the US and often requires active management, such as injecting insulin prior to meals or eating small meals throughout the day.  
 
-Given that your visitors absolutely require regular breaks, schedule those breaks on their behalf. Here is an example:
+Given that your visitors likely require short breaks to address these issues, schedule those breaks on their behalf. Here is an example:
 
 
 > 8:50 AM | 30-minute Meeting 1
