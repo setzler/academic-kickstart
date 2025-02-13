@@ -82,7 +82,7 @@ It is common to provide visitors with a meeting schedule that says something lik
 
 There are 4 pieces of useful information missing from this entry:
 
-- *Provide the last name:* The speaker should not have to search the faculty directory to uncover the last name of the individuals with whom they are meeting -- provide the last names by default. 
+- *Provide the last name:* The speaker should not have to search the faculty directory to uncover the last names of the individuals with whom they are meeting -- provide the last names by default. 
 - *Provide the meeting location:* Unless all meetings will be in a single room, make sure to provide the room number of each meeting, as well as the building if multiple buildings are involved.
 - *Indicate the position:* Make sure to indicate if the individual is a faculty member, a visitor, a student, the provost, or another position.
 - *Provide the website:* Visitors will likely want to familiarize themselves with the research of the local faculty members prior to the meeting. Make this easy by providing faculty website links. 
@@ -114,11 +114,11 @@ While keeping all of the meeting times on the half-hour may seem convenient, it 
 
 - *Family considerations:* Visitors are leaving their dependents behind to spend the day at your institution. However, they often need to check in with family throughout the day to ensure that the necessary care is being provided. 
 
-- *Restroom visits:* The average human being needs to use the restroom 7 times per waking day, according to the [Cleveland Clinic](https://health.clevelandclinic.org/how-often-should-you-pee). This means it is typical for a healthy human to require a restroom break once every 2-3 hours, and requiring more frequent restroom breaks is not unusual. 
+- *Restroom visits:* The average human being needs to use the restroom 7 times per waking day, with many requiring 10 visits, according to the [Cleveland Clinic](https://health.clevelandclinic.org/how-often-should-you-pee). This means it is typical for a healthy human to require a restroom break once every 2 hours. 
 
 - *Medication:* Many people suffer from health conditions that require intraday maintenance. For example, diabetes is quite common in the US and often requires active management, such as injecting insulin prior to meals or eating small meals throughout the day.  
 
-Given that your visitors likely require short breaks to address these or other issues, schedule those breaks on their behalf. Here is an example:
+Given that your visitors likely require short breaks to address these and other issues, schedule those breaks on their behalf. Here is an example:
 
 
 > 8:50 AM | 30-minute Meeting 1
