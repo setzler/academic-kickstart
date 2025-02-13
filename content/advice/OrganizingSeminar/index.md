@@ -34,8 +34,8 @@ When inviting a speaker to visit your institution, include the following informa
 - The name of your institution; 
 - The field or topic of the seminar;
 - The available dates from which to choose;
-- The general outline for how the visit day will be spent (including seminar time); and,
-- Clarification regarding who will book and pay for the travel-related expenses.
+- The outline of how the day will be spent; and,
+- Who will book and pay for the travel-related expenses.
 
 Here is a complete invitation email:
 
