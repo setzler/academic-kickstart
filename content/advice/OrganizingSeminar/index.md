@@ -124,7 +124,7 @@ Given that your visitors absolutely require regular breaks, schedule those break
 > 
 > 9:50 AM - 30-minute Meeting 3
 > 
-> 10:00 AM - **10-minute Break**
+> 10:20 AM - **10-minute Break**
 > 
 > 10:30 AM - 30-minute Meeting 4
 > 
