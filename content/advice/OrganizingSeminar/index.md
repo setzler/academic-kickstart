@@ -54,7 +54,21 @@ Here is a complete invitation email:
 
 ### Tip 2) Confirm the visit and provide an administrative contact.
 
-After the speaker replies with a chosen date, reply to let them know that the visit date is confirmed. Also, provide them with the email address of an administrator whom they may contact to answer questions related to travel arrangements. Providing a contact person is especially important, as travel arrangements can be complicated, e.g., due to restrictions on financial reimbursements for government employees, visa issues for foreign travel, etc.
+After the speaker replies with a chosen date, reply to let them know that the visit date is confirmed. 
+
+When confirming, provide them with the name and email address of an administrator whom they may contact to answer financial and logistical questions.
+
+Here is an example of a confirmation email:
+
+> Dear Michael,
+> 
+> Wonderful -- we have your visit confirmed for Sept 25.
+> 
+> I have also cc'ed the seminar administrator, Matthew Lastname, who can help you with any issues related to the hotel booking, reimbursement, and the like.
+> 
+> We look forward to your visit!
+> 
+> Brad 
 
 
 ### Tip 3) Provide complete information regarding whom the visitor will meet.
