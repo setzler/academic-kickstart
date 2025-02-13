@@ -140,6 +140,18 @@ Given that your visitors likely require short breaks to address these or other i
 See the template below for a more complete example of how to fit breaks into the day.
 
 
+## Meeting Template
+
+Here is my meeting template: 
+![bettermeeting](meeting_template.png)
+
+As you can see, it is easy to include 11 different 30-minute meetings, a 75-minute seminar, and an 80-minute lunch, despite having several small breaks built in to the schedule.
+
+You can access my template here as a public Google Doc:
+
+[Link to Visitor Meeting Schedule Template](https://docs.google.com/document/d/1CN8ELgO4sUIOiCgH4EFbf_eZQcXJAN_M03kHPu02Eek/edit?usp=sharing)
+
+Feel free to duplicate it, edit it, share it with your colleagues so that they can choose their meeting times, and export it to PDF when it is ready to share the final version with the seminar visitor.
 
 
 
