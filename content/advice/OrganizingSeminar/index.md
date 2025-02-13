@@ -86,7 +86,7 @@ There are 4 pieces of useful information missing from this entry:
 
 Here is a complete meeting entry:
 
-> 11:00 AM | Faculty Meeting: Brad Setzler (Kern 517) [link to website](https://www.bradleysetzler.com)
+> 11:00 AM | Faculty Meeting: Brad Setzler (Kern 517) [[link to website](https://www.bradleysetzler.com)]
 
 See the template below for an example of how to fit this information onto a day schedule.
 
