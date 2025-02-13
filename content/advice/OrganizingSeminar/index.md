@@ -21,7 +21,7 @@ url_video: ''
 
 ---
 
-During a typical seminar visit, an external visitor travels to a university, spends the day meeting with local faculty and students, is taken to lunch and dinner, and presents research. The local organizer is responsible for inviting the speaker, organizing the speaker's schedule, preparing the seminar environment, ensuring the speaker has all relevant information. The following are tips for a hypothetical faculty member who is organizing a seminar day for an external visitor, based on my own trial-and-error from organizing a seminar for the first time as an assistant professor at Penn State.
+During a typical seminar visit, an external visitor travels to a university, spends the day meeting with local faculty and students, is taken to lunch and dinner, and presents research. The local organizer is responsible for inviting the speaker, organizing the speaker's schedule, preparing the seminar environment, and ensuring the speaker has all relevant information. The following are tips for a hypothetical faculty member who is organizing a seminar day for an external visitor, based on my own trial-and-error from organizing a seminar for the first time as an assistant professor at Penn State.
 
 
 
