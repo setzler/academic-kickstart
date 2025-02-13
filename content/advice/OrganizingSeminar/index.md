@@ -21,56 +21,45 @@ url_video: ''
 
 ---
 
-The following is advice for a hypothetical faculty member who is organizing a seminar day for an external visitor. It is based on my own trial-and-error from organizing a seminar for the first time as an assistant professor at Penn State.
-
-
-## Overview: 
-
-During a typical seminar visit, an external visitor travels to a university, spends the day meeting with local faculty and students, is taken to lunch and dinner, and presents research. The local organizer has three primary responsibilities:
-
-1. Inviting the speaker and following-up by email;
-2. Arranging a meeting schedule; and,
-3. Managing the seminar environment.
-
-I will now provide some tips related to each of these steps.
+During a typical seminar visit, an external visitor travels to a university, spends the day meeting with local faculty and students, is taken to lunch and dinner, and presents research. The local organizer is responsible for inviting the speaker, organizing the speaker's schedule, preparing the seminar environment, ensuring the speaker has all relevant information. The following are tips for a hypothetical faculty member who is organizing a seminar day for an external visitor, based on my own trial-and-error from organizing a seminar for the first time as an assistant professor at Penn State.
 
 
 
 
-## 1. Inviting the speaker and following-up by email:
+### Tip 1) Provide key information when inviting the speaker.
 
-**1A) Provide the basic information:** When inviting a speaker to visit your institution, all they need to know is:
+When inviting a speaker to visit your institution, include the following information:
 
+- Your first and last name;
 - The name of your institution; 
-- The field of the seminar and/or the type of audience expected;
+- The field or topic of the seminar;
 - The available dates from which to choose;
-- The general outline for how the visit day will be spent (one-on-one meetings, dinner, etc.); and,
+- The general outline for how the visit day will be spent (including seminar time); and,
 - Clarification regarding who will book and pay for the travel-related expenses.
 
 Here is a complete invitation email:
 
 > Dear Michael,
 > 
-> Hope all is well! I am organizing the Penn State Trade & Development Seminar this year and would like to invite you to visit. 
+> Hope all is well! I am organizing the Trade & Development Seminar at Penn State this year and would like to invite you to visit. 
 > 
-> The seminar is 75-minutes on Monday afternoons, with one-on-one meetings scheduled throughout the day. A student lunch and faculty dinner are also included. We will book the hotel and reimburse travel expenses. 
+> The seminar is 75-minutes on Monday afternoons, with one-on-one meetings scheduled throughout the day. A student lunch and faculty dinner are also arranged. We will book the hotel and reimburse travel expenses. 
 >
-> The following dates are currently available for your visit: Sept 18, Sept 25, Oct 23
+> The following dates are currently available for your visit: Sept 18, Sept 25, and Oct 23.
 > 
 > Please let me know which date works best for you. Hope you can make it! 
 > 
 > Brad Setzler
 
 
-**1B) Confirming and providing an administrative contact:** After the speaker replies with a chosen date, reply to let them know that the visit date is confirmed, as well as to provide them with the email address of an administrator whom they may contact to answer questions related to travel arrangements. Providing a contact person is especially important, as travel arrangements can be complicated, e.g., due to restrictions on financial reimbursements for government employees, visa issues for foreign travel, etc.
+### Tip 2) Confirm the visit and provide an administrative contact.
+
+After the speaker replies with a chosen date, reply to let them know that the visit date is confirmed. Also, provide them with the email address of an administrator whom they may contact to answer questions related to travel arrangements. Providing a contact person is especially important, as travel arrangements can be complicated, e.g., due to restrictions on financial reimbursements for government employees, visa issues for foreign travel, etc.
 
 
-### 2. Arranging a meeting schedule:
+### Tip 3) Provide complete information regarding whom the visitor will meet.
 
-The goal of a meeting schedule is to provide the opportunity for as many local faculty and/or students as possible to have an active and engaged discussion about research with the visitor, typically in 30-minute meeting blocks. Here are some tips to ensure that those meetings are productive.
-
-
-**2A) Provide the full name and website for each faculty meeting:** It is common to provide visitors with a meeting schedule that says something like:
+It is common to provide visitors with a meeting schedule that says something like:
 
 > 11:00 AM - Meet with Brad 
 
@@ -85,10 +74,12 @@ Here is a complete meeting entry:
 
 > 11:00 AM | Faculty Meeting: Brad Setzler (Kern 517) [link to website](https://www.bradleysetzler.com)
 
-See the template below for an example of how to do this.
+See the template below for an example of how to fit this information onto a day schedule.
 
 
-**2B) Schedule breaks for your visitors by default:** Many seminar schedules look like this:
+### Tip 4) Schedule short breaks for your visitors throughout the day.
+
+Many seminar schedules look like this:
 
 > 9:00 AM - 30-minute Meeting 1
 > 
@@ -104,7 +95,7 @@ See the template below for an example of how to do this.
 > 
 > 12:00 PM - Meet for 60-minute lunch
 
-While keeping all of the meeting times on the half-hour may lower cognitive costs, it creates a predicament for the visitor -- when can you take a break? Human beings need breaks throughout the day for several good reasons:
+While keeping all of the meeting times on the half-hour may seem convenient, it creates a predicament for the visitor -- when can they take a break? Human beings need breaks throughout the day for several good reasons:
 
 - *Family considerations:* Visitors are leaving their dependents behind to spend the day at your institution. However, they often need to check in with family throughout the day to ensure that the necessary care is being provided. Examples include children who need to be taken to and from daycare, elderly family members who need to be given medication at the correct intervals, and pets that need to be given food and water. 
 
@@ -134,15 +125,10 @@ Given that your visitors absolutely require regular breaks, schedule those break
 > 12:10 PM - Meet for 60-minute lunch
 
 
-Do not force your visitors to awkwardly explain the personal reasons why they need to leave a meeting early -- given them breaks.
-
-**2C) Use my meeting template:** Feel free to use my meeting template, which is available as a Google Doc here. An image is below for reference.
+Do not force your visitors to awkwardly explain the personal reasons why they need to leave a meeting early -- give them breaks.
 
 
-
-
-## 3. Managing the seminar environment:
-
+See the template below for an example of how to fit breaks into the day.
 
 
 
