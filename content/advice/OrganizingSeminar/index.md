@@ -62,7 +62,7 @@ Here is an example of a confirmation email:
 
 > Dear Michael,
 > 
-> Wonderful -- we have your visit confirmed for Sept 25.
+> Thanks for your reply -- we have your visit confirmed for Sept 25.
 > 
 > I have also cc'ed the seminar administrator, Matthew Lastname, who can help you with any issues related to the hotel booking, reimbursement, and the like.
 > 
