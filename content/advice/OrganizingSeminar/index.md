@@ -112,7 +112,7 @@ While keeping all of the meeting times on the half-hour may seem convenient, it 
 
 - *Family considerations:* Visitors are leaving their dependents behind to spend the day at your institution. However, they often need to check in with family throughout the day to ensure that the necessary care is being provided. 
 
-- *Restroom visits:* The average human being needs to use the restroom 7 times per day, according to the [Cleveland Clinic](https://health.clevelandclinic.org/how-often-should-you-pee). This means it is typical for a healthy human to require a restroom break once every 2-3 hours, and requiring more restroom visits is not unusual. 
+- *Restroom visits:* The average human being needs to use the restroom 7 times per waking day, according to the [Cleveland Clinic](https://health.clevelandclinic.org/how-often-should-you-pee). This means it is typical for a healthy human to require a restroom break once every 2-3 hours, and requiring more frequent restroom breaks is not unusual. 
 
 - *Medication:* Many people suffer from health conditions that require intraday maintenance. For example, diabetes is quite common in the US and often requires active management, such as injecting insulin prior to meals or eating small meals throughout the day.  
 
