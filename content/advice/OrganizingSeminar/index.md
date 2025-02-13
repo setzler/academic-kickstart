@@ -26,7 +26,7 @@ During a typical seminar visit, an external visitor travels to a university, spe
 
 
 
-### Tip #1. Provide key information when inviting the speaker.
+## Tip #1. Provide key information when inviting the speaker.
 
 When inviting a speaker to visit your institution, include the following information:
 
@@ -34,8 +34,9 @@ When inviting a speaker to visit your institution, include the following informa
 - The name of your institution; 
 - The field or topic of the seminar;
 - The available dates from which to choose;
-- The outline of how the day will be spent; and,
-- Who will book and pay for the travel-related expenses.
+- The outline of how the day will be spent; 
+- Who will book and pay for the travel-related expenses; and,
+- Any special considerations, e.g., that early-stage research is preferred.
 
 Here is a complete invitation email:
 
@@ -52,7 +53,7 @@ Here is a complete invitation email:
 > Brad Setzler
 
 
-### Tip #2. Confirm the visit and provide an administrative contact.
+## Tip #2. Confirm the visit and provide an administrative contact.
 
 After the speaker replies with a chosen date, reply to let them know that the visit date is confirmed. 
 
@@ -71,7 +72,7 @@ Here is an example of a confirmation email:
 > Brad 
 
 
-### Tip #3. Provide complete information regarding whom the visitor will meet.
+## Tip #3. Provide complete information regarding whom the visitor will meet.
 
 It is common to provide visitors with a meeting schedule that says something like:
 
@@ -91,7 +92,7 @@ Here is a complete meeting entry:
 See the template below for an example of how to fit this information onto a day schedule.
 
 
-### Tip #4. Schedule short breaks for your visitors throughout the day.
+## Tip #4. Schedule short breaks for your visitors throughout the day.
 
 Many seminar schedules look like this:
 
