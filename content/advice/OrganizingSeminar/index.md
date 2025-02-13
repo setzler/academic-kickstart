@@ -105,17 +105,15 @@ Many seminar schedules look like this:
 > 
 > 11:00 AM - 30-minute Meeting 5
 > 
-> 11:30 AM - 30-minute Meeting 6
-> 
-> 12:00 PM - Meet for 60-minute lunch
+> 11:30 AM - 30-minute Meeting 6 
 
 While keeping all of the meeting times on the half-hour may seem convenient, it creates a predicament for the visitor -- when can they take a break? Human beings need breaks throughout the day for several good reasons:
 
-- *Family considerations:* Visitors are leaving their dependents behind to spend the day at your institution. However, they often need to check in with family throughout the day to ensure that the necessary care is being provided. Examples include children who need to be taken to and from daycare, elderly family members who need to be given medication at the correct intervals, and pets that need to be given food and water. 
+- *Family considerations:* Visitors are leaving their dependents behind to spend the day at your institution. However, they often need to check in with family throughout the day to ensure that the necessary care is being provided. 
 
-- *Restroom visits:* The average human being needs to use the restroom 7 times per day, while older people and people suffering from certain health conditions can require substantially more restroom visits, according to the [Cleveland Clinic](https://health.clevelandclinic.org/how-often-should-you-pee). This means it is typical for a healthy human to require a restroom break once every 2-3 hours, and requiring more restroom visits is not unusual. Naturally, many of those 7+ visits will need to occur during the seminar day.
+- *Restroom visits:* The average human being needs to use the restroom 7 times per day, according to the [Cleveland Clinic](https://health.clevelandclinic.org/how-often-should-you-pee). This means it is typical for a healthy human to require a restroom break once every 2-3 hours, and requiring more restroom visits is not unusual. 
 
-- *Medication:* Many people suffer from health conditions that require intraday maintenance. For example, 11\% of all Americans -- and nearly 30\% of all seniors -- have diabetes, according to the [American Diabetes Association](https://diabetes.org/about-diabetes/statistics/about-diabetes#:~:text=Prevalence%3A%20In%202021%2C%2038.4%20million,of%20the%20population%2C%20had%20diabetes.&text=Diagnosed%20and%20undiagnosed%3A%20Of%20the,and%208.7%20million%20were%20undiagnosed.). Diabetes often requires active management, such as injecting insulin prior to meals or eating small meals throughout the day to maintain proper glucose levels. This is only one example; many other chronic illnesses such as asthma, Crohn's disease, and arthritis may require medication taken throughout the day. 
+- *Medication:* Many people suffer from health conditions that require intraday maintenance. For example, diabetes is quite common in the US and often requires active management, such as injecting insulin prior to meals or eating small meals throughout the day.  
 
 Given that your visitors absolutely require regular breaks, schedule those breaks on their behalf. Here is an example:
 
@@ -132,17 +130,11 @@ Given that your visitors absolutely require regular breaks, schedule those break
 > 
 > 11:00 AM - 30-minute Meeting 5
 > 
-> 11:30 AM - 30-minute Meeting 6
-> 
-> 12:00 PM - **10-minute Break**
-> 
-> 12:10 PM - Meet for 60-minute lunch
+> 11:30 AM - 30-minute Meeting 6 
 
 
-Do not force your visitors to awkwardly explain the personal reasons why they need to leave a meeting early -- give them breaks.
 
-
-See the template below for an example of how to fit breaks into the day.
+See the template below for a more complete example of how to fit breaks into the day.
 
 
 
