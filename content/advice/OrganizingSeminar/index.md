@@ -85,7 +85,7 @@ There are 4 pieces of useful information missing from this entry:
 - *Provide the last name:* The speaker should not have to search the faculty directory to uncover the last name of the individuals with whom they are meeting -- provide the last names by default. 
 - *Provide the meeting location:* Unless all meetings will be in a single room, make sure to provide the room number of each meeting, as well as the building if multiple buildings are involved.
 - *Indicate the position:* Make sure to indicate if the individual is a faculty member, a visitor, a student, the provost, or another position.
-- *Provide the website:* Visitors will likely want to familiarize themselves with the research of the local faculty members prior to the meeting, so provide the website link. 
+- *Provide the website:* Visitors will likely want to familiarize themselves with the research of the local faculty members prior to the meeting. Make this easy by providing faculty website links. 
 
 Here is a complete meeting entry:
 
