@@ -96,17 +96,17 @@ See the template below for an example of how to fit this information onto a day 
 
 Many seminar schedules look like this:
 
-> 9:00 AM - 30-minute Meeting 1
+> 9:00 AM | 30-minute Meeting 1
 > 
-> 9:30 AM - 30-minute Meeting 2
+> 9:30 AM | 30-minute Meeting 2
 > 
-> 10:00 AM - 30-minute Meeting 3
+> 10:00 AM | 30-minute Meeting 3
 > 
-> 10:30 AM - 30-minute Meeting 4
+> 10:30 AM | 30-minute Meeting 4
 > 
-> 11:00 AM - 30-minute Meeting 5
+> 11:00 AM | 30-minute Meeting 5
 > 
-> 11:30 AM - 30-minute Meeting 6 
+> 11:30 AM | 30-minute Meeting 6 
 
 While keeping all of the meeting times on the half-hour may seem convenient, it creates a predicament for the visitor -- when can they take a break? Human beings need breaks throughout the day for several good reasons:
 
@@ -119,19 +119,19 @@ While keeping all of the meeting times on the half-hour may seem convenient, it 
 Given that your visitors absolutely require regular breaks, schedule those breaks on their behalf. Here is an example:
 
 
-> 8:50 AM - 30-minute Meeting 1
+> 8:50 AM | 30-minute Meeting 1
 > 
-> 9:20 AM - 30-minute Meeting 2
+> 9:20 AM | 30-minute Meeting 2
 > 
-> 9:50 AM - 30-minute Meeting 3
+> 9:50 AM | 30-minute Meeting 3
 > 
-> 10:20 AM - **10-minute Break**
+> 10:20 AM | **10-minute Break**
 > 
-> 10:30 AM - 30-minute Meeting 4
+> 10:30 AM | 30-minute Meeting 4
 > 
-> 11:00 AM - 30-minute Meeting 5
+> 11:00 AM | 30-minute Meeting 5
 > 
-> 11:30 AM - 30-minute Meeting 6 
+> 11:30 AM | 30-minute Meeting 6 
 
 
 
