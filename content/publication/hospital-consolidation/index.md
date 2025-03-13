@@ -2,8 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Labor and Product Market Power, Quality of Care, and the Consolidation of the US Hospital Industry"
-authors: [Eric San Miguel, admin]
-date: "2025-01-01T00:00:00Z"
+authors: [admin]
+date: "2025-03-01T00:00:00Z"
 doi: ""
 weight: 1
 
