@@ -70,7 +70,7 @@ email: ""
     - mergers for labor concentration (see [7](https://www.bradleysetzler.com/publication/hospital-consolidation/));
     - testing the conduct of labor markets (see [9](https://www.bradleysetzler.com/publication/labor-collusion/)).
 - Labor market adjustment to
-    - local trade exposure (see [6](https://www.bradleysetzler.com/publication/trade-and-labor/), [8](https://www.bradleysetzler.com/publication/china-shock-children/));
+    - local trade exposure (see [6](https://www.bradleysetzler.com/files/Autor-Dorn-Hanson-Jones-Setzler.pdf), [8](https://www.bradleysetzler.com/publication/china-shock-children/));
     - local spillovers from foreign firm entry (see [2](https://www.bradleysetzler.com/files/Setzler-Tintelnot.pdf));
     - worker-specific productivity shocks (see [1](https://www.bradleysetzler.com/files/Autor-Kostol-Mogstad-Setzler.pdf)).
 
