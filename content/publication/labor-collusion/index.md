@@ -20,7 +20,7 @@ publication_types: ["0"]
 publication: ""
 publication_short: ""
 
-abstract: Coming soon. Title subject to change.
+# abstract: Coming soon. 
 
 # Summary. An optional shortened abstract.
 summary: "Newly available to present in 2026. Scheduled: ASSA."
