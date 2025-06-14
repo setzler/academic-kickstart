@@ -3,7 +3,7 @@
 
 title: "Labor and Product Market Power, Quality of Care, and the Consolidation of the US Hospital Industry"
 authors: [admin]
-date: "2025-03-01T00:00:00Z"
+date: "2025-06-01T00:00:00Z"
 doi: ""
 weight: 1
 
@@ -23,7 +23,7 @@ publication_short: ""
 # abstract: Coming soon. Title subject to change.
 
 # Summary. An optional shortened abstract.
-summary: "Newly available to present. My scheduled presentations: ASSA, Brandeis, Leuven, MIT, Ohio State, Princeton, Stanford."
+summary: "Newly available to present in 2025. Presentations: ASSA, Brandeis, Leuven, MIT, Ohio State, Princeton, Stanford."
 
 tags: []
 categories: []
