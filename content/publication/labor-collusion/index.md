@@ -23,7 +23,7 @@ publication_short: ""
 abstract: Coming soon. Title subject to change.
 
 # Summary. An optional shortened abstract.
-summary: "Available to present in 2026. Scheduled: ASSA."
+summary: "Newly available to present in 2026. Scheduled: ASSA."
 
 
 tags: []
