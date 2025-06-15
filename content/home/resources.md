@@ -71,6 +71,7 @@ subtitle = ""
 
 
 ### Events I Organize
+- [Urban Economics Association, North American Meeting, 2025](https://urbaneconomics.org/meetings/uea2025/)
 - [Penn State Trade & Development Seminar, 2022-2024](https://www.bradleysetzler.com/schedules/PSU-Trade-Dev)
 
 
