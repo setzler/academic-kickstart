@@ -70,7 +70,7 @@ subtitle = ""
 - [DiD for Big Data](https://setzler.github.io/DiDforBigData/): fast and big-data-friendly diff-in-diffs in R [![](http://cranlogs.r-pkg.org/badges/grand-total/DiDforBigData?color=blue)](https://cran.r-project.org/package=DiDforBigData)
 
 
-### Events I Organize
+### Event Organization
 - [Urban Economics Association, North American Meeting, 2025](https://urbaneconomics.org/meetings/uea2025/)
 - [Penn State Trade & Development Seminar, 2022-2024](https://www.bradleysetzler.com/schedules/PSU-Trade-Dev)
 
