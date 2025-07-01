@@ -51,7 +51,6 @@ email: ""
 ---
 
 **Appointments:**
-- The Hal Varian Visiting Assistant Professor of Economics, MIT.
 - The Strumpf Early Career Associate Professor of Economics (with tenure), Penn State.
 - Faculty Research Fellow in Labor Studies, NBER.
 
