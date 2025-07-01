@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor of Economics
+role: Associate Professor of Economics
 
 # Organizations/Affiliations
 organizations:
-- name: MIT, Penn State & NBER
+- name: Penn State & NBER
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
