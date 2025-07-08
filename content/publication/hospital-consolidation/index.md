@@ -23,7 +23,7 @@ publication_short: ""
 # abstract: Coming soon. Title subject to change.
 
 # Summary. An optional shortened abstract.
-summary: "Newly available to present in 2025. Presentations: ASSA, Brandeis, Leuven, MIT, Ohio State, Princeton, Stanford."
+summary: "Newly available to present in 2025. Presentations: ASSA, Brandeis, Leuven, Michigan, MIT, Ohio State, Princeton, Stanford, UEA."
 
 tags: []
 categories: []
