@@ -66,7 +66,7 @@ email: ""
 - Labor market power and
 	- its interactions with product market power (see [5](https://www.bradleysetzler.com/files/Kroft-Luo-Mogstad-Setzler.pdf), [7](https://www.bradleysetzler.com/files/Setzler-Mergers.pdf));
     - the role of firms in wage inequality (see [3](https://www.bradleysetzler.com/files/Lamadon-Mogstad-Setzler.pdf), [4](https://www.bradleysetzler.com/files/BHLMM-Setzler.pdf));
-    - mergers and collusion in labor markets (see [7](https://www.bradleysetzler.com/publication/files/Setzler-Mergers.pdf), [8](https://www.bradleysetzler.com/publication/labor-collusion/)).
+    - mergers and collusion in labor markets (see [7](https://www.bradleysetzler.com/files/Setzler-Mergers.pdf), [8](https://www.bradleysetzler.com/publication/labor-collusion/)).
 - Labor market adjustment to
     - local trade exposure (see [6](https://www.bradleysetzler.com/files/Autor-Dorn-Hanson-Jones-Setzler.pdf), [9](https://www.bradleysetzler.com/publication/china-shock-children/));
     - local spillovers from foreign firm entry (see [2](https://www.bradleysetzler.com/files/Setzler-Tintelnot.pdf));
