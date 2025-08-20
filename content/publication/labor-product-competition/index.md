@@ -35,14 +35,14 @@ featured: false
 links:
 - name: AER
   url: https://www.doi.org/10.1257/aer.20220577
+- name: "Appendix"
+  url: "files/KLMS-appendix.pdf"
+  icon_pack: 
+  icon:  
 - name: NBER
   url: https://www.nber.org/papers/w27325
   icon_pack:
   icon:
-- name: "AER Appendix"
-  url: "files/KLMS-appendix.pdf"
-  icon_pack: 
-  icon:  
 - name: Slides
   url: "files/Kroft-Luo-Mogstad-Setzler_slides.pdf"
   icon_pack:

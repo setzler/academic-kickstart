@@ -36,16 +36,16 @@ links:
   url: https://www.doi.org/10.1257/aer.20190790
   icon_pack: 
   icon: 
-- name: NBER
-  url: https://www.nber.org/papers/w25954
-  icon_pack: 
-  icon: 
-- name: "AER Appendix"
+- name: "Appendix"
   url: "files/LMS-appendix.pdf"
   icon_pack: 
   icon:  
 - name: "Supplement: Firm Effects"
   url: "files/LMS-supplement.pdf"
+  icon_pack: 
+  icon: 
+- name: NBER
+  url: https://www.nber.org/papers/w25954
   icon_pack: 
   icon: 
 - name: "Replication Kit"
