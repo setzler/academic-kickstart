@@ -24,7 +24,7 @@ abstract: "This chapter analyzes the distinct adjustment paths of U.S. labor mar
 
 
 # Summary. An optional shortened abstract.
-summary: "**Forthcoming in the <ins>*Handbook of Labor Economics*</ins>.** </br>"
+summary: "**<ins>*Handbook of Labor Economics*</ins>, 2025.** </br>"
 
 
 
