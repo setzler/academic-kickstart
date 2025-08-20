@@ -3,7 +3,7 @@
 
 title: "Imperfect Competition and Rents in Labor and Product Markets: The Case of the Construction Industry"
 authors: [Kory Kroft, Yao Luo, Magne Mogstad, admin]
-date: "2025-01-01T00:00:00Z"
+date: "2025-08-20T00:00:00Z"
 doi: ""
 weight: 9
 
@@ -23,7 +23,7 @@ publication_short: ""
 abstract: "Existing work on imperfect competition typically focuses on either the labor market or the product market in isolation. In contrast, we analyze imperfect competition in both markets jointly, showing theoretically and empirically that focusing on one market in isolation may result in a limited or misleading picture of the degree and impacts of market power. Our empirical setting is the US construction industry. We develop, identify and estimate a model where construction firms imperfectly compete with one another for workers in the labor market and for projects in both the private market and the government market, where government projects are procured through auctions. Our analyses combine the universe of business and worker tax records with newly collected records from government procurement auctions. We use the estimated model to quantify the markdown of wages and the markup of prices, to show that the impacts of an increase in market power in one market are attenuated by the existence of market power in the other market, and to quantify the rents, rent-sharing, and incidence of procurements in the US construction industry."
 
 # Summary. An optional shortened abstract.
-summary: "**Forthcoming in the <ins>*American Economic Review*</ins>.** </br>"
+summary: "**<ins>*American Economic Review*</ins>, 2025**."
 
 tags: []
 categories: []
@@ -33,16 +33,18 @@ featured: false
 #   Uncomment and edit lines below to show custom links. My presentations: NBER SI-Labor, MIT, NBER IO, UBC, LSE, Stanford-SITE, Cornell, Maryland, Columbia Business School, U of Oslo, Federal Reserve Board, Carnegie Mellon/Pittsburgh, UChicago, BI Norwegian Business School, Penn State, CESifo, UToronto/Bank of Canada, Texas A&M, Wisconsin, Duke, Queen's U, Boston College.
 
 links:
+- name: AER
+  url: https://www.doi.org/10.1257/aer.20220577
 - name: NBER
   url: https://www.nber.org/papers/w27325
   icon_pack:
   icon:
+- name: "AER Appendix"
+  url: "files/KLMS-appendix.pdf"
+  icon_pack: 
+  icon:  
 - name: Slides
   url: "files/Kroft-Luo-Mogstad-Setzler_slides.pdf"
-  icon_pack:
-  icon:
-- name: "In Card's Nobel Prize citation"
-  url: "files/Card_Nobel-Citation.pdf"
   icon_pack:
   icon:
 

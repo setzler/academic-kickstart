@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Labor and Product Market Power, Quality of Care, and the Consolidation of the US Hospital Industry"
+title: "Labor and Product Market Power, Endogenous Quality, and the Consolidation of the US Hospital Industry"
 authors: [admin]
-date: "2025-06-01T00:00:00Z"
+date: "2025-08-20T00:00:00Z"
 doi: ""
 weight: 1
 
@@ -14,16 +14,16 @@ publishDate: "2023-09-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
 publication_short: ""
 
-# abstract: Coming soon. Title subject to change.
+abstract: Existing structural analyses of the harmful effects of market consolidation focus on either labor or product markets in isolation. This paper develops a unified framework for merger evaluation in which firms exercise both oligopoly and oligopsony power, finding that they amplify each other's harmful effects on workers and consumers. The model allows firms to endogenously choose product quality, and shows how labor market power distorts quality provision. I test and quantify the model predictions for the recent consolidation of the US hospital industry. With panel data on all US hospitals from 1996-2022, I estimate a difference-in-differences design for nearly 150 high-concentration within-market mergers. Mergers reduce patient volume, increase prices, reduce employment, lower wages, and deteriorate quality of care, resulting in higher patient mortality. After recovering the structural parameters, the estimated model replicates observed merger impacts. Counterfactual exercises reveal that ignoring increased labor (product) concentration would under-predict harm to consumers (workers).
 
 # Summary. An optional shortened abstract.
-summary: "Newly available to present in 2025. Presentations: ASSA, Brandeis, Leuven, Michigan, MIT, Ohio State, Princeton, Stanford, UEA."
+summary: "Newly available to present in 2025. Presentations: ASSA, Brandeis, Leuven, Michigan, MIT, Ohio State, Princeton, Stanford, UEA. *Working paper now available to download.*"
 
 tags: []
 categories: []
@@ -33,7 +33,7 @@ featured: false
 #   Uncomment and edit lines below to show custom links.
 
 links: 
-url_pdf: 
+url_pdf: "files/Setzler-Mergers.pdf"
 url_code:
 url_dataset:
 url_poster:
