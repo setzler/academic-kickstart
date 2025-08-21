@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Conduct and Collusion in the U.S. Labor Market"
+title: "Conduct in US Labor Markets"
 authors: [Michael Rubens, admin, Chen Yeh]
 date: "2025-06-01T00:00:00Z"
 doi: ""
