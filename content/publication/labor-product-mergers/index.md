@@ -33,6 +33,10 @@ featured: false
 #   Uncomment and edit lines below to show custom links.
 
 links: 
+- name: Slides
+  url: "files/Setzler-Mergers_slides.pdf"
+  icon_pack:
+  icon:
 url_pdf: "files/Setzler-Mergers.pdf"
 url_code:
 url_dataset:
