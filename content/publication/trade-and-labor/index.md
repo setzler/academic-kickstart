@@ -36,6 +36,14 @@ featured: false
 #   Uncomment and edit lines below to show custom links. My presentations: Carnegie Mellon, Oslo Labor Workshop. Scheduled: Boston University.
 
 links: 
+- name: Handbook of Labor Economics
+  url: https://www.sciencedirect.com/handbook/handbook-of-labor-economics/vol/6/
+  icon_pack: 
+  icon: 
+- name: Slides
+  url: "files/ADHJS_slides.pdf"
+  icon_pack:
+  icon:
 - name: NBER 
   url: https://www.nber.org/papers/w33424
   icon_pack:
