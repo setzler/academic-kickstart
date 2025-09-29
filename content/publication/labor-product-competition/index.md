@@ -5,7 +5,7 @@ title: "Imperfect Competition and Rents in Labor and Product Markets: The Case o
 authors: [Kory Kroft, Yao Luo, Magne Mogstad, admin]
 date: "2025-08-20T00:00:00Z"
 doi: ""
-weight: 9
+weight: 10
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-08-07T00:00:00Z"

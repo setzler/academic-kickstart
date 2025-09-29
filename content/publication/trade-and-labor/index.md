@@ -2,10 +2,10 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Places vs People: The Ins and Outs of Labor Market Adjustment to Globalization"
-authors: [David Autor, David Dorn, Gordon Hanson, Maggie Jones, admin]
+authors: [David Autor, David Dorn, Gordon Hanson, Maggie R. Jones, admin]
 date: "2025-02-01T00:00:00Z"
 doi: ""
-weight: 10
+weight: 9
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-08-07T00:00:00Z"
