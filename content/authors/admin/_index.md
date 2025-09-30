@@ -52,7 +52,7 @@ email: ""
 
 **Appointments:**
 - The Strumpf Early Career Associate Professor of Economics (with tenure), Penn State.
-- Faculty Research Fellow in Labor Studies, NBER.
+- Research Associate in Labor Studies, NBER.
 
 **Links:** {{% staticref "#publication" %}}Research{{% /staticref %}} | {{% staticref "files/SetzlerCV.pdf" %}}CV{{% /staticref %}} | bradley.setzler@gmail.com
 
