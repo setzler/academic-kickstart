@@ -3,7 +3,7 @@
 
 title: "Conduct in US Labor Markets"
 authors: [Michael Rubens, admin, Chen Yeh]
-date: "2025-06-01T00:00:00Z"
+date: "2025-10-01T00:00:00Z"
 doi: ""
 weight: 11
 

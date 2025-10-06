@@ -3,7 +3,7 @@
 
 title: "Labor and Product Market Power, Endogenous Quality, and the Consolidation of the US Hospital Industry"
 authors: [admin]
-date: "2025-08-20T00:00:00Z"
+date: "2025-10-20T00:00:00Z"
 doi: ""
 weight: 1
 

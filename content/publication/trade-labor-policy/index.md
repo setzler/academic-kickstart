@@ -5,7 +5,7 @@ title: "What Policies Can Attenuate the Negative Impacts of Trade Shocks on Loca
 authors: [Daniel Haanwinckel, admin]
 date: "2025-10-01T00:00:00Z"
 doi: ""
-weight: 12
+weight: 13
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-08-07T00:00:00Z"

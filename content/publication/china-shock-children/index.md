@@ -3,7 +3,7 @@
 
 title: "The Children of the China Shock"
 authors: [David Autor, David Dorn, Gordon Hanson, Maggie R. Jones, admin]
-date: "2025-06-01T00:00:00Z"
+date: "2025-10-01T00:00:00Z"
 doi: ""
 weight: 12
 
