@@ -33,26 +33,10 @@ categories: []
 featured: false
 
 # Custom links (optional).
-#   Uncomment and edit lines below to show custom links. My presentations: Carnegie Mellon, Oslo Labor Workshop. Scheduled: Boston University.
+#   Uncomment and edit lines below to show custom links.  
 
-links: 
-- name: Handbook of Labor Economics
-  url: https://www.sciencedirect.com/handbook/handbook-of-labor-economics/vol/6/
-  icon_pack: 
-  icon: 
-- name: Slides
-  url: "files/ADHJS_slides.pdf"
-  icon_pack:
-  icon:
-- name: NBER 
-  url: https://www.nber.org/papers/w33424
-  icon_pack:
-  icon:
-- name: Wall Street Journal
-  url: https://www.wsj.com/economy/us-manufacturing-jobs-china-shock-78e06c83?st=Bhc8w5&reflink=desktopwebshare_permalink
-  icon_pack:
-  icon:
-url_pdf: "files/Autor-Dorn-Hanson-Jones-Setzler.pdf"
+links:  
+url_pdf:  
 url_code:
 url_dataset:
 url_poster:
