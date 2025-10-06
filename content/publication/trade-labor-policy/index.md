@@ -3,7 +3,7 @@
 
 title: "What Policies Can Attenuate the Negative Impacts of Trade Shocks on Local Labor Markets?"
 authors: [Daniel Haanwinckel, admin]
-date: "2025-02-01T00:00:00Z"
+date: "2025-10-01T00:00:00Z"
 doi: ""
 weight: 12
 
