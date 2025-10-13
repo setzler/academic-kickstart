@@ -37,6 +37,10 @@ links:
   url: "files/Setzler-Mergers_slides.pdf"
   icon_pack:
   icon:
+- name: NBER 
+  url: https://www.nber.org/papers/w34180
+  icon_pack:
+  icon:
 url_pdf: "files/Setzler-Mergers.pdf"
 url_code:
 url_dataset:
