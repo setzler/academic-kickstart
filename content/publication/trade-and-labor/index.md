@@ -3,7 +3,7 @@
 
 title: "Places vs People: The Ins and Outs of Labor Market Adjustment to Globalization"
 authors: [David Autor, David Dorn, Gordon Hanson, Maggie R. Jones, admin]
-date: "2025-02-01T00:00:00Z"
+date: "2025-09-01T00:00:00Z"
 doi: ""
 weight: 9
 
