@@ -67,9 +67,10 @@ email: ""
 	- its interactions with product market power (see [5](https://www.bradleysetzler.com/files/Kroft-Luo-Mogstad-Setzler.pdf), [7](https://www.bradleysetzler.com/files/Setzler-Mergers.pdf));
     - the role of firms in wage inequality (see [3](https://www.bradleysetzler.com/files/Lamadon-Mogstad-Setzler.pdf), [4](https://www.bradleysetzler.com/files/BHLMM-Setzler.pdf));
     - mergers, collusion, and conduct in labor markets (see [7](https://www.bradleysetzler.com/files/Setzler-Mergers.pdf), [8](https://www.bradleysetzler.com/publication/labor-conduct/)).
-- Labor market adjustment to
-    - local trade exposure (see [6](https://www.bradleysetzler.com/files/Autor-Dorn-Hanson-Jones-Setzler.pdf), [9](https://www.bradleysetzler.com/publication/china-shock-children/), [10](https://www.bradleysetzler.com/publication/trade-labor-policy/), [11](https://www.bradleysetzler.com/publication/local-structural-change/));
-    - local spillovers from foreign firm entry (see [2](https://www.bradleysetzler.com/files/Setzler-Tintelnot.pdf));
+- Local labor market adjustment to
+    - trade exposure (see [6](https://www.bradleysetzler.com/files/Autor-Dorn-Hanson-Jones-Setzler.pdf), [9](https://www.bradleysetzler.com/publication/china-shock-children/), [10](https://www.bradleysetzler.com/publication/trade-labor-policy/), [11](https://www.bradleysetzler.com/publication/local-structural-change/));
+    - automation and technology exposure [11](https://www.bradleysetzler.com/publication/local-structural-change/);
+    - foreign firm entry (see [2](https://www.bradleysetzler.com/files/Setzler-Tintelnot.pdf));
     - worker-specific productivity shocks (see [1](https://www.bradleysetzler.com/files/Autor-Kostol-Mogstad-Setzler.pdf)).
 
 Note: the numbers are links to my relevant papers, ordered chronologically.
