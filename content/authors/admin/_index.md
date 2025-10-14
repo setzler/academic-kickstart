@@ -69,7 +69,7 @@ email: ""
     - mergers, collusion, and conduct in labor markets (see [7](https://www.bradleysetzler.com/files/Setzler-Mergers.pdf), [8](https://www.bradleysetzler.com/publication/labor-conduct/)).
 - Local labor market adjustment to
     - trade exposure (see [6](https://www.bradleysetzler.com/files/Autor-Dorn-Hanson-Jones-Setzler.pdf), [9](https://www.bradleysetzler.com/publication/china-shock-children/), [10](https://www.bradleysetzler.com/publication/trade-labor-policy/), [11](https://www.bradleysetzler.com/publication/local-structural-change/));
-    - automation and technology exposure ([11](https://www.bradleysetzler.com/publication/local-structural-change/));
+    - automation and technology exposure (see [11](https://www.bradleysetzler.com/publication/local-structural-change/));
     - foreign firm entry (see [2](https://www.bradleysetzler.com/files/Setzler-Tintelnot.pdf));
     - worker-specific productivity shocks (see [1](https://www.bradleysetzler.com/files/Autor-Kostol-Mogstad-Setzler.pdf)).
 
