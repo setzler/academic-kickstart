@@ -70,8 +70,8 @@ email: ""
 - Local labor market adjustment to
     - trade exposure (see [6](https://www.bradleysetzler.com/files/Autor-Dorn-Hanson-Jones-Setzler.pdf), [9](https://www.bradleysetzler.com/publication/china-shock-children/), [10](https://www.bradleysetzler.com/publication/trade-labor-policy/), [11](https://www.bradleysetzler.com/publication/local-structural-change/));
     - automation and technology exposure (see [11](https://www.bradleysetzler.com/publication/local-structural-change/));
-    - foreign firm entry (see [2](https://www.bradleysetzler.com/files/Setzler-Tintelnot.pdf));
-    - worker-specific productivity shocks (see [1](https://www.bradleysetzler.com/files/Autor-Kostol-Mogstad-Setzler.pdf)).
+    - job creation by foreign-owned plants (see [2](https://www.bradleysetzler.com/files/Setzler-Tintelnot.pdf));
+    - health shocks (see [1](https://www.bradleysetzler.com/files/Autor-Kostol-Mogstad-Setzler.pdf)).
 
 Note: the numbers are links to my relevant papers, ordered chronologically.
 
