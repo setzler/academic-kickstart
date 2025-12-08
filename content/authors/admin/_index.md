@@ -59,7 +59,7 @@ email: ""
 
 **Fields:** 
 - Primary: Labor Economics, Applied Micro
-- Secondary: Industrial Organization, Trade and Spatial Economics
+- Secondary: Industrial Organization, Spatial and Trade Economics
 
  
 **Topics of Interest:**
