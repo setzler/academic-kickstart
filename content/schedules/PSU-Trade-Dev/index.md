@@ -126,9 +126,11 @@ url_video: ''
 **Seminar Attendees:** A large number of current faculty at Penn State work in trade and/or development, including:
 
 - Maria-Jose Carreras-Valle 
+- Jonathan Eaton
 - Jingting Fan
 - Suela Kim
 - Kala Krishna
+- Fernando Parro
 - Bee-Yan Roberts
 - Mark Roberts
 - Bradley Setzler
