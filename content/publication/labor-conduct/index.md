@@ -23,7 +23,7 @@ publication_short: ""
 # abstract: Coming soon. 
 
 # Summary. An optional shortened abstract.
-summary: "Newly available to present in 2026. Scheduled: ASSA, Tilburg. *Submitted for US Census disclosure review.*"
+summary: "Newly available to present in 2026. Scheduled: ASSA, Tilburg. *Approved for Disclosure by US Census Bureau.*"
 
 
 tags: []
