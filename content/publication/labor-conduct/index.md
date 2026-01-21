@@ -23,7 +23,7 @@ publication_short: ""
 # abstract: Coming soon. 
 
 # Summary. An optional shortened abstract.
-summary: "Newly available to present in 2026. Scheduled: ASSA, Tilburg, Oslo. *Preliminary draft now available to present.*"
+summary: "Newly available to present in 2026. Scheduled: ASSA, Oslo, Tilburg. *Preliminary draft now available to present.*"
 
 
 tags: []
