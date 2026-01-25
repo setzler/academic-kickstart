@@ -47,9 +47,12 @@ subtitle = ""
  css_class = ""
 +++
 
-------------
+
 
 <!--
+
+------------
+
 ### Advice
 
 - [Letters of Recommendation](https://www.bradleysetzler.com/advice/LettersOfRec) (for undergraduates)
@@ -68,9 +71,14 @@ subtitle = ""
 - [Urban Economics Association, North American Meeting, 2025](https://urbaneconomics.org/meetings/uea2025/)
 - [Penn State Trade & Development Seminar, 2022-2024](https://www.bradleysetzler.com/schedules/PSU-Trade-Dev)
 
+
+
+----------------
+
 -->
+
 
 Disclaimer: Materials provided are for Educational Use Only. All articles are the sole copyright of their respective publishers.
 
 
-----------------
+
