@@ -2,10 +2,10 @@
 
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 86  # Order that this section will appear.
 
-title = "Resources"
+title = ""
 subtitle = ""
 
 [design]
@@ -49,7 +49,7 @@ subtitle = ""
 
 ------------
 
-
+<!--
 ### Advice
 
 - [Letters of Recommendation](https://www.bradleysetzler.com/advice/LettersOfRec) (for undergraduates)
@@ -68,7 +68,7 @@ subtitle = ""
 - [Urban Economics Association, North American Meeting, 2025](https://urbaneconomics.org/meetings/uea2025/)
 - [Penn State Trade & Development Seminar, 2022-2024](https://www.bradleysetzler.com/schedules/PSU-Trade-Dev)
 
-
+-->
 
 Disclaimer: Materials provided are for Educational Use Only. All articles are the sole copyright of their respective publishers.
 
