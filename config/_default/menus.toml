@@ -18,10 +18,10 @@
   url = "files/SetzlerCV.pdf"
   weight = 25
 
-[[main]]
-  name = "Resources"
-  url = "#resources"
-  weight = 30
+#   [[main]]
+#     name = "Resources"
+#     url = "#resources"
+#     weight = 30
 
 
 
