@@ -74,6 +74,6 @@ email: ""
 
 Note: the numbers are links to my relevant papers, ordered chronologically.
 
-My full Research Statement is available [here](https://www.bradleysetzler.com/files/Setzler-Research/).
+My full Research Statement is available [here](https://www.bradleysetzler.com/files/Setzler-Research.pdf).
 
 -------
