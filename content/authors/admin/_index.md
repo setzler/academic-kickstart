@@ -69,9 +69,11 @@ email: ""
     - the role of firms in wage inequality (see [3](https://www.bradleysetzler.com/files/Lamadon-Mogstad-Setzler.pdf), [4](https://www.bradleysetzler.com/files/BHLMM-Setzler.pdf)).
 - Local labor market adjustment to
     - trade and automation exposure (see [6](https://www.bradleysetzler.com/files/Autor-Dorn-Hanson-Jones-Setzler.pdf), [9](https://www.bradleysetzler.com/publication/china-shock-children/), [10](https://www.bradleysetzler.com/publication/trade-labor-policy/), [11](https://www.bradleysetzler.com/publication/local-structural-change/)); 
-    - job creation from foreign investment (see [2](https://www.bradleysetzler.com/files/Setzler-Tintelnot.pdf));
+    - job creation by foreign firms (see [2](https://www.bradleysetzler.com/files/Setzler-Tintelnot.pdf));
     - worker-level health shocks (see [1](https://www.bradleysetzler.com/files/Autor-Kostol-Mogstad-Setzler.pdf)).
 
 Note: the numbers are links to my relevant papers, ordered chronologically.
+
+My full Research Statement is available [here](https://www.bradleysetzler.com/files/Setzler-Research/).
 
 -------
