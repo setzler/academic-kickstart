@@ -52,6 +52,10 @@ links:
   url: https://www.wsj.com/economy/us-manufacturing-jobs-china-shock-78e06c83?st=Bhc8w5&reflink=desktopwebshare_permalink
   icon_pack:
   icon:
+- name: New York Times
+  url: https://www.nytimes.com/2026/04/20/opinion/america-manufacturing-recovery-china.html
+  icon_pack:
+  icon:
 url_pdf: "files/Autor-Dorn-Hanson-Jones-Setzler.pdf"
 url_code:
 url_dataset:
