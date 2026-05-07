@@ -74,6 +74,11 @@ email: ""
 
 Note: the numbers are links to my relevant papers, ordered chronologically.
 
-My full Research Statement is available [here](https://www.bradleysetzler.com/files/Setzler-Research.pdf).
+**Professional Links:**
+- {{% staticref "files/SetzlerCV.pdf" %}}Curriculum Vitae{{% /staticref %}}
+- {{% staticref "files/Setzler-Research.pdf" %}}Research Statement{{% /staticref %}}
+- {{% staticref "files/Setzler_undergraduate_reviews.pdf" %}}Teaching Reviews from Undergraduate Students{{% /staticref %}}
+
+
 
 -------
