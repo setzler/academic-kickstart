@@ -50,18 +50,14 @@ email: ""
 # - Visitors
 ---
 
-**Appointments:**
+**Current Appointments:**
 - The Strumpf Early Career Associate Professor of Economics (with tenure), Penn State.
 - Research Associate in Labor Studies, NBER.
-
-**Links:** {{% staticref "#publication" %}}Research{{% /staticref %}} | {{% staticref "files/SetzlerCV.pdf" %}}CV{{% /staticref %}} | bradley.setzler@gmail.com
-
 
 **Fields:** 
 - Primary: Labor Economics, Applied Micro
 - Secondary: Industrial Organization, Spatial and Trade Economics
 
- 
 **Topics of Interest:**
 - Labor market power and
     - mergers, collusion, and conduct in labor markets (see [7](https://www.bradleysetzler.com/files/Setzler-Mergers.pdf), [8](https://www.bradleysetzler.com/publication/labor-conduct/));
@@ -76,8 +72,10 @@ Note: the numbers are links to my relevant papers, ordered chronologically.
 
 **Professional Links:**
 - {{% staticref "files/SetzlerCV.pdf" %}}Curriculum Vitae{{% /staticref %}}
+- {{% staticref "#publication" %}}Papers{{% /staticref %}}
 - {{% staticref "files/Setzler-Research.pdf" %}}Research Statement{{% /staticref %}}
 - {{% staticref "files/Setzler_undergraduate_reviews.pdf" %}}Teaching Reviews from Undergraduate Students{{% /staticref %}}
+- Email: bradley.setzler@gmail.com
 
 
 
