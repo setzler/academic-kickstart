@@ -14,7 +14,7 @@ role: Associate Professor of Economics
 
 # Organizations/Affiliations
 organizations:
-- name: Penn State & NBER
+- name: Ohio State & NBER
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -51,7 +51,7 @@ email: ""
 ---
 
 **Current Appointments:**
-- The Strumpf Early Career Associate Professor of Economics (with tenure), Penn State.
+- Associate Professor of Economics (with tenure), Ohio State.
 - Research Associate in Labor Studies, NBER.
 
 **Fields:** 
