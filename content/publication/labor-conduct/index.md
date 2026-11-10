@@ -23,7 +23,7 @@ publication_short: ""
 # abstract: Coming soon. 
 
 # Summary. An optional shortened abstract.
-summary: "Newly available to present in 2026. Scheduled: ASSA, Minnesota Fed, Oslo Labor Workshop, U of Oslo, Stanford SITE, Tilburg. *Preliminary draft now available to present.*"
+summary: "Newly available to present in 2026. Presentations: ASSA, Berkeley, Minneapolis Fed, Oslo Labor Workshop, U of Oslo, Stanford SITE, Tilburg. *Preliminary draft now available to present; working paper expected by December 2026.*"
 
 
 tags: []

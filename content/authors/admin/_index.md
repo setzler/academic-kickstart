@@ -62,9 +62,9 @@ email: ""
 - Labor market power and
     - mergers, collusion, and conduct in labor markets (see [7](https://www.bradleysetzler.com/files/Setzler-Mergers.pdf), [8](https://www.bradleysetzler.com/publication/labor-conduct/));
 	- its interactions with product market power (see [5](https://www.bradleysetzler.com/files/Kroft-Luo-Mogstad-Setzler.pdf), [7](https://www.bradleysetzler.com/files/Setzler-Mergers.pdf));
-    - the role of firms in wage inequality (see [3](https://www.bradleysetzler.com/files/Lamadon-Mogstad-Setzler.pdf), [4](https://www.bradleysetzler.com/files/BHLMM-Setzler.pdf)).
+    - worker sorting to firms and job amenities (see [3](https://www.bradleysetzler.com/files/Lamadon-Mogstad-Setzler.pdf), [4](https://www.bradleysetzler.com/files/BHLMM-Setzler.pdf), [9](https://www.bradleysetzler.com/publication/labor-preferences/)).
 - Local labor market adjustment to
-    - trade exposure (see [6](https://www.bradleysetzler.com/files/Autor-Dorn-Hanson-Jones-Setzler.pdf), [9](https://www.bradleysetzler.com/publication/china-shock-children/), [10](https://www.bradleysetzler.com/publication/trade-labor-policy/), [11](https://www.bradleysetzler.com/publication/local-structural-change/)); 
+    - trade exposure (see [6](https://www.bradleysetzler.com/files/Autor-Dorn-Hanson-Jones-Setzler.pdf), [10](https://www.bradleysetzler.com/publication/china-shock-children/), [11](https://www.bradleysetzler.com/publication/trade-labor-policy/), [12](https://www.bradleysetzler.com/publication/local-structural-change/)); 
     - job creation by foreign firms (see [2](https://www.bradleysetzler.com/files/Setzler-Tintelnot.pdf));
     - worker-level health shocks (see [1](https://www.bradleysetzler.com/files/Autor-Kostol-Mogstad-Setzler.pdf)).
 
