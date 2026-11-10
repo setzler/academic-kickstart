@@ -3,9 +3,9 @@
 
 title: "Conduct in US Labor Markets"
 authors: [Michael Rubens, admin, Chen Yeh]
-date: "2026-06-01T00:00:00Z"
+date: "2026-11-01T00:00:00Z"
 doi: ""
-weight: 11
+weight: 10
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-09-01T00:00:00Z"
@@ -23,7 +23,7 @@ publication_short: ""
 # abstract: Coming soon. 
 
 # Summary. An optional shortened abstract.
-summary: "Newly available to present in 2026. Presentations: ASSA, Berkeley, Minneapolis Fed, Oslo Labor Workshop, U of Oslo, Stanford SITE, Tilburg. *Preliminary draft now available to present; working paper expected by December 2026.*"
+summary: "Newly available to present in 2026. Presentations: ASSA, Berkeley, Minneapolis Fed, Oslo Labor Workshop, U of Oslo, Stanford SITE, Tilburg. *Working paper expected by December 2026.*"
 
 
 tags: []
