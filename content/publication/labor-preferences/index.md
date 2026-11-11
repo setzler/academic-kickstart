@@ -3,7 +3,7 @@
 
 title: "Rivalry in the Labor Market: Recovering Competitive Structure under Heterogeneous Worker Preferences"
 authors: [Manudeep Bhuller, Joris Pinkse, admin]
-date: "2026-11-01T00:00:00Z"
+date: "2026-11-02T00:00:00Z"
 doi: ""
 weight: 11
 
