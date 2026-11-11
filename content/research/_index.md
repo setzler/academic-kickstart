@@ -1,5 +1,5 @@
 ---
-title: Working Papers
+title: In Progress: Labor Market Power
 
 # View.
 #   1 = List
