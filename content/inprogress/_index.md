@@ -1,5 +1,5 @@
 ---
-title: In Progress: Labor Market Adjustment
+title: In Progress Labor Market Adjustment
 
 # View.
 #   1 = List
